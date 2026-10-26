@@ -1,0 +1,200 @@
+{
+  "cold": {
+    "totalCLS": 0.1981,
+    "shifts": [
+      {
+        "value": 0.0379578989193518,
+        "time": 661,
+        "sources": [
+          {
+            "nodeName": "SECTION",
+            "className": "relative overflow-hidden min-h-[92vh] flex flex-col justify-end",
+            "id": "",
+            "previousRect": {
+              "x": 0,
+              "y": 112,
+              "w": 390,
+              "h": 732
+            },
+            "currentRect": {
+              "x": 0,
+              "y": 115,
+              "w": 390,
+              "h": 729
+            }
+          },
+          {
+            "nodeName": "NAV",
+            "className": "header-navigation-row border-t border-slate-200/70 pt-1.5 pb-2",
+            "id": "",
+            "previousRect": {
+              "x": 12,
+              "y": 60,
+              "w": 366,
+              "h": 45
+            },
+            "currentRect": {
+              "x": 12,
+              "y": 63,
+              "w": 366,
+              "h": 45
+            }
+          }
+        ]
+      },
+      {
+        "value": 0.16011260601360552,
+        "time": 824,
+        "sources": [
+          {
+            "nodeName": "DIV",
+            "className": "relative z-10 rounded-[28px] overflow-hidden border border-white/40 shadow-[0_30px_80px_rgba(7,29,67,0.35)] bg-[#123056]",
+            "id": "",
+            "previousRect": {
+              "x": 0,
+              "y": 566,
+              "w": 390,
+              "h": 278
+            },
+            "currentRect": {
+              "x": 0,
+              "y": 480,
+              "w": 390,
+              "h": 364
+            }
+          },
+          {
+            "nodeName": "DIV",
+            "className": "flex flex-wrap items-center gap-3.5 pt-1",
+            "id": "",
+            "previousRect": {
+              "x": 8,
+              "y": 483,
+              "w": 366,
+              "h": 128
+            },
+            "currentRect": {
+              "x": 8,
+              "y": 425,
+              "w": 366,
+              "h": 128
+            }
+          },
+          {
+            "nodeName": "P",
+            "className": "text-base sm:text-lg text-white/90 font-sans leading-relaxed max-w-xl",
+            "id": "",
+            "previousRect": {
+              "x": 15,
+              "y": 410,
+              "w": 359,
+              "h": 53
+            },
+            "currentRect": {
+              "x": 15,
+              "y": 353,
+              "w": 359,
+              "h": 52
+            }
+          },
+          {
+            "nodeName": "BUTTON",
+            "className": "relative inline-flex items-center gap-2.5 px-7 py-3.5 bg-white text-[#071D43] text-sm sm:text-[15px] font-bold rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 cursor-pointer group overflow-hidden focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white",
+            "id": "",
+            "previousRect": {
+              "x": 0,
+              "y": 477,
+              "w": 214,
+              "h": 88
+            },
+            "currentRect": {
+              "x": 0,
+              "y": 419,
+              "w": 210,
+              "h": 88
+            }
+          },
+          {
+            "nodeName": "DIV",
+            "className": "flex items-center gap-1.5 sm:gap-2.5 shrink-0",
+            "id": "",
+            "previousRect": {
+              "x": 237,
+              "y": 16,
+              "w": 141,
+              "h": 39
+            },
+            "currentRect": {
+              "x": 240,
+              "y": 16,
+              "w": 138,
+              "h": 39
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "warm": {
+    "totalCLS": 0.2442,
+    "shifts": [
+      {
+        "value": 0.24417640887759537,
+        "time": 862,
+        "sources": [
+          {
+            "nodeName": "SECTION",
+            "className": "relative overflow-hidden min-h-[92vh] flex flex-col justify-end",
+            "id": "",
+            "previousRect": {
+              "x": 0,
+              "y": 112,
+              "w": 390,
+              "h": 732
+            },
+            "currentRect": {
+              "x": 0,
+              "y": 115,
+              "w": 390,
+              "h": 729
+            }
+          },
+          {
+            "nodeName": "NAV",
+            "className": "header-navigation-row border-t border-slate-200/70 pt-1.5 pb-2",
+            "id": "",
+            "previousRect": {
+              "x": 12,
+              "y": 60,
+              "w": 366,
+              "h": 45
+            },
+            "currentRect": {
+              "x": 12,
+              "y": 63,
+              "w": 366,
+              "h": 45
+            }
+          },
+          {
+            "nodeName": "DIV",
+            "className": "flex items-center gap-1.5 sm:gap-2.5 shrink-0",
+            "id": "",
+            "previousRect": {
+              "x": 237,
+              "y": 14,
+              "w": 141,
+              "h": 39
+            },
+            "currentRect": {
+              "x": 240,
+              "y": 16,
+              "w": 138,
+              "h": 39
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

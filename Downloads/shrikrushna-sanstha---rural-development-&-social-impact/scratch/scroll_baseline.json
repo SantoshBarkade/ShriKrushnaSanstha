@@ -1,0 +1,57 @@
+{
+  "homeScrollStats": {
+    "totalFrames": 36,
+    "slowFrames": 18,
+    "droppedFrames": 10,
+    "avgFps": 16.4,
+    "longTasksCount": 8,
+    "longTasks": [
+      {
+        "duration": 64,
+        "startTime": 208
+      },
+      {
+        "duration": 76,
+        "startTime": 275
+      },
+      {
+        "duration": 541,
+        "startTime": 351
+      },
+      {
+        "duration": 576,
+        "startTime": 908
+      },
+      {
+        "duration": 321,
+        "startTime": 1601
+      },
+      {
+        "duration": 107,
+        "startTime": 2394
+      },
+      {
+        "duration": 314,
+        "startTime": 2716
+      },
+      {
+        "duration": 699,
+        "startTime": 3031
+      }
+    ],
+    "layoutShiftsCount": 4,
+    "totalCls": 0.005
+  },
+  "aboutScrollStats": {
+    "totalFrames": 45,
+    "slowFrames": 0,
+    "droppedFrames": 0,
+    "avgFps": 60.1
+  },
+  "initiativesScrollStats": {
+    "totalFrames": 44,
+    "slowFrames": 0,
+    "droppedFrames": 0,
+    "avgFps": 60.1
+  }
+}

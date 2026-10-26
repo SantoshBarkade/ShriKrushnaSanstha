@@ -1,0 +1,122 @@
+{
+  "viewports": [
+    {
+      "viewport": "initiatives_1440_desktop.png",
+      "scrollWidth": 1425,
+      "clientWidth": 1425,
+      "hasHorizontalOverflow": false,
+      "cardsCount": 11,
+      "brokenImagesCount": 0
+    },
+    {
+      "viewport": "initiatives_1280_laptop.png",
+      "scrollWidth": 1265,
+      "clientWidth": 1265,
+      "hasHorizontalOverflow": false,
+      "cardsCount": 11,
+      "brokenImagesCount": 0
+    },
+    {
+      "viewport": "initiatives_768_tablet.png",
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "hasHorizontalOverflow": false,
+      "cardsCount": 11,
+      "brokenImagesCount": 0
+    },
+    {
+      "viewport": "initiatives_390_mobile.png",
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "hasHorizontalOverflow": false,
+      "cardsCount": 11,
+      "brokenImagesCount": 0
+    },
+    {
+      "viewport": "initiatives_360_mobile.png",
+      "scrollWidth": 360,
+      "clientWidth": 360,
+      "hasHorizontalOverflow": false,
+      "cardsCount": 11,
+      "brokenImagesCount": 0
+    }
+  ],
+  "modalBoundingTests": [
+    {
+      "viewport": "initiatives_1440_desktop.png",
+      "viewportHeight": 900,
+      "modalTop": 38,
+      "modalBottom": 862,
+      "modalHeight": 823,
+      "isTopClipped": false,
+      "isBottomClipped": false,
+      "isOverflowingViewport": false,
+      "closeBtnTop": 51,
+      "closeBtnVisible": true
+    },
+    {
+      "viewport": "initiatives_1280_laptop.png",
+      "viewportHeight": 800,
+      "modalTop": 24,
+      "modalBottom": 776,
+      "modalHeight": 752,
+      "isTopClipped": false,
+      "isBottomClipped": false,
+      "isOverflowingViewport": false,
+      "closeBtnTop": 37,
+      "closeBtnVisible": true
+    },
+    {
+      "viewport": "initiatives_768_tablet.png",
+      "viewportHeight": 1024,
+      "modalTop": 100,
+      "modalBottom": 924,
+      "modalHeight": 823,
+      "isTopClipped": false,
+      "isBottomClipped": false,
+      "isOverflowingViewport": false,
+      "closeBtnTop": 113,
+      "closeBtnVisible": true
+    },
+    {
+      "viewport": "initiatives_390_mobile.png",
+      "viewportHeight": 844,
+      "modalTop": 60,
+      "modalBottom": 784,
+      "modalHeight": 725,
+      "isTopClipped": false,
+      "isBottomClipped": false,
+      "isOverflowingViewport": false,
+      "closeBtnTop": 73,
+      "closeBtnVisible": true
+    },
+    {
+      "viewport": "initiatives_360_mobile.png",
+      "viewportHeight": 640,
+      "modalTop": 8,
+      "modalBottom": 632,
+      "modalHeight": 624,
+      "isTopClipped": false,
+      "isBottomClipped": false,
+      "isOverflowingViewport": false,
+      "closeBtnTop": 21,
+      "closeBtnVisible": true
+    }
+  ],
+  "desktopPerf": {
+    "totalFrames": 60,
+    "avgFps": 60,
+    "avgFrameTimeMs": 16.67,
+    "longFramesCount": 0,
+    "cls": 0
+  },
+  "mobilePerf4x": {
+    "totalFrames": 80,
+    "avgFps": 54.5,
+    "avgFrameTimeMs": 18.33,
+    "longFramesCount": 3,
+    "cls": 0
+  },
+  "consoleErrors": [],
+  "networkErrors": []
+}

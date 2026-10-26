@@ -1,0 +1,62 @@
+{
+  "viewports": [
+    {
+      "viewport": "contact_1440_desktop.png"
+    },
+    {
+      "viewport": "contact_1280_laptop.png"
+    },
+    {
+      "viewport": "contact_768_tablet.png"
+    },
+    {
+      "viewport": "contact_390_mobile.png"
+    },
+    {
+      "viewport": "contact_360_mobile.png"
+    }
+  ],
+  "linksAudit": {
+    "phoneHref": "tel:+919923512482",
+    "phoneText": "+91 9923512482",
+    "isTelLink": true,
+    "emailHref": "mailto:shrikrushnasanstha.nadarpur@gmail.com",
+    "emailText": "shrikrushnasanstha.nadarpur@gmail.com",
+    "isMailtoLink": true,
+    "mapHref": "https://www.google.com/maps/search/?api=1&query=Nadarpur+Kannad+Chhatrapati+Sambhajinagar",
+    "mapTargetBlank": true
+  },
+  "formValidationAudit": {
+    "formPresent": true,
+    "inputsFound": {
+      "name": true,
+      "contact": true,
+      "subject": true,
+      "message": true
+    },
+    "validationErrorsCount": 4,
+    "errors": [
+      "कृपया तुमचे पूर्ण नाव प्रविष्ट करा (किमान २ अक्षरे).",
+      "कृपया संपर्क क्रमांक किंवा ईमेल पत्ता प्रविष्ट करा.",
+      "कृपया संदेशाचा विषय लिहा (किमान ३ अक्षरे).",
+      "कृपया तुमचा सविस्तर संदेश लिहा (किमान ५ अक्षरे)."
+    ]
+  },
+  "bilingualAudit": {},
+  "desktopPerf": {
+    "totalFrames": 62,
+    "avgFps": 60,
+    "avgFrameTimeMs": 16.66,
+    "longFramesCount": 0,
+    "cls": 0
+  },
+  "mobilePerf4x": {
+    "totalFrames": 92,
+    "avgFps": 54.7,
+    "avgFrameTimeMs": 18.3,
+    "longFramesCount": 4,
+    "cls": 0
+  },
+  "consoleErrors": [],
+  "networkErrors": []
+}

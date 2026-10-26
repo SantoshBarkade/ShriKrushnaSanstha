@@ -1,0 +1,32 @@
+{
+  "small_mobile_360x640": {
+    "bodyOverflowLocked": true,
+    "modalRendered": true,
+    "headerVisibleAtTop": true,
+    "closeBtnVisibleAtTop": true,
+    "footerVisibleAtBottom": true,
+    "scrolledToBottom": true,
+    "closeBtnStillVisibleAfterScroll": true,
+    "footerStillVisibleAfterScroll": true,
+    "dismissedViaEscape": true,
+    "bodyOverflowRestoredAfterEscape": true,
+    "focusRestoredToButton": true,
+    "dismissedViaBackdrop": true,
+    "dismissedViaCloseButton": true
+  },
+  "mobile_390x844": {
+    "bodyOverflowLocked": true,
+    "modalRendered": true,
+    "headerVisibleAtTop": false,
+    "closeBtnVisibleAtTop": true,
+    "footerVisibleAtBottom": true,
+    "scrolledToBottom": true,
+    "closeBtnStillVisibleAfterScroll": true,
+    "footerStillVisibleAfterScroll": true,
+    "dismissedViaEscape": true,
+    "bodyOverflowRestoredAfterEscape": true,
+    "focusRestoredToButton": true,
+    "dismissedViaBackdrop": true,
+    "dismissedViaCloseButton": true
+  }
+}

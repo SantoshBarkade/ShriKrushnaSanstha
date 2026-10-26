@@ -1,0 +1,47 @@
+{
+  "immediateHero": {
+    "hasHeroSection": true,
+    "hasCanvasAt200ms": false
+  },
+  "settledHero": {
+    "hasCanvasAt3000ms": true,
+    "canvasCount": 1,
+    "webglInfo": {
+      "contextType": "webgl2",
+      "isContextLost": false,
+      "drawingBufferWidth": 1425,
+      "drawingBufferHeight": 828
+    }
+  },
+  "inViewFrames": 60,
+  "offscreenEvaluation": {
+    "scrollY": 2263,
+    "heroBottom": -1303.125,
+    "isHeroOffscreen": true,
+    "canvasVisible": true
+  },
+  "contextDuplicationCheck": {
+    "totalCanvasesInDOM": 1,
+    "canvasDimensions": [
+      {
+        "w": 1425,
+        "h": 828,
+        "styleW": "1425px",
+        "styleH": "828px"
+      }
+    ]
+  },
+  "aboutCleanupCheck": {
+    "currentRoute": "#/about",
+    "canvasesOnAbout": 0
+  },
+  "homeRevisitCheck": {
+    "currentRoute": "#/home",
+    "canvasesOnHomeRevisit": 1
+  },
+  "reducedMotionCheck": {
+    "canvasPresentUnderReducedMotion": false,
+    "fallbackPresent": true,
+    "isMottoVisible": true
+  }
+}

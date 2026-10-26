@@ -1,0 +1,182 @@
+{
+  "desktop1x": {
+    "totalFrames": 109,
+    "avgFps": 61,
+    "avgFrameTimeMs": 16.4,
+    "minFrameTimeMs": -11.88,
+    "p50FrameTimeMs": 16.7,
+    "p95FrameTimeMs": 16.7,
+    "p99FrameTimeMs": 16.8,
+    "maxFrameTimeMs": 16.8,
+    "framesExceeding20ms": 0,
+    "framesExceeding33ms": 0,
+    "cumulativeLayoutShift": 0.0036,
+    "longTasksCount": 2,
+    "longTasksDetails": [
+      {
+        "duration": 202,
+        "startTime": 476
+      },
+      {
+        "duration": 96,
+        "startTime": 741.9000000357628
+      }
+    ]
+  },
+  "mobile4x": {
+    "totalFrames": 206,
+    "avgFps": 26.1,
+    "avgFrameTimeMs": 38.31,
+    "minFrameTimeMs": -7,
+    "p50FrameTimeMs": 33.3,
+    "p95FrameTimeMs": 66.7,
+    "p99FrameTimeMs": 116.7,
+    "maxFrameTimeMs": 133.3,
+    "framesExceeding20ms": 149,
+    "framesExceeding33ms": 120,
+    "cumulativeLayoutShift": 0.0659,
+    "longTasksCount": 25,
+    "longTasksDetails": [
+      {
+        "duration": 202,
+        "startTime": 476
+      },
+      {
+        "duration": 96,
+        "startTime": 741.9000000357628
+      },
+      {
+        "duration": 111,
+        "startTime": 5695
+      },
+      {
+        "duration": 71,
+        "startTime": 5976.600000023842
+      },
+      {
+        "duration": 52,
+        "startTime": 6056.700000047684
+      },
+      {
+        "duration": 72,
+        "startTime": 6202.100000023842
+      },
+      {
+        "duration": 67,
+        "startTime": 6708.400000035763
+      },
+      {
+        "duration": 50,
+        "startTime": 9289.5
+      },
+      {
+        "duration": 87,
+        "startTime": 9503.300000011921
+      },
+      {
+        "duration": 57,
+        "startTime": 9675.300000011921
+      },
+      {
+        "duration": 62,
+        "startTime": 9854.800000011921
+      },
+      {
+        "duration": 50,
+        "startTime": 10476.100000023842
+      },
+      {
+        "duration": 59,
+        "startTime": 10771.800000011921
+      },
+      {
+        "duration": 64,
+        "startTime": 10860.900000035763
+      },
+      {
+        "duration": 50,
+        "startTime": 11343.200000047684
+      },
+      {
+        "duration": 71,
+        "startTime": 11500.600000023842
+      },
+      {
+        "duration": 58,
+        "startTime": 11653
+      },
+      {
+        "duration": 63,
+        "startTime": 11910.100000023842
+      },
+      {
+        "duration": 55,
+        "startTime": 12027
+      },
+      {
+        "duration": 52,
+        "startTime": 12146.400000035763
+      },
+      {
+        "duration": 73,
+        "startTime": 12212.400000035763
+      },
+      {
+        "duration": 62,
+        "startTime": 12286.5
+      },
+      {
+        "duration": 56,
+        "startTime": 12528.5
+      },
+      {
+        "duration": 69,
+        "startTime": 12596.400000035763
+      },
+      {
+        "duration": 72,
+        "startTime": 13196.700000047684
+      }
+    ]
+  },
+  "countUpValues": [
+    "5000+",
+    "25+",
+    "12+",
+    "10+"
+  ],
+  "reducedMotion": {
+    "mediaQueryMatched": true,
+    "immediateValues": [
+      "5000+",
+      "25+",
+      "12+",
+      "10+"
+    ]
+  },
+  "imagesAndOverflow": {
+    "allImagesLoaded": true,
+    "imagesCount": 2,
+    "images": [
+      {
+        "src": "http://localhost:5173/about-landscape.jpg",
+        "loaded": true,
+        "naturalWidth": 380,
+        "naturalHeight": 153,
+        "renderedWidth": 350,
+        "renderedHeight": 263
+      },
+      {
+        "src": "http://localhost:5173/sanstha-building.jpg",
+        "loaded": true,
+        "naturalWidth": 240,
+        "naturalHeight": 126,
+        "renderedWidth": 306,
+        "renderedHeight": 191
+      }
+    ],
+    "hasHorizontalOverflow": false,
+    "scrollWidth": 390,
+    "clientWidth": 390
+  }
+}

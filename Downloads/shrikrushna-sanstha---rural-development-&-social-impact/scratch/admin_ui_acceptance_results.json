@@ -1,0 +1,31 @@
+{
+  "heroBadge": {
+    "initialValue": "ग्रामीण परिवर्तन आणि लोककल्याण",
+    "testValue": "ग्रामीण परिवर्तन • चाचणी लाइव्ह बॅज",
+    "publicRendered": "ग्रामीण परिवर्तन • चाचणी लाइव्ह बॅज",
+    "verified": true,
+    "restored": true
+  },
+  "heroTagline": {
+    "initialValue": "ग्रामीण भागातील शिक्षण, सांस्कृतिक संवर्धन, आरोग्य व सामाजिक विकासासाठी कटिबद्ध",
+    "testValue": "ग्रामीण भागातील सर्वांगीण विकासासाठी कटिबद्ध (चाचणी टॅगलाईन)",
+    "publicRendered": "ग्रामीण भागातील सर्वांगीण विकासासाठी कटिबद्ध (चाचणी टॅगलाईन)",
+    "verified": true,
+    "restored": true
+  },
+  "seoMeta": {
+    "initialTitle": "मुख्यपृष्ठ",
+    "testTitle": "मुख्यपृष्ठ (ई२ई चाचणी)",
+    "publicRendered": "मुख्यपृष्ठ (ई२ई चाचणी)",
+    "verified": true,
+    "restored": true
+  },
+  "customSectionLifecycle": {
+    "created": false,
+    "sectionKey": "e2e_temp_agri_mvpnm9p1",
+    "publicRenderedMr": false,
+    "publicRenderedEn": false,
+    "deletedCleanly": true
+  },
+  "status": "SUCCESS"
+}

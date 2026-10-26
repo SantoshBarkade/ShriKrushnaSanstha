@@ -1,0 +1,41 @@
+{
+  "immediateScrollCheck": {
+    "veilOpacityAtScroll150": "0.9986",
+    "scrollTriggerCount": "internal-context"
+  },
+  "scrubProgression": [
+    {
+      "scrollY": 0,
+      "opacity": "0.994"
+    },
+    {
+      "scrollY": 197,
+      "opacity": "0.967"
+    },
+    {
+      "scrollY": 400,
+      "opacity": "0.863"
+    },
+    {
+      "scrollY": 630,
+      "opacity": "0.810"
+    },
+    {
+      "scrollY": 101,
+      "opacity": "0.913"
+    }
+  ],
+  "duplicationRes": {
+    "veilElementsInDOM": 1,
+    "finalOpacity": "0.9939"
+  },
+  "aboutCheck": {
+    "currentRoute": "#/about",
+    "veilOnAbout": false
+  },
+  "returnHomeCheck": {
+    "currentRoute": "#/home",
+    "veilOnReturn": true,
+    "initialOpacity": "1"
+  }
+}

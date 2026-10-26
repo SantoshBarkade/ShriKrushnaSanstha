@@ -1,0 +1,209 @@
+{
+  "timestamp": "2026-10-26T05:05:16.032Z",
+  "tests": [
+    {
+      "name": "Home 1440 Inspection",
+      "results": {
+        "hasPaha": false,
+        "hasBaddal": false,
+        "hasDhule": false,
+        "hasNadarpurTypo": false,
+        "hasPauleTypo": false,
+        "hasAsciiDanda": false,
+        "hasRegCorrect": true,
+        "title": "श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था | नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर"
+      }
+    }
+  ],
+  "viewportsTested": [
+    "1440",
+    "1280",
+    "768",
+    "390",
+    "360"
+  ],
+  "interactionsTested": [
+    {
+      "action": "Open Video Playback Modal",
+      "success": true,
+      "videoTitlesRendered": [
+        "CSC बाल विद्यालय व सर्व शिक्षा अभियान — आनंददायी शिक्षण उपक्रम",
+        "शासकीय योजना जनजागृती — निराधार, श्रावणबाळ, ई-श्रम व शेतकरी समृद्धी",
+        "औषधी वृक्षारोपण, आरोग्य शिबीर व ग्रामविकास लोकसहभाग क्षणचित्रे",
+        "music",
+        "संस्थेचे समृद्ध छायाचित्र दालन व अल्बम्स पाहा",
+        "महत्त्वाचे दुवे",
+        "पारदर्शकता व अहवाल",
+        "मुख्य कार्यालय"
+      ]
+    },
+    {
+      "action": "Open Photo Gallery Lightbox",
+      "success": true
+    },
+    {
+      "action": "Language Switcher Toggle",
+      "enHeading": "Culture, Education, Healthcare\n& Sustainable Rural Progress\nTogether\nfor Collective Growth",
+      "mrHeading": "संस्कृती, शिक्षण, आरोग्य\nआणि शाश्वत ग्रामीण विकास\nएकत्रितपणे\nसर्वांच्या विकासासाठी",
+      "success": true
+    }
+  ],
+  "marathiAudit": {
+    "home": {
+      "hasPaha": false,
+      "hasBaddal": false,
+      "hasDhule": false,
+      "hasNadarpurTypo": false,
+      "hasPauleTypo": false,
+      "hasAsciiDanda": false,
+      "hasUndefined": false,
+      "hasNull": false,
+      "hasObjectObject": false,
+      "heading": "संस्कृती, शिक्षण, आरोग्य\nआणि शाश्वत ग्रामीण विकास\nएकत्रितपणे\nसर्वांच्या विकासासाठी"
+    },
+    "about": {
+      "hasPaha": false,
+      "hasBaddal": false,
+      "hasDhule": false,
+      "hasNadarpurTypo": false,
+      "hasPauleTypo": false,
+      "hasAsciiDanda": false,
+      "hasUndefined": false,
+      "hasNull": false,
+      "hasObjectObject": false,
+      "heading": "संस्थेविषयी परिचय व ध्येय"
+    },
+    "officials": {
+      "hasPaha": false,
+      "hasBaddal": false,
+      "hasDhule": false,
+      "hasNadarpurTypo": false,
+      "hasPauleTypo": false,
+      "hasAsciiDanda": false,
+      "hasUndefined": false,
+      "hasNull": false,
+      "hasObjectObject": false,
+      "heading": "संस्थेचे पदाधिकारी व कार्यकारिणी मंडळ"
+    },
+    "initiatives": {
+      "hasPaha": false,
+      "hasBaddal": false,
+      "hasDhule": false,
+      "hasNadarpurTypo": false,
+      "hasPauleTypo": false,
+      "hasAsciiDanda": false,
+      "hasUndefined": false,
+      "hasNull": false,
+      "hasObjectObject": false,
+      "heading": "प्रमुख उपक्रम, योजना व प्रत्यक्ष कार्य"
+    },
+    "work": {
+      "hasPaha": false,
+      "hasBaddal": false,
+      "hasDhule": false,
+      "hasNadarpurTypo": false,
+      "hasPauleTypo": false,
+      "hasAsciiDanda": false,
+      "hasUndefined": false,
+      "hasNull": false,
+      "hasObjectObject": false,
+      "heading": "आमचे प्रत्यक्ष कार्य व कालक्रम"
+    },
+    "schemes": {
+      "hasPaha": false,
+      "hasBaddal": false,
+      "hasDhule": false,
+      "hasNadarpurTypo": false,
+      "hasPauleTypo": false,
+      "hasAsciiDanda": false,
+      "hasUndefined": false,
+      "hasNull": false,
+      "hasObjectObject": false,
+      "heading": "शासकीय कल्याणकारी योजना व लोककल्याण कक्ष"
+    },
+    "gallery": {
+      "hasPaha": false,
+      "hasBaddal": false,
+      "hasDhule": false,
+      "hasNadarpurTypo": false,
+      "hasPauleTypo": false,
+      "hasAsciiDanda": false,
+      "hasUndefined": false,
+      "hasNull": false,
+      "hasObjectObject": false,
+      "heading": "छायाचित्र दालन"
+    },
+    "videos": {
+      "hasPaha": false,
+      "hasBaddal": false,
+      "hasDhule": false,
+      "hasNadarpurTypo": false,
+      "hasPauleTypo": false,
+      "hasAsciiDanda": false,
+      "hasUndefined": false,
+      "hasNull": false,
+      "hasObjectObject": false,
+      "heading": "व्हिडिओ दालन"
+    },
+    "reports": {
+      "hasPaha": false,
+      "hasBaddal": false,
+      "hasDhule": false,
+      "hasNadarpurTypo": false,
+      "hasPauleTypo": false,
+      "hasAsciiDanda": false,
+      "hasUndefined": false,
+      "hasNull": false,
+      "hasObjectObject": false,
+      "heading": "वार्षिक अहवाल व दस्तऐवज"
+    },
+    "contact": {
+      "hasPaha": false,
+      "hasBaddal": false,
+      "hasDhule": false,
+      "hasNadarpurTypo": false,
+      "hasPauleTypo": false,
+      "hasAsciiDanda": false,
+      "hasUndefined": false,
+      "hasNull": false,
+      "hasObjectObject": false,
+      "heading": "संस्थेशी संपर्क साधा"
+    },
+    "news": {
+      "hasPaha": false,
+      "hasBaddal": false,
+      "hasDhule": false,
+      "hasNadarpurTypo": false,
+      "hasPauleTypo": false,
+      "hasAsciiDanda": false,
+      "hasUndefined": false,
+      "hasNull": false,
+      "hasObjectObject": false,
+      "heading": "बातम्या, कार्यक्रम व सार्वजनिक सूचना"
+    },
+    "volunteer": {
+      "hasPaha": false,
+      "hasBaddal": false,
+      "hasDhule": false,
+      "hasNadarpurTypo": false,
+      "hasPauleTypo": false,
+      "hasAsciiDanda": false,
+      "hasUndefined": false,
+      "hasNull": false,
+      "hasObjectObject": false,
+      "heading": "स्वयंसेवक बना — ग्रामीण परिवर्तनात सक्रिय सहभागी व्हा"
+    },
+    "privacy": {
+      "hasPaha": false,
+      "hasBaddal": false,
+      "hasDhule": false,
+      "hasNadarpurTypo": false,
+      "hasPauleTypo": false,
+      "hasAsciiDanda": false,
+      "hasUndefined": false,
+      "hasNull": false,
+      "hasObjectObject": false,
+      "heading": "गोपनीयता, डेटा सुरक्षा व लाभार्थी सन्मान धोरण"
+    }
+  }
+}

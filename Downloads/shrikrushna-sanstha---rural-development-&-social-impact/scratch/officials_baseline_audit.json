@@ -1,0 +1,35 @@
+{
+  "viewports": [
+    {
+      "name": "officials_baseline_1440.png",
+      "scrollWidth": 1425,
+      "clientWidth": 1425,
+      "hasHorizontalOverflow": false,
+      "cardsCount": 8,
+      "h1": "संस्थेचे पदाधिकारी व कार्यकारी मंडळ"
+    },
+    {
+      "name": "officials_baseline_768.png",
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "hasHorizontalOverflow": false,
+      "cardsCount": 8,
+      "h1": "संस्थेचे पदाधिकारी व कार्यकारी मंडळ"
+    },
+    {
+      "name": "officials_baseline_390.png",
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "hasHorizontalOverflow": false,
+      "cardsCount": 8,
+      "h1": "संस्थेचे पदाधिकारी व कार्यकारी मंडळ"
+    }
+  ],
+  "scrollMetrics": {
+    "totalFrames": 12,
+    "avgFps": 67.4,
+    "avgFrameTimeMs": 14.83,
+    "minFrameTimeMs": -5.3,
+    "maxFrameTimeMs": 16.8
+  }
+}

@@ -1,0 +1,517 @@
+{
+  "testedAt": "2026-10-26T05:09:59.458Z",
+  "routesAuditedCount": 14,
+  "pages": [
+    {
+      "route": "home",
+      "title": "मुखपृष्ठ (Home)",
+      "url": "http://localhost:5173/#/home",
+      "audit": {
+        "h1": "संस्कृती, शिक्षण, आरोग्य\nआणि शाश्वत ग्रामीण विकास\nएकत्रितपणे\nसर्वांच्या विकासासाठी",
+        "headingsCount": 13,
+        "headingsSample": [
+          "संस्कृती, शिक्षण, आरोग्य\nआणि शाश्वत ग्रामीण विकास\nएकत्रितपणे\nसर्वांच्या विकासासाठी",
+          "शिक्षण",
+          "आरोग्य",
+          "संस्कृती",
+          "समुदाय"
+        ],
+        "buttonsCount": 56,
+        "imagesCount": 4,
+        "brokenImagesCount": 0,
+        "hasHorizontalOverflow": false,
+        "scrollWidth": 1425,
+        "clientWidth": 1425,
+        "typos": {
+          "hasPaha": false,
+          "hasBaddal": false,
+          "hasDhule": false,
+          "hasNadarpurTypo": false,
+          "hasPauleTypo": false,
+          "hasAsciiDanda": false,
+          "hasUndefined": false,
+          "hasNull": false,
+          "hasObjectObject": false
+        },
+        "snippet": "श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र मुखपृष्ठ संस्थेविषयी पदाधिकारी उपक्रम योजना आमचे कार्य छायाचित्रे व्हिडिओ अहवाल बातम्या स्वयंसेवक संपर"
+      },
+      "desktopScreenshot": "preview_home_1440.png",
+      "mobileScreenshot": "preview_home_390.png"
+    },
+    {
+      "route": "about",
+      "title": "संस्थेविषयी (About Us)",
+      "url": "http://localhost:5173/#/about",
+      "audit": {
+        "h1": "संस्थेविषयी परिचय व ध्येय",
+        "headingsCount": 24,
+        "headingsSample": [
+          "संस्थेविषयी परिचय व ध्येय",
+          "निष्पक्ष समाजकार्य, सांस्कृतिक संवर्धन आणि ग्रामीण स्वावलंबनाचा वसा",
+          "ध्येय, उद्दिष्टे व संस्थात्मक मूल्ये",
+          "संस्थेचे मुख्य उद्दिष्ट",
+          "भविष्यातील संकल्पित प्रकल्प"
+        ],
+        "buttonsCount": 64,
+        "imagesCount": 2,
+        "brokenImagesCount": 0,
+        "hasHorizontalOverflow": false,
+        "scrollWidth": 1425,
+        "clientWidth": 1425,
+        "typos": {
+          "hasPaha": false,
+          "hasBaddal": false,
+          "hasDhule": false,
+          "hasNadarpurTypo": false,
+          "hasPauleTypo": false,
+          "hasAsciiDanda": false,
+          "hasUndefined": false,
+          "hasNull": false,
+          "hasObjectObject": false
+        },
+        "snippet": "श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र मुखपृष्ठ संस्थेविषयी पदाधिकारी उपक्रम योजना आमचे कार्य छायाचित्रे व्हिडिओ अहवाल बातम्या स्वयंसेवक संपर"
+      },
+      "desktopScreenshot": "preview_about_1440.png",
+      "mobileScreenshot": "preview_about_390.png"
+    },
+    {
+      "route": "officials",
+      "title": "पदाधिकारी (Officials)",
+      "url": "http://localhost:5173/#/officials",
+      "audit": {
+        "h1": "संस्थेचे पदाधिकारी व कार्यकारिणी मंडळ",
+        "headingsCount": 13,
+        "headingsSample": [
+          "संस्थेचे पदाधिकारी व कार्यकारिणी मंडळ",
+          "श्रीमती सविता दिलीप निकम",
+          "श्री. दिलीप निकम",
+          "श्री. राजेश पाटील",
+          "श्रीमती अनिता देशमुख"
+        ],
+        "buttonsCount": 54,
+        "imagesCount": 4,
+        "brokenImagesCount": 0,
+        "hasHorizontalOverflow": false,
+        "scrollWidth": 1425,
+        "clientWidth": 1425,
+        "typos": {
+          "hasPaha": false,
+          "hasBaddal": false,
+          "hasDhule": false,
+          "hasNadarpurTypo": false,
+          "hasPauleTypo": false,
+          "hasAsciiDanda": false,
+          "hasUndefined": false,
+          "hasNull": false,
+          "hasObjectObject": false
+        },
+        "snippet": "श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र मुखपृष्ठ संस्थेविषयी पदाधिकारी उपक्रम योजना आमचे कार्य छायाचित्रे व्हिडिओ अहवाल बातम्या स्वयंसेवक संपर"
+      },
+      "desktopScreenshot": "preview_officials_1440.png",
+      "mobileScreenshot": "preview_officials_390.png"
+    },
+    {
+      "route": "initiatives",
+      "title": "उपक्रम (Initiatives)",
+      "url": "http://localhost:5173/#/initiatives",
+      "audit": {
+        "h1": "प्रमुख उपक्रम, योजना व प्रत्यक्ष कार्य",
+        "headingsCount": 13,
+        "headingsSample": [
+          "प्रमुख उपक्रम, योजना व प्रत्यक्ष कार्य",
+          "CSC बाल विद्यालय, मॉडेल लर्निंग लॅब व RTE २५% सर्व शिक्षा",
+          "शासकीय कल्याणकारी योजना जनजागृती व थेट लाभ मार्गदर्शन कक्ष",
+          "श्रीकृष्ण संगीत प्रशिक्षण केंद्र व सांस्कृतिक कला संवर्धन उपक्रम",
+          "मोफत आरोग्य तपासणी, व्यसनमुक्ती, योग शिबिरे व कोविड-१९ अन्न सुरक्षा"
+        ],
+        "buttonsCount": 65,
+        "imagesCount": 4,
+        "brokenImagesCount": 0,
+        "hasHorizontalOverflow": false,
+        "scrollWidth": 1425,
+        "clientWidth": 1425,
+        "typos": {
+          "hasPaha": false,
+          "hasBaddal": false,
+          "hasDhule": false,
+          "hasNadarpurTypo": false,
+          "hasPauleTypo": false,
+          "hasAsciiDanda": false,
+          "hasUndefined": false,
+          "hasNull": false,
+          "hasObjectObject": false
+        },
+        "snippet": "श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र मुखपृष्ठ संस्थेविषयी पदाधिकारी उपक्रम योजना आमचे कार्य छायाचित्रे व्हिडिओ अहवाल बातम्या स्वयंसेवक संपर"
+      },
+      "desktopScreenshot": "preview_initiatives_1440.png",
+      "mobileScreenshot": "preview_initiatives_390.png"
+    },
+    {
+      "route": "schemes",
+      "title": "शासकीय योजना (Govt Schemes)",
+      "url": "http://localhost:5173/#/schemes",
+      "audit": {
+        "h1": "शासकीय कल्याणकारी योजना व लोककल्याण कक्ष",
+        "headingsCount": 9,
+        "headingsSample": [
+          "शासकीय कल्याणकारी योजना व लोककल्याण कक्ष",
+          "ई-श्रम कामगार कार्ड नोंदणी अभियान",
+          "संजय गांधी निराधार अनुदान योजना",
+          "श्रावणबाळ सेवा राज्य निवृत्तीवेतन योजना",
+          "शासकीय कल्याणकारी योजना जनजागृती व थेट लाभ मार्गदर्शन कक्ष"
+        ],
+        "buttonsCount": 65,
+        "imagesCount": 0,
+        "brokenImagesCount": 0,
+        "hasHorizontalOverflow": false,
+        "scrollWidth": 1425,
+        "clientWidth": 1425,
+        "typos": {
+          "hasPaha": false,
+          "hasBaddal": false,
+          "hasDhule": false,
+          "hasNadarpurTypo": false,
+          "hasPauleTypo": false,
+          "hasAsciiDanda": false,
+          "hasUndefined": false,
+          "hasNull": false,
+          "hasObjectObject": false
+        },
+        "snippet": "श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र मुखपृष्ठ संस्थेविषयी पदाधिकारी उपक्रम योजना आमचे कार्य छायाचित्रे व्हिडिओ अहवाल बातम्या स्वयंसेवक संपर"
+      },
+      "desktopScreenshot": "preview_schemes_1440.png",
+      "mobileScreenshot": "preview_schemes_390.png"
+    },
+    {
+      "route": "work",
+      "title": "आमचे कार्य (Our Work)",
+      "url": "http://localhost:5173/#/work",
+      "audit": {
+        "h1": "आमचे प्रत्यक्ष कार्य व कालक्रम",
+        "headingsCount": 9,
+        "headingsSample": [
+          "आमचे प्रत्यक्ष कार्य व कालक्रम",
+          "CSC बाल विद्यालय, मॉडेल लर्निंग लॅब व RTE २५% सर्व शिक्षा",
+          "शासकीय कल्याणकारी योजना जनजागृती व थेट लाभ मार्गदर्शन कक्ष",
+          "श्रीकृष्ण संगीत प्रशिक्षण केंद्र व सांस्कृतिक कला संवर्धन उपक्रम",
+          "मोफत आरोग्य तपासणी, व्यसनमुक्ती, योग शिबिरे व कोविड-१९ अन्न सुरक्षा"
+        ],
+        "buttonsCount": 57,
+        "imagesCount": 4,
+        "brokenImagesCount": 0,
+        "hasHorizontalOverflow": false,
+        "scrollWidth": 1425,
+        "clientWidth": 1425,
+        "typos": {
+          "hasPaha": false,
+          "hasBaddal": false,
+          "hasDhule": false,
+          "hasNadarpurTypo": false,
+          "hasPauleTypo": false,
+          "hasAsciiDanda": false,
+          "hasUndefined": false,
+          "hasNull": false,
+          "hasObjectObject": false
+        },
+        "snippet": "श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र मुखपृष्ठ संस्थेविषयी पदाधिकारी उपक्रम योजना आमचे कार्य छायाचित्रे व्हिडिओ अहवाल बातम्या स्वयंसेवक संपर"
+      },
+      "desktopScreenshot": "preview_work_1440.png",
+      "mobileScreenshot": "preview_work_390.png"
+    },
+    {
+      "route": "gallery",
+      "title": "छायाचित्रे (Photo Gallery)",
+      "url": "http://localhost:5173/#/gallery",
+      "audit": {
+        "h1": "छायाचित्र दालन",
+        "headingsCount": 9,
+        "headingsSample": [
+          "छायाचित्र दालन",
+          "CSC बाल विद्यालय व मॉडेल लर्निंग लॅब",
+          "शासकीय योजना जनजागृती व मार्गदर्शन शिबिरे",
+          "आरोग्य तपासणी, योग व व्यसनमुक्ती शिबिरे",
+          "पर्यावरण रक्षण व औषधी वृक्षारोपण मोहीम"
+        ],
+        "buttonsCount": 61,
+        "imagesCount": 4,
+        "brokenImagesCount": 0,
+        "hasHorizontalOverflow": false,
+        "scrollWidth": 1425,
+        "clientWidth": 1425,
+        "typos": {
+          "hasPaha": false,
+          "hasBaddal": false,
+          "hasDhule": false,
+          "hasNadarpurTypo": false,
+          "hasPauleTypo": false,
+          "hasAsciiDanda": false,
+          "hasUndefined": false,
+          "hasNull": false,
+          "hasObjectObject": false
+        },
+        "snippet": "श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र मुखपृष्ठ संस्थेविषयी पदाधिकारी उपक्रम योजना आमचे कार्य छायाचित्रे व्हिडिओ अहवाल बातम्या स्वयंसेवक संपर"
+      },
+      "desktopScreenshot": "preview_gallery_1440.png",
+      "mobileScreenshot": "preview_gallery_390.png"
+    },
+    {
+      "route": "videos",
+      "title": "व्हिडिओ (Videos)",
+      "url": "http://localhost:5173/#/videos",
+      "audit": {
+        "h1": "व्हिडिओ दालन",
+        "headingsCount": 9,
+        "headingsSample": [
+          "व्हिडिओ दालन",
+          "CSC बाल विद्यालय व सर्व शिक्षा अभियान — आनंददायी शिक्षण उपक्रम",
+          "शासकीय योजना जनजागृती — निराधार, श्रावणबाळ, ई-श्रम व शेतकरी समृद्धी",
+          "औषधी वृक्षारोपण, आरोग्य शिबीर व ग्रामविकास लोकसहभाग क्षणचित्रे",
+          "music"
+        ],
+        "buttonsCount": 63,
+        "imagesCount": 4,
+        "brokenImagesCount": 0,
+        "hasHorizontalOverflow": false,
+        "scrollWidth": 1425,
+        "clientWidth": 1425,
+        "typos": {
+          "hasPaha": false,
+          "hasBaddal": false,
+          "hasDhule": false,
+          "hasNadarpurTypo": false,
+          "hasPauleTypo": false,
+          "hasAsciiDanda": false,
+          "hasUndefined": false,
+          "hasNull": false,
+          "hasObjectObject": false
+        },
+        "snippet": "श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र मुखपृष्ठ संस्थेविषयी पदाधिकारी उपक्रम योजना आमचे कार्य छायाचित्रे व्हिडिओ अहवाल बातम्या स्वयंसेवक संपर"
+      },
+      "desktopScreenshot": "preview_videos_1440.png",
+      "mobileScreenshot": "preview_videos_390.png"
+    },
+    {
+      "route": "reports",
+      "title": "अहवाल (Reports & Disclosures)",
+      "url": "http://localhost:5173/#/reports",
+      "audit": {
+        "h1": "वार्षिक अहवाल व दस्तऐवज",
+        "headingsCount": 8,
+        "headingsSample": [
+          "वार्षिक अहवाल व दस्तऐवज",
+          "संस्थेचा वार्षिक कार्य अहवाल व परिचय पुस्तिका",
+          "सर्व शिक्षा अभियान, SMC बैठका व RTE २५% प्रवेश प्रक्रिया अहवाल",
+          "आरोग्य शिबिरे, पर्यावरण संवर्धन व महिला सक्षमीकरण उपक्रम अहवाल",
+          "संस्थेची आर्थिक व सामाजिक पारदर्शकता कटिबद्धता"
+        ],
+        "buttonsCount": 62,
+        "imagesCount": 0,
+        "brokenImagesCount": 0,
+        "hasHorizontalOverflow": false,
+        "scrollWidth": 1425,
+        "clientWidth": 1425,
+        "typos": {
+          "hasPaha": false,
+          "hasBaddal": false,
+          "hasDhule": false,
+          "hasNadarpurTypo": false,
+          "hasPauleTypo": false,
+          "hasAsciiDanda": false,
+          "hasUndefined": false,
+          "hasNull": false,
+          "hasObjectObject": false
+        },
+        "snippet": "श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र मुखपृष्ठ संस्थेविषयी पदाधिकारी उपक्रम योजना आमचे कार्य छायाचित्रे व्हिडिओ अहवाल बातम्या स्वयंसेवक संपर"
+      },
+      "desktopScreenshot": "preview_reports_1440.png",
+      "mobileScreenshot": "preview_reports_390.png"
+    },
+    {
+      "route": "news",
+      "title": "बातम्या (News & Events)",
+      "url": "http://localhost:5173/#/news",
+      "audit": {
+        "h1": "बातम्या, कार्यक्रम व सार्वजनिक सूचना",
+        "headingsCount": 7,
+        "headingsSample": [
+          "बातम्या, कार्यक्रम व सार्वजनिक सूचना",
+          "मोफत नेत्रतपासणी, रक्तदाब, मधुमेह व योग-प्राणायाम आरोग्य शिबीर संपन्न",
+          "CSC बाल विद्यालय व RTE २५% मोफत प्रवेश प्रक्रिया मार्गदर्शन शिबीर",
+          "॥ सेवेची पावले, परिवर्तनाची दिशा ॥",
+          "महत्त्वाचे दुवे"
+        ],
+        "buttonsCount": 63,
+        "imagesCount": 2,
+        "brokenImagesCount": 0,
+        "hasHorizontalOverflow": false,
+        "scrollWidth": 1425,
+        "clientWidth": 1425,
+        "typos": {
+          "hasPaha": false,
+          "hasBaddal": false,
+          "hasDhule": false,
+          "hasNadarpurTypo": false,
+          "hasPauleTypo": false,
+          "hasAsciiDanda": false,
+          "hasUndefined": false,
+          "hasNull": false,
+          "hasObjectObject": false
+        },
+        "snippet": "श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र मुखपृष्ठ संस्थेविषयी पदाधिकारी उपक्रम योजना आमचे कार्य छायाचित्रे व्हिडिओ अहवाल बातम्या स्वयंसेवक संपर"
+      },
+      "desktopScreenshot": "preview_news_1440.png",
+      "mobileScreenshot": "preview_news_390.png"
+    },
+    {
+      "route": "volunteer",
+      "title": "स्वयंसेवक (Volunteer Registration)",
+      "url": "http://localhost:5173/#/volunteer",
+      "audit": {
+        "h1": "स्वयंसेवक बना — ग्रामीण परिवर्तनात सक्रिय सहभागी व्हा",
+        "headingsCount": 13,
+        "headingsSample": [
+          "स्वयंसेवक बना — ग्रामीण परिवर्तनात सक्रिय सहभागी व्हा",
+          "स्वयंसेवक सहभाग प्रक्रिया (३ सोप्या पायऱ्या)",
+          "ऑनलाइन अर्ज नोंदणी",
+          "समन्वय व पूर्वसंवाद",
+          "प्रत्यक्ष सहभाग व प्रमाणपत्र"
+        ],
+        "buttonsCount": 54,
+        "imagesCount": 0,
+        "brokenImagesCount": 0,
+        "hasHorizontalOverflow": false,
+        "scrollWidth": 1425,
+        "clientWidth": 1425,
+        "typos": {
+          "hasPaha": false,
+          "hasBaddal": false,
+          "hasDhule": false,
+          "hasNadarpurTypo": false,
+          "hasPauleTypo": false,
+          "hasAsciiDanda": false,
+          "hasUndefined": false,
+          "hasNull": false,
+          "hasObjectObject": false
+        },
+        "snippet": "श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र मुखपृष्ठ संस्थेविषयी पदाधिकारी उपक्रम योजना आमचे कार्य छायाचित्रे व्हिडिओ अहवाल बातम्या स्वयंसेवक संपर"
+      },
+      "desktopScreenshot": "preview_volunteer_1440.png",
+      "mobileScreenshot": "preview_volunteer_390.png"
+    },
+    {
+      "route": "contact",
+      "title": "संपर्क (Contact Us)",
+      "url": "http://localhost:5173/#/contact",
+      "audit": {
+        "h1": "संस्थेशी संपर्क साधा",
+        "headingsCount": 7,
+        "headingsSample": [
+          "संस्थेशी संपर्क साधा",
+          "अधिकृत कार्यालयीन तपशील",
+          "संदेश पाठवा",
+          "संस्थेसोबत स्वयंसेवक म्हणून कार्य करू इच्छिता?",
+          "महत्त्वाचे दुवे"
+        ],
+        "buttonsCount": 58,
+        "imagesCount": 0,
+        "brokenImagesCount": 0,
+        "hasHorizontalOverflow": false,
+        "scrollWidth": 1425,
+        "clientWidth": 1425,
+        "typos": {
+          "hasPaha": false,
+          "hasBaddal": false,
+          "hasDhule": false,
+          "hasNadarpurTypo": false,
+          "hasPauleTypo": false,
+          "hasAsciiDanda": false,
+          "hasUndefined": false,
+          "hasNull": false,
+          "hasObjectObject": false
+        },
+        "snippet": "श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र मुखपृष्ठ संस्थेविषयी पदाधिकारी उपक्रम योजना आमचे कार्य छायाचित्रे व्हिडिओ अहवाल बातम्या स्वयंसेवक संपर"
+      },
+      "desktopScreenshot": "preview_contact_1440.png",
+      "mobileScreenshot": "preview_contact_390.png"
+    },
+    {
+      "route": "privacy",
+      "title": "गोपनीयता धोरण (Privacy Policy)",
+      "url": "http://localhost:5173/#/privacy",
+      "audit": {
+        "h1": "गोपनीयता, डेटा सुरक्षा व लाभार्थी सन्मान धोरण",
+        "headingsCount": 15,
+        "headingsSample": [
+          "गोपनीयता, डेटा सुरक्षा व लाभार्थी सन्मान धोरण",
+          "१. माहिती संकलन आणि वापर",
+          "२. व्यावसायिक वापरास पूर्ण मनाई",
+          "३. छायाचित्रे व लाभार्थी सन्मान (Beneficiary Dignity)",
+          "४. तक्रार व निवारण"
+        ],
+        "buttonsCount": 59,
+        "imagesCount": 0,
+        "brokenImagesCount": 0,
+        "hasHorizontalOverflow": false,
+        "scrollWidth": 1425,
+        "clientWidth": 1425,
+        "typos": {
+          "hasPaha": false,
+          "hasBaddal": false,
+          "hasDhule": false,
+          "hasNadarpurTypo": false,
+          "hasPauleTypo": false,
+          "hasAsciiDanda": false,
+          "hasUndefined": false,
+          "hasNull": false,
+          "hasObjectObject": false
+        },
+        "snippet": "श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र मुखपृष्ठ संस्थेविषयी पदाधिकारी उपक्रम योजना आमचे कार्य छायाचित्रे व्हिडिओ अहवाल बातम्या स्वयंसेवक संपर"
+      },
+      "desktopScreenshot": "preview_privacy_1440.png",
+      "mobileScreenshot": "preview_privacy_390.png"
+    },
+    {
+      "route": "admin",
+      "title": "प्रशासकीय कक्ष (Admin Portal)",
+      "url": "http://localhost:5173/#/admin",
+      "audit": {
+        "h1": "प्रशासकीय लॉगिन (Admin Login)",
+        "headingsCount": 1,
+        "headingsSample": [
+          "प्रशासकीय लॉगिन (Admin Login)"
+        ],
+        "buttonsCount": 4,
+        "imagesCount": 0,
+        "brokenImagesCount": 0,
+        "hasHorizontalOverflow": false,
+        "scrollWidth": 1440,
+        "clientWidth": 1440,
+        "typos": {
+          "hasPaha": false,
+          "hasBaddal": false,
+          "hasDhule": false,
+          "hasNadarpurTypo": false,
+          "hasPauleTypo": false,
+          "hasAsciiDanda": false,
+          "hasUndefined": false,
+          "hasNull": false,
+          "hasObjectObject": false
+        },
+        "snippet": "वेबसाईटवर परत जा मराठी English प्रशासकीय लॉगिन (Admin Login) वेबसाईटवरील माहिती व्यवस्थापित करण्यासाठी लॉगिन करा. युजरनेम (Username) पासवर्ड (Password) लॉगिन करा श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास"
+      },
+      "desktopScreenshot": "preview_admin_1440.png",
+      "mobileScreenshot": "preview_admin_390.png"
+    }
+  ],
+  "consoleErrors": [],
+  "formsTested": {
+    "contact": {
+      "submittedWithoutInput": true,
+      "validationFeedbackReceived": []
+    },
+    "volunteer": {
+      "submittedWithoutInput": false,
+      "validationFeedbackReceived": []
+    }
+  }
+}

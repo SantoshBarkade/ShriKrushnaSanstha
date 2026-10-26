@@ -1,0 +1,59 @@
+{
+  "mr": {
+    "title": "मुख्यपृष्ठ",
+    "metaDesc": "श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था मुख्यपृष्ठ",
+    "ogTitle": "मुख्यपृष्ठ",
+    "ogDesc": "श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था मुख्यपृष्ठ",
+    "heroBadge": "",
+    "heroTagline": "",
+    "heroTitle": "संस्कृती, शिक्षण, आरोग्यआणि शाश्वत ग्रामीण विकासएकत्रितपणेसर्वांच्या विकासासाठी",
+    "statNumbers": [
+      "नोंदणी क्र.: एक १४६६८ (औ)",
+      "०३:१५",
+      "रजि. नं.: एक 14668 (औ)",
+      "+91 9923512482",
+      "+91 8888684966"
+    ],
+    "headings": [
+      "शिक्षण",
+      "आरोग्य",
+      "संस्कृती",
+      "समुदाय",
+      "ग्रामीण विकासासाठी समर्पित संस्था",
+      "संस्थेच्या उपक्रमांच्या ताज्या बातम्या",
+      "मोफत नेत्रतपासणी, रक्तदाब, मधुमेह व योग-प्राणायाम आरोग्य शिबीर संपन्न",
+      "CSC बाल विद्यालय व RTE २५% मोफत प्रवेश प्रक्रिया मार्गदर्शन शिबीर",
+      "आपणही या परिवर्तनाच्या प्रवासाचा भाग व्हा",
+      "महत्त्वाचे दुवे",
+      "पारदर्शकता व अहवाल",
+      "मुख्य कार्यालय"
+    ],
+    "footerRegPill": "स्वयंसेवक सहभाग नोंदणी",
+    "hasFooterTagline": false,
+    "bodyLength": 3079
+  },
+  "en": {
+    "title": "Home",
+    "metaDesc": "Shrikrushna Sanstha Official Homepage",
+    "ogTitle": "Home",
+    "heroBadge": "",
+    "heroTagline": "",
+    "heroTitle": "Culture, Education, Healthcare& Sustainable Rural ProgressTogetherfor Collective Growth",
+    "headings": [
+      "Education",
+      "Healthcare",
+      "Culture",
+      "Community",
+      "An Institution Dedicated to Rural Transformation",
+      "Latest Updates & News from Our Initiatives",
+      "Free Eye Check-up, BP, Diabetes & Yoga Health Camp Concluded",
+      "CSC Bal Vidyalaya & RTE 25% Admission Guidance Camp",
+      "Become Part of this Journey of Transformation",
+      "Important Links",
+      "Transparency & Reports",
+      "Headquarters"
+    ],
+    "footerRegPill": "Reg. No.: Ek 14668 (A)"
+  },
+  "status": "SUCCESS"
+}

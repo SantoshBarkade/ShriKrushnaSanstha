@@ -1,0 +1,86 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-primary: #065096;
+  --color-brand-primary-hover: #05437E;
+  --color-brand-primary-light: #EBF3FA;
+  --color-brand-primary-dark: #042D54;
+  --color-brand-accent: #D92F43;
+  --color-brand-accent-hover: #B82233;
+  --color-brand-accent-light: #FDF2F3;
+  --color-brand-support: #EDF4D7;
+  --color-brand-support-dark: #3A5624;
+  --color-brand-navy: #071F38;
+  --color-surface-page: #F8FAFC;
+  --color-surface-card: #FFFFFF;
+  --color-text-primary: #1E293B;
+  --color-text-secondary: #475569;
+  --color-text-muted: #64748B;
+  --color-border-default: #E2E8F0;
+  --color-focus-ring: #065096;
+  --color-status-success: #15803D;
+  --color-status-warning: #B45309;
+  --color-status-error: #DC2626;
+
+  --font-sans: "Hind", "Noto Sans Devanagari", system-ui, -apple-system, sans-serif;
+  --font-serif: "Martel", "Karma", "Hind", "Noto Sans Devanagari", Georgia, serif;
+  --font-marathi: "Hind", "Noto Sans Devanagari", sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: "Hind", "Noto Sans Devanagari", system-ui, sans-serif;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    font-family: "Hind", "Noto Sans Devanagari", system-ui, sans-serif;
+    letter-spacing: 0px !important;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, h4, .font-serif {
+    font-family: "Martel", "Karma", "Hind", "Noto Sans Devanagari", Georgia, serif;
+    letter-spacing: 0px !important;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-focus-ring);
+    outline-offset: 3px;
+  }
+}
+
+@keyframes sun-pulse {
+  0%, 100% { transform: scale(1); opacity: 0.9; }
+  50% { transform: scale(1.06); opacity: 1; }
+}
+
+@keyframes leaf-sway {
+  0%, 100% { transform: rotate(-2deg); }
+  50% { transform: rotate(3deg); }
+}
+
+.animate-sun-pulse {
+  animation: sun-pulse 8s ease-in-out infinite;
+}
+
+.animate-leaf-sway {
+  animation: leaf-sway 7s ease-in-out infinite;
+  transform-origin: bottom center;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-sun-pulse,
+  .animate-leaf-sway {
+    animation: none;
+  }
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

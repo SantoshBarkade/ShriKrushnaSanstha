@@ -1,0 +1,137 @@
+{
+  "zoomResults": [
+    {
+      "zoom": 0.67,
+      "effectiveWidth": 2149,
+      "topRowBottom": 87,
+      "navRowTop": 87,
+      "isSeparatelyStackedBelow": true,
+      "hasHorizontalOverflow": false,
+      "hamburgerVisible": false
+    },
+    {
+      "zoom": 0.8,
+      "effectiveWidth": 1800,
+      "topRowBottom": 87,
+      "navRowTop": 87,
+      "isSeparatelyStackedBelow": true,
+      "hasHorizontalOverflow": false,
+      "hamburgerVisible": false
+    },
+    {
+      "zoom": 0.9,
+      "effectiveWidth": 1600,
+      "topRowBottom": 87,
+      "navRowTop": 87,
+      "isSeparatelyStackedBelow": true,
+      "hasHorizontalOverflow": false,
+      "hamburgerVisible": false
+    },
+    {
+      "zoom": 1,
+      "effectiveWidth": 1440,
+      "topRowBottom": 87,
+      "navRowTop": 87,
+      "isSeparatelyStackedBelow": true,
+      "hasHorizontalOverflow": false,
+      "hamburgerVisible": false
+    },
+    {
+      "zoom": 1.1,
+      "effectiveWidth": 1309,
+      "topRowBottom": 87,
+      "navRowTop": 87,
+      "isSeparatelyStackedBelow": true,
+      "hasHorizontalOverflow": false,
+      "hamburgerVisible": false
+    },
+    {
+      "zoom": 1.25,
+      "effectiveWidth": 1152,
+      "topRowBottom": 84,
+      "navRowTop": 84,
+      "isSeparatelyStackedBelow": true,
+      "hasHorizontalOverflow": false,
+      "hamburgerVisible": true
+    },
+    {
+      "zoom": 1.5,
+      "effectiveWidth": 960,
+      "topRowBottom": 84,
+      "navRowTop": 84,
+      "isSeparatelyStackedBelow": true,
+      "hasHorizontalOverflow": false,
+      "hamburgerVisible": true
+    },
+    {
+      "zoom": 1.75,
+      "effectiveWidth": 823,
+      "topRowBottom": 84,
+      "navRowTop": 84,
+      "isSeparatelyStackedBelow": true,
+      "hasHorizontalOverflow": false,
+      "hamburgerVisible": true
+    },
+    {
+      "zoom": 2,
+      "effectiveWidth": 720,
+      "topRowBottom": 84,
+      "navRowTop": 84,
+      "isSeparatelyStackedBelow": true,
+      "hasHorizontalOverflow": false,
+      "hamburgerVisible": true
+    }
+  ],
+  "viewportResults": [
+    {
+      "viewportWidth": 1440,
+      "topRowHeight": 79,
+      "navRowTop": 87,
+      "isSeparatelyStackedBelow": true,
+      "hasHorizontalOverflow": false,
+      "hamburgerVisible": false
+    },
+    {
+      "viewportWidth": 1280,
+      "topRowHeight": 79,
+      "navRowTop": 87,
+      "isSeparatelyStackedBelow": true,
+      "hasHorizontalOverflow": false,
+      "hamburgerVisible": false
+    },
+    {
+      "viewportWidth": 1024,
+      "topRowHeight": 76,
+      "navRowTop": 84,
+      "isSeparatelyStackedBelow": true,
+      "hasHorizontalOverflow": false,
+      "hamburgerVisible": true
+    },
+    {
+      "viewportWidth": 768,
+      "topRowHeight": 76,
+      "navRowTop": 84,
+      "isSeparatelyStackedBelow": true,
+      "hasHorizontalOverflow": false,
+      "hamburgerVisible": true
+    },
+    {
+      "viewportWidth": 390,
+      "topRowHeight": 57,
+      "navRowTop": 63,
+      "isSeparatelyStackedBelow": true,
+      "hasHorizontalOverflow": false,
+      "hamburgerVisible": true
+    },
+    {
+      "viewportWidth": 360,
+      "topRowHeight": 57,
+      "navRowTop": 63,
+      "isSeparatelyStackedBelow": true,
+      "hasHorizontalOverflow": false,
+      "hamburgerVisible": true
+    }
+  ],
+  "langVerify": true,
+  "routeVerify": "#/about"
+}

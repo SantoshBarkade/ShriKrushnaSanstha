@@ -1,0 +1,77 @@
+{
+  "viewports": [
+    {
+      "name": "officials_1440_desktop.png",
+      "scrollWidth": 1425,
+      "clientWidth": 1425,
+      "hasHorizontalOverflow": false,
+      "brokenImagesCount": 0,
+      "brokenImages": [],
+      "officialsRendered": 11
+    },
+    {
+      "name": "officials_1280_laptop.png",
+      "scrollWidth": 1265,
+      "clientWidth": 1265,
+      "hasHorizontalOverflow": false,
+      "brokenImagesCount": 0,
+      "brokenImages": [],
+      "officialsRendered": 11
+    },
+    {
+      "name": "officials_768_tablet.png",
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "hasHorizontalOverflow": false,
+      "brokenImagesCount": 0,
+      "brokenImages": [],
+      "officialsRendered": 11
+    },
+    {
+      "name": "officials_390_mobile.png",
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "hasHorizontalOverflow": false,
+      "brokenImagesCount": 0,
+      "brokenImages": [],
+      "officialsRendered": 11
+    },
+    {
+      "name": "officials_360_mobile.png",
+      "scrollWidth": 360,
+      "clientWidth": 360,
+      "hasHorizontalOverflow": false,
+      "brokenImagesCount": 0,
+      "brokenImages": [],
+      "officialsRendered": 11
+    }
+  ],
+  "desktopPerformance": {
+    "totalFrames": 34,
+    "avgFps": 63,
+    "avgFrameTimeMs": 15.87,
+    "cls": 0.0039,
+    "longTasksCount": 4
+  },
+  "mobilePerformance4x": {
+    "totalFrames": 90,
+    "avgFps": 60.9,
+    "avgFrameTimeMs": 16.42,
+    "longFramesCount": 0,
+    "cls": 0.0073
+  },
+  "interactions": {
+    "modal": {
+      "modalOpenedSuccessfully": false,
+      "modalDismissedViaEscape": true
+    },
+    "languageSwitch": {
+      "h1Mr": "संस्थेचे पदाधिकारी व कार्यकारिणी मंडळ",
+      "firstRoleMr": "नादपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र",
+      "h1En": "Institute Officials & Executive Board",
+      "firstRoleEn": "Nadarpur, Tahsil Kannad, Dist. Chhatrapati Sambhajinagar, Maharashtra"
+    }
+  },
+  "consoleErrors": [],
+  "networkErrors": []
+}

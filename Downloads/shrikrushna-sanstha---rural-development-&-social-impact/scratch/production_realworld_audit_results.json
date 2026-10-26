@@ -1,0 +1,761 @@
+{
+  "coldCache": {
+    "home": {
+      "route": "#/home",
+      "durationMs": 2226,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "longTaskCount": 0,
+        "longestTaskMs": 0,
+        "totalResources": 12,
+        "totalTransferBytes": 571519,
+        "jsTransferBytes": 457164,
+        "cssTransferBytes": 21134,
+        "apiTransferBytes": 49709,
+        "apiCallCount": 1,
+        "apiUrls": [
+          "http://localhost:4173/backend-php-mysql/api/content.php?resource=all"
+        ]
+      },
+      "capturedRequests": 0
+    },
+    "about": {
+      "route": "#/about",
+      "durationMs": 2209,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "longTaskCount": 0,
+        "longestTaskMs": 0,
+        "totalResources": 16,
+        "totalTransferBytes": 610708,
+        "jsTransferBytes": 474098,
+        "cssTransferBytes": 21134,
+        "apiTransferBytes": 49709,
+        "apiCallCount": 1,
+        "apiUrls": [
+          "http://localhost:4173/backend-php-mysql/api/content.php?resource=all"
+        ]
+      },
+      "capturedRequests": 4
+    },
+    "initiatives": {
+      "route": "#/initiatives",
+      "durationMs": 2218,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "longTaskCount": 0,
+        "longestTaskMs": 0,
+        "totalResources": 22,
+        "totalTransferBytes": 806822,
+        "jsTransferBytes": 484863,
+        "cssTransferBytes": 21134,
+        "apiTransferBytes": 49709,
+        "apiCallCount": 1,
+        "apiUrls": [
+          "http://localhost:4173/backend-php-mysql/api/content.php?resource=all"
+        ]
+      },
+      "capturedRequests": 6
+    },
+    "schemes": {
+      "route": "#/schemes",
+      "durationMs": 2220,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "longTaskCount": 0,
+        "longestTaskMs": 0,
+        "totalResources": 24,
+        "totalTransferBytes": 815641,
+        "jsTransferBytes": 492648,
+        "cssTransferBytes": 21134,
+        "apiTransferBytes": 49709,
+        "apiCallCount": 1,
+        "apiUrls": [
+          "http://localhost:4173/backend-php-mysql/api/content.php?resource=all"
+        ]
+      },
+      "capturedRequests": 2
+    },
+    "gallery": {
+      "route": "#/gallery",
+      "durationMs": 2271,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "longTaskCount": 0,
+        "longestTaskMs": 0,
+        "totalResources": 30,
+        "totalTransferBytes": 1015125,
+        "jsTransferBytes": 498432,
+        "cssTransferBytes": 21134,
+        "apiTransferBytes": 49709,
+        "apiCallCount": 1,
+        "apiUrls": [
+          "http://localhost:4173/backend-php-mysql/api/content.php?resource=all"
+        ]
+      },
+      "capturedRequests": 6
+    },
+    "videos": {
+      "route": "#/videos",
+      "durationMs": 2217,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "longTaskCount": 0,
+        "longestTaskMs": 0,
+        "totalResources": 36,
+        "totalTransferBytes": 1162763,
+        "jsTransferBytes": 503315,
+        "cssTransferBytes": 21134,
+        "apiTransferBytes": 49709,
+        "apiCallCount": 1,
+        "apiUrls": [
+          "http://localhost:4173/backend-php-mysql/api/content.php?resource=all"
+        ]
+      },
+      "capturedRequests": 6
+    },
+    "reports": {
+      "route": "#/reports",
+      "durationMs": 2211,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "longTaskCount": 0,
+        "longestTaskMs": 0,
+        "totalResources": 39,
+        "totalTransferBytes": 1170464,
+        "jsTransferBytes": 509982,
+        "cssTransferBytes": 21134,
+        "apiTransferBytes": 49709,
+        "apiCallCount": 1,
+        "apiUrls": [
+          "http://localhost:4173/backend-php-mysql/api/content.php?resource=all"
+        ]
+      },
+      "capturedRequests": 3
+    },
+    "news": {
+      "route": "#/news",
+      "durationMs": 2207,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "longTaskCount": 0,
+        "longestTaskMs": 0,
+        "totalResources": 44,
+        "totalTransferBytes": 1256922,
+        "jsTransferBytes": 518760,
+        "cssTransferBytes": 21134,
+        "apiTransferBytes": 49709,
+        "apiCallCount": 1,
+        "apiUrls": [
+          "http://localhost:4173/backend-php-mysql/api/content.php?resource=all"
+        ]
+      },
+      "capturedRequests": 5
+    },
+    "contact": {
+      "route": "#/contact",
+      "durationMs": 2211,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "longTaskCount": 0,
+        "longestTaskMs": 0,
+        "totalResources": 46,
+        "totalTransferBytes": 1264317,
+        "jsTransferBytes": 525121,
+        "cssTransferBytes": 21134,
+        "apiTransferBytes": 49709,
+        "apiCallCount": 1,
+        "apiUrls": [
+          "http://localhost:4173/backend-php-mysql/api/content.php?resource=all"
+        ]
+      },
+      "capturedRequests": 2
+    },
+    "volunteer": {
+      "route": "#/volunteer",
+      "durationMs": 2205,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "longTaskCount": 0,
+        "longestTaskMs": 0,
+        "totalResources": 48,
+        "totalTransferBytes": 1273872,
+        "jsTransferBytes": 533642,
+        "cssTransferBytes": 21134,
+        "apiTransferBytes": 49709,
+        "apiCallCount": 1,
+        "apiUrls": [
+          "http://localhost:4173/backend-php-mysql/api/content.php?resource=all"
+        ]
+      },
+      "capturedRequests": 2
+    },
+    "admin": {
+      "route": "#/admin",
+      "durationMs": 2215,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "longTaskCount": 0,
+        "longestTaskMs": 0,
+        "totalResources": 50,
+        "totalTransferBytes": 1330246,
+        "jsTransferBytes": 588982,
+        "cssTransferBytes": 21134,
+        "apiTransferBytes": 49709,
+        "apiCallCount": 1,
+        "apiUrls": [
+          "http://localhost:4173/backend-php-mysql/api/content.php?resource=all"
+        ]
+      },
+      "capturedRequests": 2
+    }
+  },
+  "warmCache": {
+    "home": {
+      "route": "#/home",
+      "durationMs": 1813,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "totalResources": 52,
+        "totalTransferBytes": 1371697,
+        "jsTransferBytes": 588982,
+        "cssTransferBytes": 21134
+      }
+    },
+    "about": {
+      "route": "#/about",
+      "durationMs": 1818,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "totalResources": 54,
+        "totalTransferBytes": 1393218,
+        "jsTransferBytes": 588982,
+        "cssTransferBytes": 21134
+      }
+    },
+    "initiatives": {
+      "route": "#/initiatives",
+      "durationMs": 1812,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "totalResources": 57,
+        "totalTransferBytes": 1577833,
+        "jsTransferBytes": 588982,
+        "cssTransferBytes": 21134
+      }
+    },
+    "schemes": {
+      "route": "#/schemes",
+      "durationMs": 1815,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "totalResources": 58,
+        "totalTransferBytes": 1578133,
+        "jsTransferBytes": 588982,
+        "cssTransferBytes": 21134
+      }
+    },
+    "gallery": {
+      "route": "#/gallery",
+      "durationMs": 1809,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "totalResources": 63,
+        "totalTransferBytes": 1771099,
+        "jsTransferBytes": 588982,
+        "cssTransferBytes": 21134
+      }
+    },
+    "videos": {
+      "route": "#/videos",
+      "durationMs": 1821,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "totalResources": 68,
+        "totalTransferBytes": 1913120,
+        "jsTransferBytes": 588982,
+        "cssTransferBytes": 21134
+      }
+    },
+    "reports": {
+      "route": "#/reports",
+      "durationMs": 1821,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "totalResources": 69,
+        "totalTransferBytes": 1913420,
+        "jsTransferBytes": 588982,
+        "cssTransferBytes": 21134
+      }
+    },
+    "news": {
+      "route": "#/news",
+      "durationMs": 1810,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "totalResources": 72,
+        "totalTransferBytes": 1953845,
+        "jsTransferBytes": 588982,
+        "cssTransferBytes": 21134
+      }
+    },
+    "contact": {
+      "route": "#/contact",
+      "durationMs": 1820,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "totalResources": 73,
+        "totalTransferBytes": 1954145,
+        "jsTransferBytes": 588982,
+        "cssTransferBytes": 21134
+      }
+    },
+    "volunteer": {
+      "route": "#/volunteer",
+      "durationMs": 1810,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "totalResources": 74,
+        "totalTransferBytes": 1954445,
+        "jsTransferBytes": 588982,
+        "cssTransferBytes": 21134
+      }
+    },
+    "admin": {
+      "route": "#/admin",
+      "durationMs": 1821,
+      "data": {
+        "loadEventEnd": 369.30000001192093,
+        "domContentLoadedEventEnd": 362.2000000476837,
+        "domInteractive": 195.10000002384186,
+        "lcp": 0,
+        "cls": 0,
+        "totalResources": 75,
+        "totalTransferBytes": 1954745,
+        "jsTransferBytes": 588982,
+        "cssTransferBytes": 21134
+      }
+    }
+  },
+  "interactionProfiling": {
+    "homeScroll": {
+      "totalDurationMs": 1519.5,
+      "totalFrames": 56,
+      "droppedFrames": 9,
+      "fps": 37
+    },
+    "cardHover": {
+      "status": "No 3D card found"
+    },
+    "modal": {
+      "status": "No modal trigger found"
+    },
+    "schemeSearch": {
+      "searchQueryApplied": "शेतकरी",
+      "filterDurationMs": 105,
+      "cardsRendered": 0
+    },
+    "langSwitch": {
+      "languageToggleMs": 163
+    }
+  },
+  "bundleVerification": {
+    "homeJsFetched": [
+      {
+        "name": "rolldown-runtime-BWaJ3C7D.js",
+        "transferBytes": 1211,
+        "encodedBodySize": 911,
+        "decodedBodySize": 911
+      },
+      {
+        "name": "index-B8-8tCwM.js",
+        "transferBytes": 93341,
+        "encodedBodySize": 93041,
+        "decodedBodySize": 353644
+      },
+      {
+        "name": "vendor-icons-D7otrfiQ.js",
+        "transferBytes": 10355,
+        "encodedBodySize": 10055,
+        "decodedBodySize": 28497
+      },
+      {
+        "name": "vendor-gsap-CoLNslfx.js",
+        "transferBytes": 44257,
+        "encodedBodySize": 43957,
+        "decodedBodySize": 112822
+      },
+      {
+        "name": "vendor-react-CiEk4nKI.js",
+        "transferBytes": 66444,
+        "encodedBodySize": 66144,
+        "decodedBodySize": 214066
+      },
+      {
+        "name": "MaharashtraCanvas-f_aSwFNQ.js",
+        "transferBytes": 2385,
+        "encodedBodySize": 2085,
+        "decodedBodySize": 5334
+      },
+      {
+        "name": "vendor-three-BMT1favm.js",
+        "transferBytes": 239171,
+        "encodedBodySize": 238871,
+        "decodedBodySize": 908869
+      },
+      {
+        "name": "AboutView-DX2iFxu0.js",
+        "transferBytes": 16380,
+        "encodedBodySize": 16080,
+        "decodedBodySize": 63900
+      },
+      {
+        "name": "use-reduced-motion-BSwmqePd.js",
+        "transferBytes": 554,
+        "encodedBodySize": 254,
+        "decodedBodySize": 254
+      },
+      {
+        "name": "InitiativesView-Dbk8_I2Y.js",
+        "transferBytes": 8207,
+        "encodedBodySize": 7907,
+        "decodedBodySize": 30832
+      },
+      {
+        "name": "Card3D-CQOd8IPj.js",
+        "transferBytes": 1157,
+        "encodedBodySize": 857,
+        "decodedBodySize": 1611
+      },
+      {
+        "name": "ImageSlider-wPifY0if.js",
+        "transferBytes": 1401,
+        "encodedBodySize": 1101,
+        "decodedBodySize": 2871
+      },
+      {
+        "name": "SchemesView-D-jIuSw3.js",
+        "transferBytes": 7785,
+        "encodedBodySize": 7485,
+        "decodedBodySize": 31086
+      },
+      {
+        "name": "GalleryView-CEMpFCtS.js",
+        "transferBytes": 5784,
+        "encodedBodySize": 5484,
+        "decodedBodySize": 26102
+      },
+      {
+        "name": "VideoLibraryView-C284Y-WC.js",
+        "transferBytes": 4883,
+        "encodedBodySize": 4583,
+        "decodedBodySize": 15045
+      },
+      {
+        "name": "ReportsView-BnhMJ1Uw.js",
+        "transferBytes": 5188,
+        "encodedBodySize": 4888,
+        "decodedBodySize": 18589
+      },
+      {
+        "name": "validation-Cevjoqc2.js",
+        "transferBytes": 1479,
+        "encodedBodySize": 1179,
+        "decodedBodySize": 3223
+      },
+      {
+        "name": "NewsView-BD_qmvEh.js",
+        "transferBytes": 7728,
+        "encodedBodySize": 7428,
+        "decodedBodySize": 34121
+      },
+      {
+        "name": "dateFormatter-CnGi__Cc.js",
+        "transferBytes": 1050,
+        "encodedBodySize": 750,
+        "decodedBodySize": 1736
+      },
+      {
+        "name": "ContactView-tEjDuXVh.js",
+        "transferBytes": 6361,
+        "encodedBodySize": 6061,
+        "decodedBodySize": 24276
+      },
+      {
+        "name": "VolunteerView-DW9ETcIH.js",
+        "transferBytes": 8521,
+        "encodedBodySize": 8221,
+        "decodedBodySize": 35219
+      },
+      {
+        "name": "AdminPortal-QqeIoZL1.js",
+        "transferBytes": 55340,
+        "encodedBodySize": 55040,
+        "decodedBodySize": 333671
+      }
+    ],
+    "isThreeFetchedOnHome": true,
+    "isGsapFetchedOnHome": true,
+    "isCard3DFetchedOnHome": true,
+    "directRefresh": {
+      "#/gallery": {
+        "title": "छायाचित्र गॅलरी व अल्बम | श्रीकृष्ण संस्था",
+        "heading": "छायाचित्र दालन",
+        "hasContent": true
+      },
+      "#/schemes": {
+        "title": "शासकीय कल्याणकारी योजना व लोककल्याण कक्ष | श्रीकृष्ण संस्था",
+        "heading": "शासकीय कल्याणकारी योजना व लोककल्याण कक्ष",
+        "hasContent": true
+      },
+      "#/reports": {
+        "title": "वार्षिक अहवाल व माहितीपत्रके | श्रीकृष्ण संस्था",
+        "heading": "वार्षिक अहवाल व दस्तऐवज",
+        "hasContent": true
+      },
+      "#/admin": {
+        "title": "प्रशासकीय सीएमएस पोर्टल | श्रीकृष्ण संस्था",
+        "heading": "प्रशासकीय लॉगिन (Admin Login)",
+        "hasContent": true
+      }
+    }
+  },
+  "stressMemory": {
+    "initialHeapBytes": 7296128,
+    "initialNodes": 748,
+    "post10RoutesHeapBytes": 7490384,
+    "post10RoutesNodes": 1854,
+    "returnHomeHeapBytes": 7591484,
+    "returnHomeNodes": 1854,
+    "heapGrowthBytes": 295356,
+    "nodeGrowth": 1106
+  },
+  "apiPerformance": {
+    "totalResourcesTracked": 122,
+    "slowestResources": [
+      {
+        "name": "hqdefault.jpg",
+        "fullUrl": "https://i.ytimg.com/vi/ReuriohyHg0/hqdefault.jpg",
+        "initiator": "img",
+        "durationMs": 264,
+        "transferBytes": 22320
+      },
+      {
+        "name": "css2",
+        "fullUrl": "https://fonts.googleapis.com/css2?family=Hind:wght@400;500;600;700&family=Noto+Sans+Devanagari:wght@400;500;600;700;800;900&family=Noto+Serif+Devanagari:wght@500;600;700;800;900&display=swap",
+        "initiator": "link",
+        "durationMs": 150,
+        "transferBytes": 1214
+      },
+      {
+        "name": "vendor-three-BMT1favm.js",
+        "fullUrl": "http://localhost:4173/assets/vendor-three-BMT1favm.js",
+        "initiator": "script",
+        "durationMs": 95,
+        "transferBytes": 239171
+      },
+      {
+        "name": "hqdefault.jpg",
+        "fullUrl": "https://i.ytimg.com/vi/ReuriohyHg0/hqdefault.jpg",
+        "initiator": "img",
+        "durationMs": 91,
+        "transferBytes": 22320
+      },
+      {
+        "name": "hqdefault.jpg",
+        "fullUrl": "https://i.ytimg.com/vi/ReuriohyHg0/hqdefault.jpg",
+        "initiator": "img",
+        "durationMs": 90,
+        "transferBytes": 22320
+      },
+      {
+        "name": "index-B8-8tCwM.js",
+        "fullUrl": "http://localhost:4173/assets/index-B8-8tCwM.js",
+        "initiator": "script",
+        "durationMs": 77,
+        "transferBytes": 93341
+      },
+      {
+        "name": "photo-1577896851231-70ef18881754",
+        "fullUrl": "https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&w=1200&q=80",
+        "initiator": "img",
+        "durationMs": 75,
+        "transferBytes": 116625
+      },
+      {
+        "name": "vendor-react-CiEk4nKI.js",
+        "fullUrl": "http://localhost:4173/assets/vendor-react-CiEk4nKI.js",
+        "initiator": "other",
+        "durationMs": 70,
+        "transferBytes": 66444
+      },
+      {
+        "name": "photo-1544717305-2782549b5136",
+        "fullUrl": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1200&q=80",
+        "initiator": "img",
+        "durationMs": 65,
+        "transferBytes": 67690
+      },
+      {
+        "name": "index-DtT75LCE.css",
+        "fullUrl": "http://localhost:4173/assets/index-DtT75LCE.css",
+        "initiator": "link",
+        "durationMs": 62,
+        "transferBytes": 19920
+      }
+    ],
+    "largestAssets": [
+      {
+        "name": "vendor-three-BMT1favm.js",
+        "initiator": "script",
+        "transferBytes": 239171,
+        "durationMs": 95
+      },
+      {
+        "name": "photo-1577896851231-70ef18881754",
+        "initiator": "img",
+        "transferBytes": 116625,
+        "durationMs": 75
+      },
+      {
+        "name": "photo-1577896851231-70ef18881754",
+        "initiator": "img",
+        "transferBytes": 116625,
+        "durationMs": 13
+      },
+      {
+        "name": "photo-1577896851231-70ef18881754",
+        "initiator": "img",
+        "transferBytes": 116625,
+        "durationMs": 19
+      },
+      {
+        "name": "index-B8-8tCwM.js",
+        "initiator": "script",
+        "transferBytes": 93341,
+        "durationMs": 77
+      },
+      {
+        "name": "photo-1577896851231-70ef18881754",
+        "initiator": "img",
+        "transferBytes": 71713,
+        "durationMs": 19
+      },
+      {
+        "name": "photo-1577896851231-70ef18881754",
+        "initiator": "img",
+        "transferBytes": 71713,
+        "durationMs": 17
+      },
+      {
+        "name": "photo-1577896851231-70ef18881754",
+        "initiator": "img",
+        "transferBytes": 71713,
+        "durationMs": 14
+      },
+      {
+        "name": "photo-1544717305-2782549b5136",
+        "initiator": "img",
+        "transferBytes": 67690,
+        "durationMs": 65
+      },
+      {
+        "name": "photo-1544717305-2782549b5136",
+        "initiator": "img",
+        "transferBytes": 67690,
+        "durationMs": 14
+      }
+    ],
+    "apiCallsSummary": [
+      {
+        "url": "http://localhost:4173/backend-php-mysql/api/content.php?resource=all",
+        "durationMs": 22,
+        "transferBytes": 49709
+      }
+    ]
+  }
+}

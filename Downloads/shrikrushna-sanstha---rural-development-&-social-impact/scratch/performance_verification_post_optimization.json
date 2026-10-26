@@ -1,0 +1,310 @@
+{
+  "home": {
+    "route": "#/home",
+    "metrics": {
+      "loadEventEnd": 575,
+      "domContentLoadedEventEnd": 569.8000000119209,
+      "domInteractive": 198.5,
+      "resourceCount": 44,
+      "totalTransferSize": 19729308,
+      "jsResourceCount": 40,
+      "jsTransferSize": 19633203,
+      "headingText": "संस्कृती, शिक्षण, आरोग्य\nआणि शाश्वत ग्रामीण विकास\nएकत्रितपणे\nसर्वांच्या विकासासाठी",
+      "bodyTextLength": 3158
+    },
+    "domNodes": 724,
+    "jsHeapUsedSize": 23571420,
+    "jsHeapTotalSize": 30105600,
+    "layoutCount": 0,
+    "recalcStyleCount": 96
+  },
+  "about": {
+    "route": "#/about",
+    "metrics": {
+      "loadEventEnd": 575,
+      "domContentLoadedEventEnd": 569.8000000119209,
+      "domInteractive": 198.5,
+      "resourceCount": 47,
+      "totalTransferSize": 20010784,
+      "jsResourceCount": 41,
+      "jsTransferSize": 19893158,
+      "headingText": "संस्थेविषयी परिचय व ध्येय",
+      "bodyTextLength": 9545
+    },
+    "domNodes": 1460,
+    "jsHeapUsedSize": 25587716,
+    "jsHeapTotalSize": 31997952,
+    "layoutCount": 12,
+    "recalcStyleCount": 141
+  },
+  "officials": {
+    "route": "#/officials",
+    "metrics": {
+      "loadEventEnd": 575,
+      "domContentLoadedEventEnd": 569.8000000119209,
+      "domInteractive": 198.5,
+      "resourceCount": 53,
+      "totalTransferSize": 20264584,
+      "jsResourceCount": 42,
+      "jsTransferSize": 19995440,
+      "headingText": "संस्थेचे पदाधिकारी व कार्यकारिणी मंडळ",
+      "bodyTextLength": 3021
+    },
+    "domNodes": 618,
+    "jsHeapUsedSize": 24071716,
+    "jsHeapTotalSize": 32784384,
+    "layoutCount": 25,
+    "recalcStyleCount": 191
+  },
+  "initiatives": {
+    "route": "#/initiatives",
+    "metrics": {
+      "loadEventEnd": 575,
+      "domContentLoadedEventEnd": 569.8000000119209,
+      "domInteractive": 198.5,
+      "resourceCount": 59,
+      "totalTransferSize": 20618477,
+      "jsResourceCount": 45,
+      "jsTransferSize": 20164718,
+      "headingText": "प्रमुख उपक्रम, योजना व प्रत्यक्ष कार्य",
+      "bodyTextLength": 4143
+    },
+    "domNodes": 1095,
+    "jsHeapUsedSize": 26897048,
+    "jsHeapTotalSize": 33046528,
+    "layoutCount": 38,
+    "recalcStyleCount": 283
+  },
+  "work": {
+    "route": "#/work",
+    "metrics": {
+      "loadEventEnd": 575,
+      "domContentLoadedEventEnd": 569.8000000119209,
+      "domInteractive": 198.5,
+      "resourceCount": 62,
+      "totalTransferSize": 20719946,
+      "jsResourceCount": 46,
+      "jsTransferSize": 20205843,
+      "headingText": "आमचे प्रत्यक्ष कार्य व कालक्रम",
+      "bodyTextLength": 2964
+    },
+    "domNodes": 581,
+    "jsHeapUsedSize": 24393904,
+    "jsHeapTotalSize": 33832960,
+    "layoutCount": 51,
+    "recalcStyleCount": 377
+  },
+  "schemes": {
+    "route": "#/schemes",
+    "metrics": {
+      "loadEventEnd": 575,
+      "domContentLoadedEventEnd": 569.8000000119209,
+      "domInteractive": 198.5,
+      "resourceCount": 64,
+      "totalTransferSize": 20870848,
+      "jsResourceCount": 47,
+      "jsTransferSize": 20356445,
+      "headingText": "शासकीय कल्याणकारी योजना व लोककल्याण कक्ष",
+      "bodyTextLength": 3153
+    },
+    "domNodes": 937,
+    "jsHeapUsedSize": 26727640,
+    "jsHeapTotalSize": 34095104,
+    "layoutCount": 62,
+    "recalcStyleCount": 471
+  },
+  "gallery": {
+    "route": "#/gallery",
+    "metrics": {
+      "loadEventEnd": 575,
+      "domContentLoadedEventEnd": 569.8000000119209,
+      "domInteractive": 198.5,
+      "resourceCount": 70,
+      "totalTransferSize": 21206465,
+      "jsResourceCount": 48,
+      "jsTransferSize": 20499096,
+      "headingText": "छायाचित्र दालन",
+      "bodyTextLength": 2476
+    },
+    "domNodes": 1243,
+    "jsHeapUsedSize": 28818180,
+    "jsHeapTotalSize": 34357248,
+    "layoutCount": 75,
+    "recalcStyleCount": 489
+  },
+  "videos": {
+    "route": "#/videos",
+    "metrics": {
+      "loadEventEnd": 575,
+      "domContentLoadedEventEnd": 569.8000000119209,
+      "domInteractive": 198.5,
+      "resourceCount": 76,
+      "totalTransferSize": 21424601,
+      "jsResourceCount": 49,
+      "jsTransferSize": 20575211,
+      "headingText": "व्हिडिओ दालन",
+      "bodyTextLength": 2696
+    },
+    "domNodes": 1535,
+    "jsHeapUsedSize": 30941528,
+    "jsHeapTotalSize": 36192256,
+    "layoutCount": 88,
+    "recalcStyleCount": 507
+  },
+  "reports": {
+    "route": "#/reports",
+    "metrics": {
+      "loadEventEnd": 575,
+      "domContentLoadedEventEnd": 569.8000000119209,
+      "domInteractive": 198.5,
+      "resourceCount": 79,
+      "totalTransferSize": 21546518,
+      "jsResourceCount": 51,
+      "jsTransferSize": 20696828,
+      "headingText": "वार्षिक अहवाल व दस्तऐवज",
+      "bodyTextLength": 2540
+    },
+    "domNodes": 891,
+    "jsHeapUsedSize": 26117392,
+    "jsHeapTotalSize": 37502976,
+    "layoutCount": 99,
+    "recalcStyleCount": 526
+  },
+  "news": {
+    "route": "#/news",
+    "metrics": {
+      "loadEventEnd": 575,
+      "domContentLoadedEventEnd": 569.8000000119209,
+      "domInteractive": 198.5,
+      "resourceCount": 84,
+      "totalTransferSize": 21783832,
+      "jsResourceCount": 53,
+      "jsTransferSize": 20893717,
+      "headingText": "बातम्या, कार्यक्रम व सार्वजनिक सूचना",
+      "bodyTextLength": 2825
+    },
+    "domNodes": 1172,
+    "jsHeapUsedSize": 28197808,
+    "jsHeapTotalSize": 37502976,
+    "layoutCount": 112,
+    "recalcStyleCount": 618
+  },
+  "volunteer": {
+    "route": "#/volunteer",
+    "metrics": {
+      "loadEventEnd": 575,
+      "domContentLoadedEventEnd": 569.8000000119209,
+      "domInteractive": 198.5,
+      "resourceCount": 86,
+      "totalTransferSize": 21944213,
+      "jsResourceCount": 54,
+      "jsTransferSize": 21053798,
+      "headingText": "स्वयंसेवक बना — ग्रामीण परिवर्तनात सक्रिय सहभागी व्हा",
+      "bodyTextLength": 3965
+    },
+    "domNodes": 1621,
+    "jsHeapUsedSize": 30663468,
+    "jsHeapTotalSize": 37502976,
+    "layoutCount": 124,
+    "recalcStyleCount": 711
+  },
+  "contact": {
+    "route": "#/contact",
+    "metrics": {
+      "loadEventEnd": 575,
+      "domContentLoadedEventEnd": 569.8000000119209,
+      "domInteractive": 198.5,
+      "resourceCount": 88,
+      "totalTransferSize": 22064434,
+      "jsResourceCount": 55,
+      "jsTransferSize": 21173719,
+      "headingText": "संस्थेशी संपर्क साधा",
+      "bodyTextLength": 2594
+    },
+    "domNodes": 636,
+    "jsHeapUsedSize": 25739212,
+    "jsHeapTotalSize": 36978688,
+    "layoutCount": 136,
+    "recalcStyleCount": 803
+  },
+  "privacy": {
+    "route": "#/privacy",
+    "metrics": {
+      "loadEventEnd": 575,
+      "domContentLoadedEventEnd": 569.8000000119209,
+      "domInteractive": 198.5,
+      "resourceCount": 90,
+      "totalTransferSize": 22211596,
+      "jsResourceCount": 56,
+      "jsTransferSize": 21320581,
+      "headingText": "गोपनीयता, डेटा सुरक्षा व लाभार्थी सन्मान धोरण",
+      "bodyTextLength": 5304
+    },
+    "domNodes": 1003,
+    "jsHeapUsedSize": 27953896,
+    "jsHeapTotalSize": 36978688,
+    "layoutCount": 147,
+    "recalcStyleCount": 897
+  },
+  "terms": {
+    "route": "#/terms",
+    "metrics": {
+      "loadEventEnd": 575,
+      "domContentLoadedEventEnd": 569.8000000119209,
+      "domInteractive": 198.5,
+      "resourceCount": 92,
+      "totalTransferSize": 22264347,
+      "jsResourceCount": 57,
+      "jsTransferSize": 21373032,
+      "headingText": "अटी व शर्ती (सेवा नियम)",
+      "bodyTextLength": 3319
+    },
+    "domNodes": 1183,
+    "jsHeapUsedSize": 29524204,
+    "jsHeapTotalSize": 38551552,
+    "layoutCount": 149,
+    "recalcStyleCount": 992
+  },
+  "sitemap": {
+    "route": "#/sitemap",
+    "metrics": {
+      "loadEventEnd": 575,
+      "domContentLoadedEventEnd": 569.8000000119209,
+      "domInteractive": 198.5,
+      "resourceCount": 94,
+      "totalTransferSize": 22312117,
+      "jsResourceCount": 58,
+      "jsTransferSize": 21420502,
+      "headingText": "संकेतस्थळ नकाशा (Sitemap)",
+      "bodyTextLength": 3306
+    },
+    "domNodes": 1582,
+    "jsHeapUsedSize": 31817456,
+    "jsHeapTotalSize": 40648704,
+    "layoutCount": 151,
+    "recalcStyleCount": 1011
+  },
+  "admin": {
+    "route": "#/admin",
+    "metrics": {
+      "loadEventEnd": 575,
+      "domContentLoadedEventEnd": 569.8000000119209,
+      "domInteractive": 198.5,
+      "resourceCount": 98,
+      "totalTransferSize": 24145884,
+      "jsResourceCount": 61,
+      "jsTransferSize": 23253969,
+      "headingText": "प्रशासकीय लॉगिन (Admin Login)",
+      "bodyTextLength": 207
+    },
+    "domNodes": 104,
+    "jsHeapUsedSize": 27325288,
+    "jsHeapTotalSize": 42541056,
+    "layoutCount": 153,
+    "recalcStyleCount": 1029
+  },
+  "errors": {
+    "consoleErrors": [],
+    "networkErrors": []
+  }
+}

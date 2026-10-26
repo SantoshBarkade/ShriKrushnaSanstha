@@ -1,0 +1,67 @@
+{
+  "proxyAvailability": false,
+  "directApiAvailability": false,
+  "resources": {
+    "all": {
+      "error": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+    },
+    "initiatives": {
+      "error": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+    },
+    "officials": {
+      "error": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+    },
+    "gallery": {
+      "error": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+    },
+    "videos": {
+      "error": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+    },
+    "reports": {
+      "error": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+    },
+    "announcements": {
+      "error": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+    },
+    "schemes": {
+      "error": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+    },
+    "events": {
+      "error": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+    },
+    "contact": {
+      "error": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+    },
+    "settings": {
+      "error": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+    },
+    "page_sections": {
+      "error": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+    },
+    "site_pages": {
+      "error": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+    }
+  },
+  "forms": {
+    "inquiryEmptyValidation": {
+      "error": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+    },
+    "inquiryHoneypot": {
+      "error": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+    },
+    "volunteerEmptyValidation": {
+      "error": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+    },
+    "volunteerHoneypot": {
+      "error": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+    }
+  },
+  "auth": {
+    "emptyLogin": {
+      "error": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+    },
+    "invalidCredentials": {
+      "error": "Unexpected token '<', \"<!doctype \"... is not valid JSON"
+    }
+  }
+}

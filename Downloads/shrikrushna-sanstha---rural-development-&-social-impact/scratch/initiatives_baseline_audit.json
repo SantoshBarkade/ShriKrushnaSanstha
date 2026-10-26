@@ -1,0 +1,14 @@
+{
+  "viewports": [
+    {
+      "viewport": "initiatives_baseline_1440.png"
+    },
+    {
+      "viewport": "initiatives_baseline_768.png"
+    },
+    {
+      "viewport": "initiatives_baseline_390.png"
+    }
+  ],
+  "categories": []
+}

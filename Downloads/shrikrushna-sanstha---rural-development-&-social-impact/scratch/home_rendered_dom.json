@@ -1,0 +1,746 @@
+{
+  "mr": {
+    "lang": "mr",
+    "title": "श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था | नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर",
+    "headerItems": [
+      {
+        "tag": "SPAN",
+        "text": "श्रीकृष्ण सांस्कृतिक व",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "ग्रामीण विकास संस्था",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "मराठी",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "EN",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "संपर्क साधा",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "संपर्क साधा",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Admin",
+        "aria": "प्रशासकीय नियंत्रण कक्ष",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "Admin",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "",
+        "aria": "मेनू उघडा",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "मुखपृष्ठ",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "मुखपृष्ठ",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "संस्थेविषयी",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "संस्थेविषयी",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "पदाधिकारी",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "पदाधिकारी",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "उपक्रम",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "उपक्रम",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "योजना",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "योजना",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "आमचे कार्य",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "आमचे कार्य",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "छायाचित्रे",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "छायाचित्रे",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "व्हिडिओ",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "व्हिडिओ",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "अहवाल",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "अहवाल",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "बातम्या",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "बातम्या",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "स्वयंसेवक",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "स्वयंसेवक",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "संपर्क",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "संपर्क",
+        "aria": "",
+        "href": ""
+      }
+    ],
+    "mainSections": [
+      {
+        "index": 1,
+        "className": "relative overflow-hidden min-h-[92vh] flex flex-col justify-end",
+        "ariaLabel": "मुख्य परिचय",
+        "headings": [
+          "संस्कृती, शिक्षण, आरोग्य\nआणि शाश्वत ग्रामीण विकास\nएकत्रितपणे\nसर्वांच्या विकासासाठी",
+          "शिक्षण",
+          "आरोग्य",
+          "संस्कृती",
+          "समुदाय"
+        ],
+        "paragraphs": [
+          "ग्रामीण भागातील शिक्षण, सांस्कृतिक संवर्धन, आरोग्य, पर्यावरण आणि सामाजिक विकासासाठी समर्पित संस्था.",
+          "“॥ सेवा परमो धर्मः • ग्रामविकास हाच उज्ज्वल भविष्याचा पाया ॥”",
+          "गुणवत्तापूर्ण शिक्षण आणि विद्यार्थ्यांच्या सर्वांगीण विकासासाठी उपक्रम.",
+          "ग्रामीण आरोग्य, जनजागृती आणि आरोग्य सेवा कार्यक्रम.",
+          "सांस्कृतिक वारसा संवर्धन आणि सामाजिक ऐक्य.",
+          "शाश्वत ग्रामीण विकास आणि समुदाय सहयोग वाढविणे."
+        ],
+        "buttons": [
+          "आमचे कार्य पाहा",
+          "संस्थेविषयी सविस्तर माहिती",
+          "शिक्षण\n\nगुणवत्तापूर्ण शिक्षण आणि विद्यार्थ्यांच्या सर्वांगीण विकासासाठी उपक्रम.",
+          "आरोग्य\n\nग्रामीण आरोग्य, जनजागृती आणि आरोग्य सेवा कार्यक्रम.",
+          "संस्कृती\n\nसांस्कृतिक वारसा संवर्धन आणि सामाजिक ऐक्य.",
+          "समुदाय\n\nशाश्वत ग्रामीण विकास आणि समुदाय सहयोग वाढविणे."
+        ],
+        "images": [
+          {
+            "src": "/hero-scene-main.jpg",
+            "alt": "श्रीकृष्ण संस्था - ग्रामीण शिक्षण व विकास"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "className": "max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 pt-2",
+        "ariaLabel": null,
+        "headings": [],
+        "paragraphs": [
+          "नागरिक व विद्यार्थी लाभार्थ्यांपर्यंत पोहोच",
+          "ग्रामपंचायतींमध्ये उपक्रम विस्तार",
+          "शिक्षण, आरोग्य, संस्कृती व विकास उपक्रम",
+          "“संस्कृतीचे जतन, शिक्षणाचा प्रसार, आणि समृद्ध ग्रामीण विकास हीच आमची दिशा.”"
+        ],
+        "buttons": [],
+        "images": []
+      },
+      {
+        "index": 3,
+        "className": "max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8",
+        "ariaLabel": null,
+        "headings": [
+          "ग्रामीण विकासासाठी समर्पित संस्था"
+        ],
+        "paragraphs": [
+          "नादरपूर व परिसरातील ग्रामीण भागात शिक्षण, कला-संस्कृती, आरोग्य, पर्यावरण आणि सामाजिक विकास यासाठी कार्य करणारी एक सेवाभावी संस्था. स्थानिक समुदायासोबत सहकार्याने शाश्वत विकासाच्या उपक्रमांवर आमचा भर आहे."
+        ],
+        "buttons": [
+          "आमची संस्था - एक झलक\n०३:१५",
+          "संस्थेविषयी सविस्तर माहिती"
+        ],
+        "images": [
+          {
+            "src": "https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&w=640&q=75",
+            "alt": "CSC बाल विद्यालय व सर्व शिक्षा अभियान — आनंददायी शिक्षण उपक्रम"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "className": "max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8",
+        "ariaLabel": null,
+        "headings": [
+          "संस्थेच्या उपक्रमांच्या ताज्या बातम्या",
+          "मोफत नेत्रतपासणी, रक्तदाब, मधुमेह व योग-प्राणायाम आरोग्य शिबीर संपन्न",
+          "CSC बाल विद्यालय व RTE २५% मोफत प्रवेश प्रक्रिया मार्गदर्शन शिबीर"
+        ],
+        "paragraphs": [
+          "तज्ज्ञ डॉक्टरांच्या उपस्थितीत नादरपूर परिसरातील ग्रामस्थ व ज्येष्ठ नागरिकांची मोफत आरोग्य तपासणी व व्यसनमुक्ती समुपदेशन संपन्न.",
+          "नादरपूर व कन्नड तालुक्यातील पालकांसाठी RTE २५% ऑनलाइन अर्ज, शालेय व्यवस्थापन समिती बैठक आणि CSC बाल विद्यालय प्रवेशाबाबत विशेष मार्गदर्शन."
+        ],
+        "buttons": [
+          "सर्व बातम्या पाहा",
+          "आरोग्यविषयक उपक्रम\n१२ फेब्रुवारी २०२५\nमोफत नेत्रतपासणी, रक्तदाब, मधुमेह व योग-प्राणायाम आरोग्य शिबीर संपन्न\n\nतज्ज्ञ डॉक्टरांच्या उपस्थितीत नादरपूर परिसरातील ग्रामस्थ व ज्येष्ठ नागरिकांची मोफत आरोग्य तपासणी व व्यसनमुक्ती समुपदेशन संपन्न.\n\nअधिक वाचा",
+          "शिक्षण\n२५ मार्च २०२५\nCSC बाल विद्यालय व RTE २५% मोफत प्रवेश प्रक्रिया मार्गदर्शन शिबीर\n\nनादरपूर व कन्नड तालुक्यातील पालकांसाठी RTE २५% ऑनलाइन अर्ज, शालेय व्यवस्थापन समिती बैठक आणि CSC बाल विद्यालय प्रवेशाबाबत विशेष मार्गदर्शन.\n\nअधिक वाचा"
+        ],
+        "images": [
+          {
+            "src": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=800&q=80",
+            "alt": "मोफत नेत्रतपासणी, रक्तदाब, मधुमेह व योग-प्राणायाम आरोग्य शिबीर संपन्न"
+          },
+          {
+            "src": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=800&q=80",
+            "alt": "CSC बाल विद्यालय व RTE २५% मोफत प्रवेश प्रक्रिया मार्गदर्शन शिबीर"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "className": "max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8",
+        "ariaLabel": null,
+        "headings": [
+          "आपणही या परिवर्तनाच्या प्रवासाचा भाग व्हा"
+        ],
+        "paragraphs": [
+          "शिक्षण, आरोग्य, संस्कृती आणि ग्रामीण विकासासाठी आमच्यासोबत हातमिळवणी करा."
+        ],
+        "buttons": [
+          "संपर्क साधा"
+        ],
+        "images": []
+      }
+    ],
+    "footerHeadings": [
+      "महत्त्वाचे दुवे",
+      "पारदर्शकता व अहवाल",
+      "मुख्य कार्यालय"
+    ],
+    "footerLinks": [
+      "›\nसंस्थेविषयी",
+      "›\nसंस्थेविषयी",
+      "›\nपदाधिकारी",
+      "›\nपदाधिकारी",
+      "›\nउपक्रम",
+      "›\nउपक्रम",
+      "›\nशासकीय योजना",
+      "›\nशासकीय योजना",
+      "›\nआमचे कार्य",
+      "›\nआमचे कार्य",
+      "›\nछायाचित्रे",
+      "›\nछायाचित्रे",
+      "›\nव्हिडिओ",
+      "›\nव्हिडिओ",
+      "›\nअहवाल",
+      "›\nअहवाल",
+      "›\nबातम्या",
+      "›\nबातम्या",
+      "वार्षिक कार्य अहवाल",
+      "वार्षिक कार्य अहवाल",
+      "लेखापरीक्षण अहवाल",
+      "लेखापरीक्षण अहवाल",
+      "गोपनीयता व नियम धोरण",
+      "गोपनीयता व नियम धोरण",
+      "स्वयंसेवक सहभाग नोंदणी",
+      "स्वयंसेवक सहभाग नोंदणी",
+      "+91 9923512482",
+      "+91 8888684966",
+      "shrikrushnasanstha.nadarpur@gmail.com",
+      "संपर्क साधा",
+      "गोपनीयता धोरण",
+      "अटी व शर्ती",
+      "संकेतस्थळ नकाशा",
+      "Admin"
+    ],
+    "footerParagraphs": [
+      "नादरपूर व परिसरातील ग्रामीण भागात शिक्षण, कला-संस्कृती, आरोग्य, पर्यावरण आणि सामाजिक विकासासाठी समर्पित संस्था.",
+      "श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था, मु. पो. नादरपूर, तहसील कन्नड, जिल्हा छत्रपती संभाजीनगर, महाराष्ट्र",
+      "सोमवार ते शनिवार: सकाळी १०:०० ते सायंकाळी ०६:००",
+      "© २०२६ श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था. सर्व हक्क राखीव."
+    ]
+  },
+  "en": {
+    "lang": "en",
+    "title": "Shrikrushna Sanstha | Rural Development & Social Welfare, Nadarpur, Kannad",
+    "headerItems": [
+      {
+        "tag": "SPAN",
+        "text": "SHRIKRUSHNA SANSKRUTIK VA",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "GRAMIN VIKAS SANSTHA",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "Nadarpur, Tahsil Kannad, Dist. Chhatrapati Sambhajinagar, Maharashtra",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "मराठी",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "EN",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Contact Us",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "Contact Us",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Admin",
+        "aria": "Admin Portal Login",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "Admin",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "",
+        "aria": "मेनू उघडा",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Home",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "Home",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "About",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "About",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Officials",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "Officials",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Initiatives",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "Initiatives",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Schemes",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "Schemes",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Our Work",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "Our Work",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Gallery",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "Gallery",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Videos",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "Videos",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Reports",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "Reports",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "News",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "News",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Volunteers",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "Volunteers",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Contact",
+        "aria": "",
+        "href": ""
+      },
+      {
+        "tag": "SPAN",
+        "text": "Contact",
+        "aria": "",
+        "href": ""
+      }
+    ],
+    "mainSections": [
+      {
+        "index": 1,
+        "className": "relative overflow-hidden min-h-[92vh] flex flex-col justify-end",
+        "ariaLabel": "मुख्य परिचय",
+        "headings": [
+          "Culture, Education, Healthcare\n& Sustainable Rural Progress\nTogether\nfor Collective Growth",
+          "Education",
+          "Healthcare",
+          "Culture",
+          "Community"
+        ],
+        "paragraphs": [
+          "An institution wholeheartedly committed to quality schooling, cultural heritage preservation, public health, environment, and rural community upliftment.",
+          "“Service is Supreme Duty • Rural Development is the Foundation of a Bright Future”",
+          "Quality education and holistic child development initiatives.",
+          "Rural healthcare camps, health awareness, and medical care programs.",
+          "Preserving cultural heritage, arts, and community harmony.",
+          "Sustainable rural progress and empowering community leadership."
+        ],
+        "buttons": [
+          "View Our Work",
+          "About the Sanstha",
+          "Education\n\nQuality education and holistic child development initiatives.",
+          "Healthcare\n\nRural healthcare camps, health awareness, and medical care programs.",
+          "Culture\n\nPreserving cultural heritage, arts, and community harmony.",
+          "Community\n\nSustainable rural progress and empowering community leadership."
+        ],
+        "images": [
+          {
+            "src": "/hero-scene-main.jpg",
+            "alt": "Shrikrushna Sanstha - Rural Education and Progress"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "className": "max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 pt-2",
+        "ariaLabel": null,
+        "headings": [],
+        "paragraphs": [
+          "Beneficiaries Reached",
+          "Gram Panchayats Outreach",
+          "Holistic Development Programs",
+          "“Preserving culture, advancing education, and fostering sustainable rural progress is our core direction.”"
+        ],
+        "buttons": [],
+        "images": []
+      },
+      {
+        "index": 3,
+        "className": "max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8",
+        "ariaLabel": null,
+        "headings": [
+          "An Institution Dedicated to Rural Transformation"
+        ],
+        "paragraphs": [
+          "A public welfare organization working tirelessly across Nadarpur and surrounding rural regions for education, arts & culture, public health, environment, and social upliftment through active community cooperation."
+        ],
+        "buttons": [
+          "Our Sanstha - At a Glance\n03:15",
+          "Learn More About Sanstha"
+        ],
+        "images": [
+          {
+            "src": "https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&w=640&q=75",
+            "alt": "CSC Bal Vidyalaya & Sarva Shiksha Abhiyan — Joyful Learning Documentary"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "className": "max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8",
+        "ariaLabel": null,
+        "headings": [
+          "Latest Updates & News from Our Initiatives",
+          "Free Eye Check-up, BP, Diabetes & Yoga Health Camp Concluded",
+          "CSC Bal Vidyalaya & RTE 25% Admission Guidance Camp"
+        ],
+        "paragraphs": [
+          "Expert medical team conducted comprehensive eye, blood pressure, and blood sugar screenings alongside yoga-pranayama sessions for rural residents.",
+          "Special parent orientation in Nadarpur and Kannad block for RTE 25% admission applications and joyful learning enrollment at CSC Bal Vidyalaya."
+        ],
+        "buttons": [
+          "View All News",
+          "आरोग्यविषयक उपक्रम\nFebruary 12, 2025\nFree Eye Check-up, BP, Diabetes & Yoga Health Camp Concluded\n\nExpert medical team conducted comprehensive eye, blood pressure, and blood sugar screenings alongside yoga-pranayama sessions for rural residents.\n\nRead More",
+          "शिक्षण\nMarch 25, 2025\nCSC Bal Vidyalaya & RTE 25% Admission Guidance Camp\n\nSpecial parent orientation in Nadarpur and Kannad block for RTE 25% admission applications and joyful learning enrollment at CSC Bal Vidyalaya.\n\nRead More"
+        ],
+        "images": [
+          {
+            "src": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=800&q=80",
+            "alt": "Free Eye Check-up, BP, Diabetes & Yoga Health Camp Concluded"
+          },
+          {
+            "src": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=800&q=80",
+            "alt": "CSC Bal Vidyalaya & RTE 25% Admission Guidance Camp"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "className": "max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8",
+        "ariaLabel": null,
+        "headings": [
+          "Become Part of this Journey of Transformation"
+        ],
+        "paragraphs": [
+          "Join hands with us for education, healthcare, cultural heritage, and rural empowerment."
+        ],
+        "buttons": [
+          "Contact Us"
+        ],
+        "images": []
+      }
+    ],
+    "footerHeadings": [
+      "Important Links",
+      "Transparency & Reports",
+      "Headquarters"
+    ],
+    "footerLinks": [
+      "›\nAbout Us",
+      "›\nAbout Us",
+      "›\nOfficials",
+      "›\nOfficials",
+      "›\nInitiatives",
+      "›\nInitiatives",
+      "›\nGovernment Schemes",
+      "›\nGovernment Schemes",
+      "›\nOur Work",
+      "›\nOur Work",
+      "›\nGallery",
+      "›\nGallery",
+      "›\nVideos",
+      "›\nVideos",
+      "›\nReports",
+      "›\nReports",
+      "›\nNews",
+      "›\nNews",
+      "Annual Activity Reports",
+      "Annual Activity Reports",
+      "Audit & Financial Disclosure",
+      "Audit & Financial Disclosure",
+      "Privacy & Policy",
+      "Privacy & Policy",
+      "Volunteer Registration",
+      "Volunteer Registration",
+      "+91 9923512482",
+      "+91 8888684966",
+      "shrikrushnasanstha.nadarpur@gmail.com",
+      "Contact Us",
+      "Privacy Policy",
+      "Terms & Conditions",
+      "Sitemap",
+      "Admin"
+    ],
+    "footerParagraphs": [
+      "Dedicated to education, culture, public health, environment, and holistic rural transformation across Nadarpur.",
+      "Shrikrushna Sanskrutik and Gramin Vikas Sanstha, At Post Nadarpur, Tahsil Kannad, District Chhatrapati Sambhajinagar, Maharashtra",
+      "Monday to Saturday: 10:00 AM to 06:00 PM",
+      "© 2026 Shrikrushna Sanskrutik Va Gramin Vikas Sanstha. All rights reserved."
+    ]
+  }
+}

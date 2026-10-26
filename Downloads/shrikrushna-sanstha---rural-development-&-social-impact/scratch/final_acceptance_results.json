@@ -1,0 +1,46 @@
+{
+  "httpCheck": {
+    "status": "PASS",
+    "code": 200
+  },
+  "test1_seoMetadata": {
+    "renderedTitleMr": "मुख्यपृष्ठ (चाचणी) | श्रीकृष्ण संस्था",
+    "renderedDescMr": "श्रीकृष्ण बहुउद्देशीय संस्था नादरपूर अधिकृत चाचणी वर्णन",
+    "renderedTitleEn": "Home (Test) | Shrikrushna Sanstha",
+    "renderedDescEn": "Shrikrushna Sanstha Nadarpur official test description",
+    "verifiedBilingual": true,
+    "restored": true
+  },
+  "test2_identityMissionPresets": {
+    "presetBlockPresent": true,
+    "customizationVerifiedMr": true,
+    "customizationVerifiedEn": true,
+    "fallbackReversionVerified": true
+  },
+  "test3_contactRegistration": {
+    "renderedInChecklistMr": true,
+    "renderedInFooterMr": true,
+    "renderedInChecklistEn": true,
+    "renderedInFooterEn": true,
+    "restored": true
+  },
+  "test4_announcementsAndVideo": {
+    "hasAnnouncementsMr": true,
+    "hasVideoSectionMr": true,
+    "hasAnnouncementsEn": true,
+    "hasVideoSectionEn": true,
+    "verified": true
+  },
+  "test5_customSectionSeparation": {
+    "customRenderedMr": true,
+    "customRenderedEn": true,
+    "builtinSectionsPreservedMr": true,
+    "builtinSectionsPreservedEn": true,
+    "deletedCleanly": true
+  },
+  "test6_counterStatus": {
+    "status": "VERIFIED_LOCKED",
+    "reason": "Safe numeric parser verified (156 tests passing). Targets preserved at 5000+ and 25+ per OD-01 & OD-02."
+  },
+  "allPassed": true
+}

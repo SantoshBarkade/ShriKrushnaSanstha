@@ -1,0 +1,1403 @@
+{
+  "ids": [
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 168,
+      "text": "? (state.contactInfo?.regNoMr || 'रजि. क्र.: एक १४६६८ (औ)')"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 169,
+      "text": ": (state.contactInfo?.regNoEn || 'Reg. No.: Ek 14668 (A)');"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 212,
+      "text": ": (lang === 'mr' ? 'स्थानिक कार्यक्षेत्र व नोंदणीकृत कार्यालय' : 'Local Headquarters & Core Base'),"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 220,
+      "text": "? 'कन्नड तालुक्यातील नादरपूर हे श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्थेचे नोंदणीकृत मुख्य कार्यालय असून येथून संपूर्ण परिसरातील ग्रामपंचायती, शाळा व वाड्या-वस्त्यांवर प्रत्यक्ष उपक्रम राबविले जातात. स्थानिक ग्रामपंचायत व ग्रामस्थांच्या सहकार्याने शिक्षण, आरोग्य शिबिरे, सांस्कृतिक वर्ग आणि शासकीय योजनांचे मार्गदर्शन तळागाळातील प्रत्येक गरजू कुटुंबापर्यंत पोहोचवले जाते.'"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 240,
+      "text": "? 'भारत सरकारच्या नीती आयोग (NGO Darpan) मार्गदर्शक तत्त्वांना अनुसरून आणि महाराष्ट्र शासनाच्या सामाजिक न्याय, कृषी, शालेय शिक्षण व क्रीडा विभागाच्या लोककल्याणकारी योजनांचा लाभ ग्रामीण बांधवांना मिळवून देण्यासाठी संस्था सेतुचे कार्य करते. पारदर्शक लेखापरीक्षण आणि सामाजिक बांधीलकी हे संस्थेच्या कार्याचे मुख्य अधिष्ठान आहे.'"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 241,
+      "text": ": 'In close alignment with NITI Aayog (NGO Darpan) guidelines and policies of Maharashtra state departments for Social Justice, Agriculture, and School Education, the Sanstha acts as a transparent grassroots facilitator ensuring entitlements reach deserving rural beneficiaries without intermediaries.',"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 357,
+      "text": "'बायोमेट्रिक आधार व कामगार सुरक्षा: बायोमेट्रिक आधार कार्ड, ई-श्रम कामगार कार्ड आणि हस्तकला कारागीर कार्ड नोंदणी.',"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 438,
+      "text": "lang === 'mr' ? 'ई-श्रम कामगार कार्ड नोंदणी अभियान' : 'e-Shram Worker Card Registration Drive',"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 547,
+      "text": "? 'सोसायटी नोंदणी कायदा १८६० व मुंबई विश्वस्त कायदा १९५०'"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 1168,
+      "text": "? 'संस्थेचे वार्षिक कार्य अहवाल, हिशोब तपासणी आणि कायदेशीर नोंदणी दस्तऐवज सर्वसामान्यांसाठी खुले आहेत.'"
+    },
+    {
+      "file": "src\\components\\admin\\MediaLibraryModule.tsx",
+      "line": 260,
+      "text": "{lang === 'mr' ? 'एकूण नोंदणीकृत फाइल्स' : 'Total Registered Files'}"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 469,
+      "text": "showToast(lang === 'mr' ? 'स्वयंसेवक नोंदणी यशस्वीरित्या हटवली गेली.' : 'Volunteer registration deleted successfully.');"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 472,
+      "text": "showToast(err?.message || (lang === 'mr' ? 'नोंदणी हटवण्यात अयशस्वी.' : 'Failed to delete volunteer.'));"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 2421,
+      "text": "{ id: 'volunteers', labelMr: 'स्वयंसेवक नोंदणी (Volunteers)', labelEn: 'Volunteer Registrations', icon: HeartHandshake, badge: volunteerCounts.new },"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 2688,
+      "text": "{lang === 'mr' ? 'स्वयंसेवक नोंदणी' : 'Volunteer Registrations'}"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 3102,
+      "text": "{lang === 'mr' ? 'स्वयंसेवक नोंदणी (Volunteer Registrations)' : 'Volunteer Registrations'}"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 3106,
+      "text": "? 'नागरिक, युवक व सामाजिक कार्यकर्त्यांकडून प्राप्त झालेली स्वयंसेवक नोंदणी व कार्यक्षेत्रे.'"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 3116,
+      "text": "title={lang === 'mr' ? 'नोंदणी रिफ्रेश करा' : 'Refresh volunteers'}"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 3326,
+      "text": "? 'अद्याप कोणतीही स्वयंसेवक नोंदणी प्राप्त झालेली नाही'"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 3335,
+      "text": "? 'वेबसाईटवरील स्वयंसेवक फॉर्मद्वारे येणारी नोंदणी येथे दिसेल.'"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 3541,
+      "text": "title={lang === 'mr' ? 'नोंदणी हटवा' : 'Delete registration'}"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 5199,
+      "text": "? `${stagedUploads.length} फोटो सर्व्हरवर यशस्वीरित्या सेव्ह झाले (डेटाबेस नोंदणीसाठी तयार)`"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 8064,
+      "text": "{lang === 'mr' ? 'नोंदणी क्रमांक (मराठी)' : 'Reg. No. (Marathi)'}"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 8076,
+      "text": "{lang === 'mr' ? 'नोंदणी क्रमांक (English)' : 'Reg. No. (English)'}"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 9032,
+      "text": "{lang === 'mr' ? 'नोंदणी तारीख' : 'Date & Time'}"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 9191,
+      "text": "{lang === 'mr' ? 'स्वयंसेवक नोंदणी तपशील' : 'Volunteer Application Details'}"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 9314,
+      "text": "{lang === 'mr' ? 'नोंदणी स्थिती बदला (Status Workflow)' : 'Update Status Workflow'}"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 9392,
+      "text": "<span>{lang === 'mr' ? 'नोंदणी हटवा' : 'Delete Application'}</span>"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 9426,
+      "text": "{lang === 'mr' ? 'ही स्वयंसेवक नोंदणी हटवायची आहे का?' : 'Delete This Volunteer Registration?'}"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 9430,
+      "text": "? `\"${volunteerToDelete.fullName}\" (मोबाईल: ${volunteerToDelete.phone}, गाव: ${volunteerToDelete.village}) यांची स्वयंसेवक नोंदणी (#VOL-${volunteerToDelete.id}) कायमची हटवली जाईल. ही क्रिया पूर्ववत करता येणार नाही.`"
+    },
+    {
+      "file": "src\\components\\ContactView.tsx",
+      "line": 169,
+      "text": "{lang === 'mr' ? 'रजि. क्र.: एक १४६६८ (औ)' : 'Reg: Ek 14668 (A)'}"
+    },
+    {
+      "file": "src\\components\\ContactView.tsx",
+      "line": 173,
+      "text": "{lang === 'mr' ? 'नीति आयोग Darpan: MH/2023/0365444' : 'NITI Aayog Darpan: MH/2023/0365444'}"
+    },
+    {
+      "file": "src\\components\\ContactView.tsx",
+      "line": 335,
+      "text": "{lang === 'mr' ? 'धर्मादाय आयुक्त नोंदणी क्र.:' : 'Charity Commissioner Reg. No:'}"
+    },
+    {
+      "file": "src\\components\\ContactView.tsx",
+      "line": 635,
+      "text": "<span>{lang === 'mr' ? 'स्वयंसेवक नोंदणी करा' : 'Register as Volunteer'}</span>"
+    },
+    {
+      "file": "src\\components\\Footer.tsx",
+      "line": 69,
+      "text": "['volunteer', 'स्वयंसेवक सहभाग नोंदणी', 'Volunteer Registration', HeartHandshake],"
+    },
+    {
+      "file": "src\\components\\Footer.tsx",
+      "line": 100,
+      "text": "<span>{lang === 'mr' ? 'नोंदणी क्र.: एक १४६६८ (औ)' : 'Reg. No.: Ek 14668 (A)'}</span>"
+    },
+    {
+      "file": "src\\components\\GalleryView.tsx",
+      "line": 246,
+      "text": "<span>NITI Aayog: MH/2023/0364941</span>"
+    },
+    {
+      "file": "src\\components\\GalleryView.tsx",
+      "line": 250,
+      "text": "<span>Reg: F-0008544/AURANGABAD</span>"
+    },
+    {
+      "file": "src\\components\\HeroSection.tsx",
+      "line": 227,
+      "text": "<span>{lang === 'mr' ? 'अधिकृत नोंदणीकृत संस्था' : 'Govt. Registered NGO'}</span>"
+    },
+    {
+      "file": "src\\components\\HeroSection.tsx",
+      "line": 230,
+      "text": "{lang === 'mr' ? 'नोंदणी क्र.: एक १४६६८ (औ)' : 'Reg. No.: Ek 14668 (A)'}"
+    },
+    {
+      "file": "src\\components\\HomeOverview.tsx",
+      "line": 218,
+      "text": "lang === 'mr' ? 'अधिकृत नोंदणी (रजि. नं. एक १४६६८ (औ))' : 'Govt. Registered (Ek 14668 A)',"
+    },
+    {
+      "file": "src\\components\\InitiativesView.tsx",
+      "line": 291,
+      "text": "{lang === 'mr' ? 'रजि. क्र.: एक १४६६८ (औ)' : 'Reg: Ek 14668 (A)'}"
+    },
+    {
+      "file": "src\\components\\InitiativesView.tsx",
+      "line": 295,
+      "text": "{lang === 'mr' ? 'नीति आयोग Darpan: MH/2023/0365444' : 'NITI Aayog Darpan: MH/2023/0365444'}"
+    },
+    {
+      "file": "src\\components\\InitiativesView.tsx",
+      "line": 323,
+      "text": "<span>{lang === 'mr' ? 'धर्मादाय आयुक्त नोंदणीकृत संस्था' : 'Charity Commissioner Registered Trust'}</span>"
+    },
+    {
+      "file": "src\\components\\InitiativesView.tsx",
+      "line": 606,
+      "text": "? 'संजय गांधी निराधार, श्रावणबाळ, ई-श्रम, कामगार नोंदणी किंवा शालेय प्रवेशासाठी नागरिकांकडून कोणताही मोबदला किंवा शुल्क घेतले जात नाही.'"
+    },
+    {
+      "file": "src\\components\\InitiativesView.tsx",
+      "line": 616,
+      "text": "{lang === 'mr' ? 'कायदेशीर नोंदणी व ऑडिट' : 'Statutory Audits & Filings'}"
+    },
+    {
+      "file": "src\\components\\InitiativesView.tsx",
+      "line": 621,
+      "text": ": 'Annual audited financial statements and activity reports regularly submitted to the Charity Commissioner and NITI Aayog Darpan portal.'}"
+    },
+    {
+      "file": "src\\components\\NewsView.tsx",
+      "line": 365,
+      "text": "? 'अधिकृत प्रसिद्धी दालन • नोंदणी क्र. एक १४६६८ (औ)'"
+    },
+    {
+      "file": "src\\components\\NewsView.tsx",
+      "line": 366,
+      "text": ": 'Official Communications • Reg. No. Ek 14668 (A)'}"
+    },
+    {
+      "file": "src\\components\\OfficialsView.tsx",
+      "line": 56,
+      "text": "? (state.contactInfo?.regNoMr || 'रजि. क्र.: एक १४६६८ (औ)')"
+    },
+    {
+      "file": "src\\components\\OfficialsView.tsx",
+      "line": 57,
+      "text": ": (state.contactInfo?.regNoEn || 'Reg. No.: Ek 14668 (A)');"
+    },
+    {
+      "file": "src\\components\\OfficialsView.tsx",
+      "line": 319,
+      "text": "{lang === 'mr' ? '२. कायदेशीर नोंदणी व हिशोब' : '2. Statutory Compliance'}"
+    },
+    {
+      "file": "src\\components\\OfficialsView.tsx",
+      "line": 323,
+      "text": "? 'नोंदणी क्र. एक १४६६८ (औ), अधिकृत सनदी लेखापालांकडून (CA) वार्षिक लेखापरीक्षण.'"
+    },
+    {
+      "file": "src\\components\\OfficialsView.tsx",
+      "line": 324,
+      "text": ": 'Reg. No. Ek 14668 (A), certified Chartered Accountant annual audits and reports.'}"
+    },
+    {
+      "file": "src\\components\\OfficialsView.tsx",
+      "line": 487,
+      "text": "<span className=\"text-slate-500\">{lang === 'mr' ? 'संस्था नोंदणी:' : 'Trust Registration:'}</span>"
+    },
+    {
+      "file": "src\\components\\PrivacyPolicyView.tsx",
+      "line": 116,
+      "text": "? '॥ सेवेची पावले, परिवर्तनाची दिशा ॥ • नोंदणी क्र. एक १४६६८ (औ)'"
+    },
+    {
+      "file": "src\\components\\PrivacyPolicyView.tsx",
+      "line": 117,
+      "text": ": 'Steps of Service, Direction of Transformation • Reg. No. Ek 14668 (A)'}"
+    },
+    {
+      "file": "src\\components\\PrivacyPolicyView.tsx",
+      "line": 299,
+      "text": "{lang === 'mr' ? 'सोसायटी नोंदणी व सार्वजनिक विश्वस्त कायदेशीर चौकट' : 'Legal framework under Societies & Trusts Act'}"
+    },
+    {
+      "file": "src\\components\\PrivacyPolicyView.tsx",
+      "line": 307,
+      "text": "? 'श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था ही सोसायटी नोंदणी कायदा १८६० (नोंदणी क्र. एक १४६६८ (औ)) आणि मुंबई सार्वजनिक विश्वस्त कायदा १९५० अन्वये नादरपूर, तालुका कन्नड, जिल्हा छत्रपती संभाजीनगर (महाराष्ट्र) येथे नोंदणीकृत अधिकृत स्वयंसेवी संस्था आहे.'"
+    },
+    {
+      "file": "src\\components\\PrivacyPolicyView.tsx",
+      "line": 308,
+      "text": ": 'Shrikrushna Sanskrutik and Gramin Vikas Sanstha is an authorized social welfare society registered under the Societies Registration Act 1860 (Registration No. Ek 14668 (A)) and Mumbai Public Trusts Act 1950, headquartered at Nadarpur, Tahsil Kannad, District Chhatrapati Sambhajinagar, Maharashtra.'}"
+    },
+    {
+      "file": "src\\components\\PrivacyPolicyView.tsx",
+      "line": 312,
+      "text": "? 'हे धोरण आमच्या अधिकृत संकेतस्थळावरून (shrikrushnasanstha.org) पुरविल्या जाणाऱ्या सर्व सार्वजनिक माहिती, नागरिक विचारणा अर्ज (Contact Form), स्वयंसेवक नोंदणी अर्ज (Volunteer Form) आणि सार्वजनिक उपक्रम दस्तऐवजीकरणासाठी लागू आहे.'"
+    },
+    {
+      "file": "src\\components\\ReportsView.tsx",
+      "line": 188,
+      "text": "<span>NITI Aayog: MH/2023/0364941</span>"
+    },
+    {
+      "file": "src\\components\\ReportsView.tsx",
+      "line": 192,
+      "text": "<span>Reg: F-0008544/AURANGABAD</span>"
+    },
+    {
+      "file": "src\\components\\SansthaLogo.tsx",
+      "line": 15,
+      "text": "* Reg. No.: Ek 14668 (A) | रजि. नं.: एक 14668 (औ)"
+    },
+    {
+      "file": "src\\components\\SansthaLogo.tsx",
+      "line": 135,
+      "text": "रजि. नं.: एक १४६६८ (औ)"
+    },
+    {
+      "file": "src\\components\\SansthaLogo.tsx",
+      "line": 172,
+      "text": "Reg. No.: Ek 14668 (A)"
+    },
+    {
+      "file": "src\\components\\SchemesView.tsx",
+      "line": 280,
+      "text": "{lang === 'mr' ? 'रजि. क्र.: एक १४६६८ (औ)' : 'Reg: Ek 14668 (A)'}"
+    },
+    {
+      "file": "src\\components\\SchemesView.tsx",
+      "line": 284,
+      "text": "{lang === 'mr' ? 'नीति आयोग Darpan: MH/2023/0365444' : 'NITI Aayog Darpan: MH/2023/0365444'}"
+    },
+    {
+      "file": "src\\components\\SeoManager.tsx",
+      "line": 104,
+      "text": "titleMr: 'स्वयंसेवक नोंदणी अर्ज | श्रीकृष्ण संस्था',"
+    },
+    {
+      "file": "src\\components\\SeoManager.tsx",
+      "line": 106,
+      "text": "descriptionMr: 'ग्रामीण विकास, शिक्षण आणि सामाजिक कार्यात सहभागी होण्यासाठी स्वयंसेवक नोंदणी अर्ज.',"
+    },
+    {
+      "file": "src\\components\\SeoManager.tsx",
+      "line": 217,
+      "text": "identifier: 'एक १४६६८ (औ) [Ek 14668 (A)]',"
+    },
+    {
+      "file": "src\\components\\VideoLibraryView.tsx",
+      "line": 185,
+      "text": "<span>NITI Aayog: MH/2023/0364941</span>"
+    },
+    {
+      "file": "src\\components\\VideoLibraryView.tsx",
+      "line": 189,
+      "text": "<span>Reg: F-0008544/AURANGABAD</span>"
+    },
+    {
+      "file": "src\\components\\VolunteerView.tsx",
+      "line": 210,
+      "text": "? 'आपली स्वयंसेवक नोंदणी यशस्वीरीत्या प्राप्त झाली आहे! श्रीकृष्ण संस्थेच्या सामाजिक उपक्रमात सहभागी होण्यासाठी धन्यवाद. आमची समन्वय टीम लवकरच आपल्याशी संपर्क साधेल.'"
+    },
+    {
+      "file": "src\\components\\VolunteerView.tsx",
+      "line": 241,
+      "text": "? 'नोंदणी सादर करताना त्रुटी आली. कृपया पुन्हा प्रयत्न करा.'"
+    },
+    {
+      "file": "src\\components\\VolunteerView.tsx",
+      "line": 280,
+      "text": "{lang === 'mr' ? 'स्वयंसेवक नोंदणी' : 'Volunteer Registration'}"
+    },
+    {
+      "file": "src\\components\\VolunteerView.tsx",
+      "line": 290,
+      "text": "? '॥ सेवेची पावले, परिवर्तनाची दिशा ॥ • नोंदणी क्र. एक १४६६८ (औ)'"
+    },
+    {
+      "file": "src\\components\\VolunteerView.tsx",
+      "line": 291,
+      "text": ": 'Steps of Service, Direction of Transformation • Reg. No. Ek 14668 (A)'}"
+    },
+    {
+      "file": "src\\components\\VolunteerView.tsx",
+      "line": 316,
+      "text": "{lang === 'mr' ? 'निःशुल्क नोंदणी' : 'No Registration Fee'}"
+    },
+    {
+      "file": "src\\components\\VolunteerView.tsx",
+      "line": 386,
+      "text": "{lang === 'mr' ? 'ऑनलाइन अर्ज नोंदणी' : 'Submit Registration'}"
+    },
+    {
+      "file": "src\\components\\VolunteerView.tsx",
+      "line": 390,
+      "text": "? 'खालील अर्जात आपले नाव, मोबाईल, गाव व आवडते कार्यक्षेत्र निवडून नोंदणी पूर्ण करा.'"
+    },
+    {
+      "file": "src\\components\\VolunteerView.tsx",
+      "line": 444,
+      "text": "<span>{lang === 'mr' ? 'अधिकृत स्वयंसेवक नोंदणी अर्ज' : 'Official Volunteer Application Form'}</span>"
+    },
+    {
+      "file": "src\\components\\VolunteerView.tsx",
+      "line": 467,
+      "text": "{lang === 'mr' ? 'नोंदणी यशस्वीरीत्या प्राप्त झाली!' : 'Registration Received Successfully!'}"
+    },
+    {
+      "file": "src\\components\\VolunteerView.tsx",
+      "line": 474,
+      "text": "<span>{lang === 'mr' ? 'नोंदणी संदर्भ क्रमांक:' : 'Reference ID:'}</span>"
+    },
+    {
+      "file": "src\\components\\VolunteerView.tsx",
+      "line": 897,
+      "text": "<span>{lang === 'mr' ? 'नोंदणी सादर होत आहे...' : 'Submitting Registration...'}</span>"
+    },
+    {
+      "file": "src\\components\\VolunteerView.tsx",
+      "line": 902,
+      "text": "<span>{lang === 'mr' ? 'स्वयंसेवक नोंदणी सबमिट करा' : 'Submit Volunteer Application'}</span>"
+    },
+    {
+      "file": "src\\components\\WorkTimelineView.tsx",
+      "line": 53,
+      "text": "{activities.length} {lang === 'mr' ? 'नोंदणीकृत उपक्रम' : 'Documented Activities'}"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 518,
+      "text": "title: 'ई-श्रम कामगार कार्ड नोंदणी अभियान',"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 524,
+      "text": "summary: 'असंघटित क्षेत्रातील कामगारांना सामाजिक सुरक्षा योजना, विमा आणि थेट लाभासाठी राष्ट्रीय डेटाबेस नोंदणी.',"
+    },
+    {
+      "file": "src\\experience\\knowledge.ts",
+      "line": 67,
+      "text": "'संकेतस्थळावरील स्वयंसेवक नोंदणी किंवा संपर्क पृष्ठाद्वारे सहभाग नोंदवता येतो. शिक्षण, आरोग्य, संस्कृती आणि ग्रामीण विकासाच्या उपक्रमांमध्ये हातमिळवणी करता येते.',"
+    },
+    {
+      "file": "src\\experience\\knowledge.ts",
+      "line": 83,
+      "text": "keywords: ['नोंदणी', 'registration', '14668', 'registered'],"
+    },
+    {
+      "file": "src\\experience\\knowledge.ts",
+      "line": 84,
+      "text": "questionMr: 'संस्था नोंदणीकृत आहे का?',"
+    },
+    {
+      "file": "src\\experience\\knowledge.ts",
+      "line": 86,
+      "text": "answerMr: 'होय. नोंदणी क्रमांक: एक १४६६८ (औ).',"
+    },
+    {
+      "file": "src\\experience\\knowledge.ts",
+      "line": 87,
+      "text": "answerEn: 'Yes. Registration number: Ek 14668 (A).',"
+    },
+    {
+      "file": "src\\utils\\batch1CrudApi.test.ts",
+      "line": 319,
+      "text": "summary: 'असंघटित कामगारांची नोंदणी व लाभ.',"
+    },
+    {
+      "file": "src\\utils\\contentMapper.test.ts",
+      "line": 475,
+      "text": "value_mr: 'नोंदणीकृत संस्था',"
+    },
+    {
+      "file": "src\\utils\\contentMapper.test.ts",
+      "line": 500,
+      "text": "assert.equal(mapped.siteSettings.hero_badge.mr, 'नोंदणीकृत संस्था');"
+    },
+    {
+      "file": "src\\utils\\contentMapper.ts",
+      "line": 749,
+      "text": "regNoMr: 'रजि. नं.: एक 14668 (औ)',"
+    },
+    {
+      "file": "src\\utils\\contentMapper.ts",
+      "line": 750,
+      "text": "regNoEn: 'Reg. No.: Ek 14668 (A)',"
+    },
+    {
+      "file": "src\\utils\\i18n.ts",
+      "line": 6,
+      "text": "* Reg. No.: Ek 14668 (A) | रजि. नं.: एक 14668 (औ)"
+    },
+    {
+      "file": "src\\utils\\i18n.ts",
+      "line": 57,
+      "text": "pillarTransparencyDesc: 'सोसायटी नोंदणी कायदा १८६० व मुंबई सार्वजनिक विश्वस्त कायदा १९५० अंतर्गत कार्यरत',"
+    },
+    {
+      "file": "index.html",
+      "line": 15,
+      "text": "content=\"नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर येथील अधिकृत नोंदणीकृत सामाजिक, सांस्कृतिक व ग्रामीण विकास संस्था.\""
+    }
+  ],
+  "addresses": [
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 215,
+      "text": ": (lang === 'mr' ? 'नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर' : 'Nadarpur, Tahsil Kannad, Dist. Chhatrapati Sambhajinagar'),"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 530,
+      "text": "? 'नादरपूर (ता. कन्नड, जि. छत्रपती संभाजीनगर) येथून सुरू झालेले हे सेवाकार्य शिक्षण, आरोग्य, कला-संस्कृती, पर्यावरण आणि शासकीय योजनांच्या थेट लाभातून ग्रामीण महाराष्ट्राच्या सर्वांगीण सक्षमीकरणासाठी कटिबद्ध आहे.'"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 603,
+      "text": ": (lang === 'mr' ? 'नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर' : 'Nadarpur, Kannad, Chhatrapati Sambhajinagar')}"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 710,
+      "text": "? 'स्वातंत्र्यपूर्व काळात देशाचे संपूर्ण स्वातंत्र्य हे विविध संघटनांचे मुख्य ध्येय होते; परंतु स्वातंत्र्योत्तर काळात भ्रष्टाचार, बेरोजगारी, महिलांवरील अत्याचार, पर्यावरण व प्रदूषण, शेतकरी आत्महत्या, अनुसूचित जमातींचे प्रश्न तसेच वीज, पाणी, निवारा आणि शिक्षणाच्या गंभीर समस्या पुढे आल्या. कोणत्याही राजकीय, जातीय, धार्मिक किंवा वैचारिक वादात तटस्थ राहून व निस्वार्थ भावनेने लोककल्याणाचे कार्य करण्याच्या प्रेरणेतून नादरपूर (ता. कन्नड, जि. छत्रपती संभाजीनगर / औरंगाबाद, महाराष्ट्र) येथे ‘श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था’ स्थापन करण्यात आली.'"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 749,
+      "text": "? `मु. पो. नादरपूर, ता. ${state.contactInfo.taluka}, जि. ${state.contactInfo.district}`"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 751,
+      "text": ": (lang === 'mr' ? 'मु. पो. नादरपूर, ता. कन्नड (छत्रपती संभाजीनगर)' : 'At Post Nadarpur, Block Kannad')}"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 1053,
+      "text": "? 'नादरपूर, जि. छत्रपती संभाजीनगर, महाराष्ट्र आणि भारत'"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 794,
+      "text": "const [initLocation, setInitLocation] = useState('नादरपूर, ता. कन्नड');"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 816,
+      "text": "setInitLocation('नादरपूर, ता. कन्नड');"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 916,
+      "text": "const [eventVenue, setEventVenue] = useState('नादरपूर, ता. कन्नड');"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 951,
+      "text": "setEventVenue('नादरपूर, ता. कन्नड');"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 980,
+      "text": "setEventVenue(item.venue || 'नादरपूर, ता. कन्नड');"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 1903,
+      "text": "venue: eventVenue.trim() || 'नादरपूर, ता. कन्नड',"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 5593,
+      "text": "placeholder=\"नादरपूर, ता. कन्नड\""
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 6204,
+      "text": "placeholder=\"उदा. नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर\""
+    },
+    {
+      "file": "src\\components\\ContactView.tsx",
+      "line": 177,
+      "text": "{lang === 'mr' ? 'नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर' : 'Nadarpur, Kannad, Dist. Chhatrapati Sambhajinagar'}"
+    },
+    {
+      "file": "src\\components\\InitiativesView.tsx",
+      "line": 299,
+      "text": "{lang === 'mr' ? 'नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर' : 'Nadarpur, Kannad, Dist. Chhatrapati Sambhajinagar'}"
+    },
+    {
+      "file": "src\\components\\OfficialsView.tsx",
+      "line": 61,
+      "text": "? `मु. पो. नादरपूर, ता. ${state.contactInfo.taluka}, जि. ${state.contactInfo.district}`"
+    },
+    {
+      "file": "src\\components\\OfficialsView.tsx",
+      "line": 63,
+      "text": ": (lang === 'mr' ? 'नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर' : 'Nadarpur, Kannad, Dist. Chhatrapati Sambhajinagar');"
+    },
+    {
+      "file": "src\\components\\PrivacyPolicyView.tsx",
+      "line": 34,
+      "text": "address: 'मु. पो. नादरपूर, तहसील कन्नड, जिल्हा छत्रपती संभाजीनगर (औरंगाबाद), महाराष्ट्र',"
+    },
+    {
+      "file": "src\\components\\SansthaLogo.tsx",
+      "line": 131,
+      "text": "नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र"
+    },
+    {
+      "file": "src\\components\\SeoManager.tsx",
+      "line": 16,
+      "text": "titleMr: 'श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था | नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर',"
+    },
+    {
+      "file": "src\\components\\SeoManager.tsx",
+      "line": 18,
+      "text": "descriptionMr: 'श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था, नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर. ग्रामीण भागातील शिक्षण, आरोग्य, महिला सक्षमीकरण, पर्यावरण संवर्धन आणि समाजकल्याण उपक्रम.',"
+    },
+    {
+      "file": "src\\components\\SeoManager.tsx",
+      "line": 98,
+      "text": "descriptionMr: 'श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था, नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर. संपर्क क्रमांक, पत्ता आणि अधिकृत विचारणा अर्ज.',"
+    },
+    {
+      "file": "src\\components\\SeoManager.tsx",
+      "line": 224,
+      "text": "streetAddress: 'मु. पो. नादरपूर (At Post Nadarpur)',"
+    },
+    {
+      "file": "src\\components\\SeoManager.tsx",
+      "line": 225,
+      "text": "addressLocality: 'कन्नड, छत्रपती संभाजीनगर (Kannad, Chhatrapati Sambhajinagar)',"
+    },
+    {
+      "file": "src\\components\\VolunteerView.tsx",
+      "line": 303,
+      "text": "? 'श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था, नादरपूर (ता. कन्नड, जि. छत्रपती संभाजीनगर) अंतर्गत शिक्षण, आरोग्य, पर्यावरण, महिला सक्षमीकरण आणि शासकीय योजना जनजागृती उपक्रमांमध्ये आपले मोलाचे योगदान द्या.'"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 58,
+      "text": "location: 'नादरपूर व कन्नड तालुका, जि. छत्रपती संभाजीनगर',"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 103,
+      "text": "location: 'नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर',"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 536,
+      "text": "address: 'मु. पो. नादरपूर, तहसील कन्नड, जिल्हा छत्रपती संभाजीनगर (औरंगाबाद), महाराष्ट्र',"
+    },
+    {
+      "file": "src\\experience\\knowledge.ts",
+      "line": 57,
+      "text": "'पत्ता: मु. पो. नादरपूर, तहसील कन्नड, जिल्हा छत्रपती संभाजीनगर, महाराष्ट्र. दूरध्वनी: +91 9923512482, +91 8888684966. ईमेल: shrikrushnasanstha.nadarpur@gmail.com. कार्यालयीन वेळ: सोमवार ते शनिवार, सकाळी १०:०० ते सायंकाळी ०६:००.',"
+    },
+    {
+      "file": "src\\utils\\apiClient.test.ts",
+      "line": 121,
+      "text": "address_mr: 'नादरपूर',"
+    },
+    {
+      "file": "src\\utils\\contentMapper.test.ts",
+      "line": 311,
+      "text": "address_mr: 'मु. पो. नादरपूर, ता. कन्नड',"
+    },
+    {
+      "file": "src\\utils\\contentMapper.test.ts",
+      "line": 324,
+      "text": "assert.equal(mapped.address, 'मु. पो. नादरपूर, ता. कन्नड');"
+    },
+    {
+      "file": "src\\utils\\contentMapper.test.ts",
+      "line": 330,
+      "text": "assert.equal(backToDb.address_mr, 'मु. पो. नादरपूर, ता. कन्नड');"
+    },
+    {
+      "file": "src\\utils\\contentMapper.test.ts",
+      "line": 459,
+      "text": "address_mr: 'नादरपूर',"
+    },
+    {
+      "file": "src\\utils\\contentMapper.ts",
+      "line": 738,
+      "text": "'श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था, मु. पो. नादरपूर, तहसील कन्नड, जिल्हा छत्रपती संभाजीनगर (औरंगाबाद), महाराष्ट्र',"
+    },
+    {
+      "file": "src\\utils\\i18n.ts",
+      "line": 79,
+      "text": "paragraph1: 'स्वातंत्र्योत्तर काळात बेरोजगारी, महिलांचे सक्षमीकरण, पर्यावरण संवर्धन, शेतकरी कल्याण तसेच पाणी, निवारा आणि शिक्षणाच्या प्रश्नांची सोडवणूक करण्यासाठी कोणत्याही राजकीय, धार्मिक किंवा जातीयवादापासून पूर्णतः अलिप्त राहून नादरपूर (ता. कन्नड, जि. छत्रपती संभाजीनगर) येथे ‘श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था’ स्थापन करण्यात आली.',"
+    },
+    {
+      "file": "src\\utils\\i18n.ts",
+      "line": 137,
+      "text": "col1Desc: 'नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर येथे शिक्षण, कला-संस्कृती, आरोग्य, पर्यावरण आणि ग्रामीण विकासासाठी समर्पित संस्था.',"
+    },
+    {
+      "file": "src\\utils\\i18n.ts",
+      "line": 153,
+      "text": "subtitle: 'नादरपूर (ता. कन्नड, जि. छत्रपती संभाजीनगर) मुख्य कार्यालय आणि उपक्रम चौकशी कक्ष.',"
+    },
+    {
+      "file": "src\\utils\\publicApiIntegration.test.ts",
+      "line": 40,
+      "text": "location_mr: 'नादरपूर, ता. जामनेर',"
+    },
+    {
+      "file": "src\\utils\\publicApiIntegration.test.ts",
+      "line": 137,
+      "text": "address_mr: 'मु. पो. नादरपूर, ता. जामनेर, जि. जळगाव - ४२४२०६',"
+    },
+    {
+      "file": "index.html",
+      "line": 6,
+      "text": "<title>श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था | नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर</title>"
+    },
+    {
+      "file": "index.html",
+      "line": 10,
+      "text": "content=\"श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था, नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र. ग्रामीण भागातील शिक्षण, आरोग्य, महिला सक्षमीकरण, पर्यावरण संवर्धन आणि समाजकल्याण उपक्रम.\""
+    },
+    {
+      "file": "index.html",
+      "line": 12,
+      "text": "<meta property=\"og:title\" content=\"श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था | नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर\" />"
+    },
+    {
+      "file": "index.html",
+      "line": 15,
+      "text": "content=\"नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर येथील अधिकृत नोंदणीकृत सामाजिक, सांस्कृतिक व ग्रामीण विकास संस्था.\""
+    }
+  ],
+  "schemes": [
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 220,
+      "text": "? 'कन्नड तालुक्यातील नादरपूर हे श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्थेचे नोंदणीकृत मुख्य कार्यालय असून येथून संपूर्ण परिसरातील ग्रामपंचायती, शाळा व वाड्या-वस्त्यांवर प्रत्यक्ष उपक्रम राबविले जातात. स्थानिक ग्रामपंचायत व ग्रामस्थांच्या सहकार्याने शिक्षण, आरोग्य शिबिरे, सांस्कृतिक वर्ग आणि शासकीय योजनांचे मार्गदर्शन तळागाळातील प्रत्येक गरजू कुटुंबापर्यंत पोहोचवले जाते.'"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 236,
+      "text": "title: lang === 'mr' ? 'महाराष्ट्र शासन व केंद्र शासन कल्याणकारी योजना' : 'State & Central Government Welfare Alignment',"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 240,
+      "text": "? 'भारत सरकारच्या नीती आयोग (NGO Darpan) मार्गदर्शक तत्त्वांना अनुसरून आणि महाराष्ट्र शासनाच्या सामाजिक न्याय, कृषी, शालेय शिक्षण व क्रीडा विभागाच्या लोककल्याणकारी योजनांचा लाभ ग्रामीण बांधवांना मिळवून देण्यासाठी संस्था सेतुचे कार्य करते. पारदर्शक लेखापरीक्षण आणि सामाजिक बांधीलकी हे संस्थेच्या कार्याचे मुख्य अधिष्ठान आहे.'"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 347,
+      "text": "'शासकीय योजना जनजागृती',"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 353,
+      "text": ": (lang === 'mr' ? 'शासकीय योजनांचा अभ्यास व तळागाळातील लाभार्थ्यांना थेट लाभ' : 'Grassroots Access to Central & State Welfare Schemes'),"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 358,
+      "text": "'सामाजिक सुरक्षा व निवृत्तीवेतन: संजय गांधी निराधार योजना, श्रावणबाळ सेवा राज्य निवृत्तीवेतन योजना व कुटुंब लाभ.',"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 359,
+      "text": "'राष्ट्रीय निवृत्तीवेतन योजना: वृद्धापकाळ निवृत्तीवेतन, विधवा निवृत्तीवेतन आणि दिव्यांग निवृत्तीवेतन अर्ज मार्गदर्शन.',"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 360,
+      "text": "'विमा व कृषी सन्मान: आम आदमी विमा योजना आणि शेतकरी समृद्धी योजनेच्या कागदपत्रांची पूर्तता करून थेट लाभ.',"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 364,
+      "text": "'State Social Security Pensions: Complete documentation support for Sanjay Gandhi Niradhar & Shravanbal Yojana.',"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 366,
+      "text": "'Family & Farmer Protection: National Family Benefit Scheme, Aam Aadmi Bima Yojana, and Farmer support.',"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 431,
+      "text": "lang === 'mr' ? 'संजय गांधी निराधार योजना' : 'Sanjay Gandhi Niradhar Yojana',"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 436,
+      "text": "lang === 'mr' ? 'राष्ट्रीय कुटुंब लाभ योजना' : 'National Family Benefit Scheme',"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 437,
+      "text": "lang === 'mr' ? 'आम आदमी विमा योजना' : 'Aam Aadmi Bima Yojana',"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 439,
+      "text": "lang === 'mr' ? 'हस्तकला कारागीर व शेतकरी समृद्धी योजना' : 'Artisan & Farmer Welfare Schemes',"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 530,
+      "text": "? 'नादरपूर (ता. कन्नड, जि. छत्रपती संभाजीनगर) येथून सुरू झालेले हे सेवाकार्य शिक्षण, आरोग्य, कला-संस्कृती, पर्यावरण आणि शासकीय योजनांच्या थेट लाभातून ग्रामीण महाराष्ट्राच्या सर्वांगीण सक्षमीकरणासाठी कटिबद्ध आहे.'"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 663,
+      "text": "label={lang === 'mr' ? 'शासकीय योजनांचा लाभ' : 'Statutory Schemes'}"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 981,
+      "text": "? 'शासकीय योजनांचा नागरिकांना थेट लाभ'"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 988,
+      "text": "? 'तळागाळातील वंचित नागरिकांपर्यंत केंद्र व राज्य शासनाच्या योजना पोहोचवणारा दुवा'"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 995,
+      "text": "? 'केंद्र आणि राज्य सरकार जनतेसाठी अनेक योजना राबवते; परंतु माहितीअभावी त्या योजना तळागाळातील लोकांपर्यंत पोहोचत नाहीत. आमची संस्था या सर्व योजनांचा कालावधी, अटी, शर्ती व आवश्यक कागदपत्रांचा सखोल अभ्यास करून शेतकरी, कामगार, महिला, मुले व वृद्धांना खालील प्रमुख योजनांचा प्रत्यक्ष लाभ मिळवून देते:'"
+    },
+    {
+      "file": "src\\components\\AboutView.tsx",
+      "line": 1004,
+      "text": "<span>{lang === 'mr' ? 'शासकीय योजना कक्ष' : 'Explore Welfare Desk'}</span>"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 106,
+      "text": "'शासकीय योजना जनजागृती',"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 1813,
+      "text": "isGovernmentSchemeAwareness: initCategory === 'शासकीय योजना जनजागृती',"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 2093,
+      "text": "showToast(lang === 'mr' ? 'शासकीय योजना यशस्वीरित्या अद्ययावत केली!' : 'Government scheme updated successfully!');"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 2101,
+      "text": "showToast(lang === 'mr' ? 'नवीन शासकीय योजना यशस्वीरित्या जोडली!' : 'Government scheme added successfully!');"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 2428,
+      "text": "{ id: 'schemes', labelMr: 'शासकीय योजना', labelEn: 'Govt Schemes', icon: Landmark },"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 7431,
+      "text": "? 'शासकीय योजना संपादित करा (Edit Government Scheme)'"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 7434,
+      "text": "? 'नवीन शासकीय कल्याणकारी योजना जोडा'"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 7722,
+      "text": "? 'योजना अद्ययावत करा (Update Scheme)'"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 7725,
+      "text": "? 'शासकीय योजना जतन करा'"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 7738,
+      "text": "? `शासकीय योजना यादी (${state.governmentSchemes.length})`"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 7744,
+      "text": "{lang === 'mr' ? 'कोणतीही शासकीय योजना उपलब्ध नाही.' : 'No government schemes found.'}"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 7826,
+      "text": "? lang === 'mr' ? 'योजना अप्रकाशित (Draft) केली.' : 'Scheme unpublished.'"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 7827,
+      "text": ": lang === 'mr' ? 'योजना प्रकाशित केली!' : 'Scheme published!'"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 7867,
+      "text": "? `\"${s.title}\" ही शासकीय योजना कायमची हटवायची आहे का?`"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 7875,
+      "text": "showToast(lang === 'mr' ? 'शासकीय योजना यशस्वीरित्या हटवली.' : 'Government scheme deleted successfully.');"
+    },
+    {
+      "file": "src\\components\\AdminPortal.tsx",
+      "line": 7877,
+      "text": "showToast(res.error || (lang === 'mr' ? 'योजना हटवण्यात त्रुटी आली.' : 'Failed to delete scheme.'));"
+    },
+    {
+      "file": "src\\components\\ContactView.tsx",
+      "line": 322,
+      "text": "{lang === 'mr' ? 'पत्रव्यवहार व योजना माहिती' : 'Official correspondence & scheme inquiries'}"
+    },
+    {
+      "file": "src\\components\\ContactView.tsx",
+      "line": 522,
+      "text": "? 'उदा. शासकीय योजना मार्गदर्शन / बाल विद्यालय प्रवेश / आरोग्य शिबीर'"
+    },
+    {
+      "file": "src\\components\\Footer.tsx",
+      "line": 57,
+      "text": "['schemes', 'शासकीय योजना', 'Government Schemes'],"
+    },
+    {
+      "file": "src\\components\\GalleryView.tsx",
+      "line": 117,
+      "text": "'शासकीय योजना जनजागृती',"
+    },
+    {
+      "file": "src\\components\\GalleryView.tsx",
+      "line": 909,
+      "text": "? 'शासकीय योजनांची माहिती, CSC बाल विद्यालय व ग्रामविकास उपक्रमांचे अधिकृत व्हिडिओ चित्रीकरण.'"
+    },
+    {
+      "file": "src\\components\\Header.tsx",
+      "line": 48,
+      "text": "label: (t.nav as Record<string, string>).schemes || (lang === 'mr' ? 'शासकीय योजना' : 'Govt Schemes'),"
+    },
+    {
+      "file": "src\\components\\Header.tsx",
+      "line": 49,
+      "text": "shortLabel: lang === 'mr' ? 'योजना' : 'Schemes',"
+    },
+    {
+      "file": "src\\components\\InitiativesView.tsx",
+      "line": 124,
+      "text": "{ key: 'शासकीय योजना जनजागृती', labelMr: 'शासकीय योजना', labelEn: 'Welfare Schemes' },"
+    },
+    {
+      "file": "src\\components\\InitiativesView.tsx",
+      "line": 306,
+      "text": "{lang === 'mr' ? 'प्रमुख उपक्रम, योजना व प्रत्यक्ष कार्य' : 'Major Initiatives, Welfare Drives & Field Operations'}"
+    },
+    {
+      "file": "src\\components\\InitiativesView.tsx",
+      "line": 310,
+      "text": "? 'तळागाळातील ग्रामीण घटकांसाठी CSC बाल विद्यालय, RTE २५% शिक्षण हक्क, विनामूल्य आरोग्य तपासणी, महिला सक्षमीकरण, औषधी वृक्षारोपण आणि शासकीय कल्याणकारी योजनांचे थेट मार्गदर्शन.'"
+    },
+    {
+      "file": "src\\components\\InitiativesView.tsx",
+      "line": 347,
+      "text": "? 'उपक्रम, योजना किंवा ठिकाण शोधा (उदा. बाल विद्यालय, आरोग्य, वृक्षारोपण)...'"
+    },
+    {
+      "file": "src\\components\\InitiativesView.tsx",
+      "line": 498,
+      "text": "<span>{lang === 'mr' ? 'शासकीय योजना' : 'Govt Drive'}</span>"
+    },
+    {
+      "file": "src\\components\\InitiativesView.tsx",
+      "line": 651,
+      "text": "? 'आपल्या परिसरातील गरजू नागरिकांपर्यंत योजना पोहोचवा'"
+    },
+    {
+      "file": "src\\components\\InitiativesView.tsx",
+      "line": 702,
+      "text": "{lang === 'mr' ? 'शासकीय योजना' : 'Govt Scheme'}"
+    },
+    {
+      "file": "src\\components\\SchemesView.tsx",
+      "line": 248,
+      "text": "{lang === 'mr' ? 'शासकीय कल्याणकारी योजना' : 'Government Schemes'}"
+    },
+    {
+      "file": "src\\components\\SchemesView.tsx",
+      "line": 258,
+      "text": "? `सक्रिय योजना कक्ष (${publishedSchemes.length} योजना)`"
+    },
+    {
+      "file": "src\\components\\SchemesView.tsx",
+      "line": 288,
+      "text": "{lang === 'mr' ? 'जनहित व शासकीय योजना सहाय्यता कक्ष' : 'Citizen Welfare & Schemes Facilitation'}"
+    },
+    {
+      "file": "src\\components\\SchemesView.tsx",
+      "line": 296,
+      "text": "? 'शासकीय कल्याणकारी योजना व लोककल्याण कक्ष'"
+    },
+    {
+      "file": "src\\components\\SchemesView.tsx",
+      "line": 301,
+      "text": "? 'ग्रामीण भागातील वृद्ध, निराधार, दिव्यांग, कामगार, शेतकरी व गरजू कुटुंबांना विविध केंद्र व राज्य शासकीय योजनांचा थेट लाभ मिळवून देण्यासाठी संस्थेचे १००% विनामूल्य मार्गदर्शन व मदत.'"
+    },
+    {
+      "file": "src\\components\\SchemesView.tsx",
+      "line": 342,
+      "text": "aria-label={lang === 'mr' ? 'योजना शोधा' : 'Search schemes'}"
+    },
+    {
+      "file": "src\\components\\SchemesView.tsx",
+      "line": 360,
+      "text": "? `दर्शवत आहे: ${filteredSchemes.length} पैकी ${publishedSchemes.length} योजना`"
+    },
+    {
+      "file": "src\\components\\SchemesView.tsx",
+      "line": 394,
+      "text": "{lang === 'mr' ? 'सर्व योजना' : 'All Schemes'}"
+    },
+    {
+      "file": "src\\components\\SchemesView.tsx",
+      "line": 446,
+      "text": "{lang === 'mr' ? 'कोणतीही योजना आढळली नाही' : 'No Government Schemes Found'}"
+    },
+    {
+      "file": "src\\components\\SchemesView.tsx",
+      "line": 450,
+      "text": "? 'आपण प्रविष्ट केलेल्या निकषानुसार कोणतीही शासकीय योजना सापडली नाही. कृपया अन्य शब्द वापरून शोधा किंवा थेट आमच्या मदत कक्षाशी संपर्क साधा.'"
+    },
+    {
+      "file": "src\\components\\SchemesView.tsx",
+      "line": 507,
+      "text": "<span>{lang === 'mr' ? 'शासकीय योजना' : 'Govt Scheme'}</span>"
+    },
+    {
+      "file": "src\\components\\SchemesView.tsx",
+      "line": 684,
+      "text": "? 'ग्रामीण भागातील वृद्ध, दिव्यांग अथवा अशिक्षित नागरिकांना शासकीय योजनांचे फॉर्म भरण्यासाठी, कागदपत्रे तपासणीसाठी आणि ऑनलाइन सबमिशनसाठी नादरपूर येथील आमच्या कार्यालयात विनामूल्य मदत केली जाते.'"
+    },
+    {
+      "file": "src\\components\\SchemesView.tsx",
+      "line": 729,
+      "text": "? activeModalScheme.department || 'शासकीय कल्याणकारी योजना'"
+    },
+    {
+      "file": "src\\components\\SeoManager.tsx",
+      "line": 42,
+      "text": "descriptionMr: 'ग्रामीण भागातील शिक्षण सहाय्य, आरोग्य शिबिरे, पर्यावरण संवर्धन, महिला बचत गट व शासकीय योजना जनजागृती उपक्रम.',"
+    },
+    {
+      "file": "src\\components\\SeoManager.tsx",
+      "line": 120,
+      "text": "titleMr: 'शासकीय कल्याणकारी योजना व लोककल्याण कक्ष | श्रीकृष्ण संस्था',"
+    },
+    {
+      "file": "src\\components\\SeoManager.tsx",
+      "line": 122,
+      "text": "descriptionMr: 'ग्रामीण भागातील वृद्ध, निराधार, दिव्यांग, कामगार व शेतकर्‍यांसाठी विविध शासकीय योजना, पेन्शन व अनुदानाचे विनामूल्य मार्गदर्शन.',"
+    },
+    {
+      "file": "src\\components\\SeoManager.tsx",
+      "line": 124,
+      "text": "breadcrumbMr: 'शासकीय योजना',"
+    },
+    {
+      "file": "src\\components\\VideoLibraryView.tsx",
+      "line": 148,
+      "text": "'शासकीय योजना जनजागृती',"
+    },
+    {
+      "file": "src\\components\\VolunteerView.tsx",
+      "line": 303,
+      "text": "? 'श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था, नादरपूर (ता. कन्नड, जि. छत्रपती संभाजीनगर) अंतर्गत शिक्षण, आरोग्य, पर्यावरण, महिला सक्षमीकरण आणि शासकीय योजना जनजागृती उपक्रमांमध्ये आपले मोलाचे योगदान द्या.'"
+    },
+    {
+      "file": "src\\components\\WorkTimelineView.tsx",
+      "line": 45,
+      "text": "title={lang === 'mr' ? 'उपक्रम व योजना ग्रिड दृश्य पाहा' : 'View initiatives card grid'}"
+    },
+    {
+      "file": "src\\components\\WorkTimelineView.tsx",
+      "line": 180,
+      "text": "? 'आरोग्य शिबीर, झाडे लावणे किंवा शासकीय योजना जनजागृतीसाठी नादरपूर कार्यालयाशी संपर्क साधा.'"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 12,
+      "text": "bio: 'ग्रामीण विकास, महिला सक्षमीकरण, CSC बाल विद्यालय व शासकीय योजनांच्या तळागाळातील अंमलबजावणीसाठी समर्पित नेतृत्व.',"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 77,
+      "text": "title: 'शासकीय कल्याणकारी योजना जनजागृती व थेट लाभ मार्गदर्शन कक्ष',"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 79,
+      "text": "category: 'शासकीय योजना जनजागृती',"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 83,
+      "text": "summary: 'बायोमेट्रिक आधार, संजय गांधी निराधार, श्रावणबाळ सेवा, इंदिरा गांधी राष्ट्रीय वृद्ध/विधवा/दिव्यांग निवृत्तीवेतन, ई-श्रम कामगार कार्ड, हस्तकला कारागीर कार्ड व शेतकरी समृद्धी योजनांचा तळागाळातील नागरिकांना थेट लाभ.',"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 85,
+      "text": "description: 'केंद्र व राज्य शासनाच्या विविध योजना केवळ ठराविक लोकांपर्यंत मर्यादित न राहता तळागाळातील शेवटच्या घटकापर्यंत पोहोचाव्यात यासाठी आमची संस्था सर्व योजनांचा सखोल अभ्यास करते. योजनेचा कालावधी, अटी, शर्ती व आवश्यक कागदपत्रांची माहिती देऊन शेतकरी, कामगार, महिला, मुले व वृद्धांना बायोमेट्रिक आधार कार्ड, संजय गांधी निराधार योजना, श्रावणबाळ सेवा राज्य निवृत्तीवेतन योजना, इंदिरा गांधी राष्ट्रीय वृद्धापकाळ/विधवा/अपंग निवृत्तीवेतन योजना, राष्ट्रीय कुटुंब लाभ योजना, आम आदमी विमा योजना, ई-श्रम कामगार कार्ड, हस्तकला कारागीर कार्ड आणि शेतकरी समृद्धी योजनेचा प्रत्यक्ष लाभ मिळवून दिला जातो.',"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 86,
+      "text": "descriptionEn: 'Central and State Government schemes often fail to reach citizens at the grassroots due to lack of awareness. Our organization conducts a thorough study of terms, eligibility, and documentation requirements to connect farmers, workers, women, children, and seniors directly with Biometric Aadhaar, Sanjay Gandhi Niradhar Yojana, Shravanbal Seva, Indira Gandhi National Old Age/Widow/Disability Pension Schemes, National Family Benefit Scheme, Aam Aadmi Bima Yojana, e-Shram Kamgar Card, Handicraft Craftsman Card, and Farmer Prosperity Schemes.',"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 95,
+      "text": "tags: ['संजय गांधी निराधार', 'श्रावणबाळ योजना'],"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 250,
+      "text": "title: 'शासकीय योजना व RTE २५% प्रवेश मार्गदर्शन सत्र',"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 254,
+      "text": "altText: 'ग्रामस्थ व स्वयंसेवक शासकीय योजनांची माहिती घेताना',"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 256,
+      "text": "category: 'शासकीय योजना जनजागृती',"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 345,
+      "text": "title: 'शासकीय योजना जनजागृती — निराधार, श्रावणबाळ, ई-श्रम व शेतकरी समृद्धी',"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 349,
+      "text": "category: 'शासकीय योजना जनजागृती',"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 358,
+      "text": "relatedActivityTitle: 'शासकीय कल्याणकारी योजना जनजागृती व थेट लाभ मार्गदर्शन कक्ष',"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 476,
+      "text": "content: 'राज्यातील अल्पभूधारक शेतकरी, ग्रामीण युवक आणि महिला बचत गटांना यशस्वी उद्योजक बनवण्यासाठी तसेच शासकीय योजनांचा (शेतकरी समृद्धी, ई-श्रम, हस्तकला कारागीर कार्ड) लाभ मिळवून देण्यासाठी या कार्यशाळेचे आयोजन करण्यात आले आहे.',"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 490,
+      "text": "title: 'संजय गांधी निराधार अनुदान योजना',"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 504,
+      "text": "title: 'श्रावणबाळ सेवा राज्य निवृत्तीवेतन योजना',"
+    },
+    {
+      "file": "src\\data\\initialData.ts",
+      "line": 524,
+      "text": "summary: 'असंघटित क्षेत्रातील कामगारांना सामाजिक सुरक्षा योजना, विमा आणि थेट लाभासाठी राष्ट्रीय डेटाबेस नोंदणी.',"
+    },
+    {
+      "file": "src\\experience\\knowledge.ts",
+      "line": 73,
+      "text": "keywords: ['योजना', 'scheme', 'निराधार', 'श्रम', 'pension', 'श्रावणबाळ'],"
+    },
+    {
+      "file": "src\\experience\\knowledge.ts",
+      "line": 74,
+      "text": "questionMr: 'शासकीय योजना मार्गदर्शन मिळते का?',"
+    },
+    {
+      "file": "src\\experience\\knowledge.ts",
+      "line": 77,
+      "text": "'होय. संजय गांधी निराधार, श्रावणबाळ सेवा, इंदिरा गांधी निवृत्तीवेतन, ई-श्रम कामगार कार्ड, हस्तकला कारागीर कार्ड आणि शेतकरी समृद्धी यांसारख्या योजनांसाठी कागदपत्र व पात्रता मार्गदर्शन दिले जाते.',"
+    },
+    {
+      "file": "src\\types\\index.ts",
+      "line": 30,
+      "text": "| 'शासकीय योजना जनजागृती';"
+    },
+    {
+      "file": "src\\utils\\apiClient.test.ts",
+      "line": 111,
+      "text": "title_mr: 'संजय गांधी योजना',"
+    },
+    {
+      "file": "src\\utils\\batch1CrudApi.test.ts",
+      "line": 245,
+      "text": "title: 'संजय गांधी निराधार अनुदान योजना',"
+    },
+    {
+      "file": "src\\utils\\batch1CrudApi.test.ts",
+      "line": 292,
+      "text": "message: 'शासकीय योजना यशस्वीरित्या जोडली.',"
+    },
+    {
+      "file": "src\\utils\\batch1CrudApi.test.ts",
+      "line": 313,
+      "text": "title: 'ई-श्रम योजना',"
+    },
+    {
+      "file": "src\\utils\\batch1CrudApi.test.ts",
+      "line": 314,
+      "text": "titleEn: 'e-Shram Yojana',"
+    },
+    {
+      "file": "src\\utils\\batch1CrudApi.test.ts",
+      "line": 332,
+      "text": "assert.equal(capturedBody.title_mr, 'ई-श्रम योजना');"
+    },
+    {
+      "file": "src\\utils\\batch1CrudApi.test.ts",
+      "line": 333,
+      "text": "assert.equal(capturedBody.title_en, 'e-Shram Yojana');"
+    },
+    {
+      "file": "src\\utils\\batch1CrudApi.test.ts",
+      "line": 338,
+      "text": "assert.equal(result.title, 'ई-श्रम योजना');"
+    },
+    {
+      "file": "src\\utils\\batch1CrudApi.test.ts",
+      "line": 339,
+      "text": "assert.equal(result.titleEn, 'e-Shram Yojana');"
+    },
+    {
+      "file": "src\\utils\\batch1CrudApi.test.ts",
+      "line": 371,
+      "text": "message: 'शासकीय योजना अद्ययावत केली.',"
+    },
+    {
+      "file": "src\\utils\\batch1CrudApi.test.ts",
+      "line": 374,
+      "text": "title_mr: 'अद्ययावत योजना शीर्षक',"
+    },
+    {
+      "file": "src\\utils\\batch1CrudApi.test.ts",
+      "line": 376,
+      "text": "summary_mr: 'अद्ययावत योजना सारांश',"
+    },
+    {
+      "file": "src\\utils\\batch1CrudApi.test.ts",
+      "line": 386,
+      "text": "title: 'अद्ययावत योजना शीर्षक',"
+    },
+    {
+      "file": "src\\utils\\batch1CrudApi.test.ts",
+      "line": 394,
+      "text": "assert.equal(capturedBody.title_mr, 'अद्ययावत योजना शीर्षक');"
+    },
+    {
+      "file": "src\\utils\\batch1CrudApi.test.ts",
+      "line": 398,
+      "text": "assert.equal(result.title, 'अद्ययावत योजना शीर्षक');"
+    },
+    {
+      "file": "src\\utils\\batch1CrudApi.test.ts",
+      "line": 428,
+      "text": "message: 'शासकीय योजना हटवली.',"
+    },
+    {
+      "file": "src\\utils\\batch2CrudApi.test.ts",
+      "line": 309,
+      "text": "summary_mr: 'महिला बचत गट व शासकीय योजना मार्गदर्शन',"
+    },
+    {
+      "file": "src\\utils\\contentMapper.test.ts",
+      "line": 55,
+      "text": "const tagsStr = '  CSC बाल विद्यालय, RTE २५% प्रवेश ,  शासकीय योजना  ';"
+    },
+    {
+      "file": "src\\utils\\contentMapper.test.ts",
+      "line": 57,
+      "text": "assert.deepEqual(parsed, ['CSC बाल विद्यालय', 'RTE २५% प्रवेश', 'शासकीय योजना']);"
+    },
+    {
+      "file": "src\\utils\\contentMapper.test.ts",
+      "line": 60,
+      "text": "assert.equal(formatted, 'CSC बाल विद्यालय, RTE २५% प्रवेश, शासकीय योजना');"
+    },
+    {
+      "file": "src\\utils\\contentMapper.test.ts",
+      "line": 337,
+      "text": "title_mr: 'संजय गांधी निराधार अनुदान योजना',"
+    },
+    {
+      "file": "src\\utils\\contentMapper.test.ts",
+      "line": 352,
+      "text": "assert.equal(mapped.title, 'संजय गांधी निराधार अनुदान योजना');"
+    },
+    {
+      "file": "src\\utils\\contentMapper.test.ts",
+      "line": 362,
+      "text": "assert.equal(backToDb.title_mr, 'संजय गांधी निराधार अनुदान योजना');"
+    },
+    {
+      "file": "src\\utils\\contentMapper.test.ts",
+      "line": 465,
+      "text": "title_mr: 'संजय गांधी निराधार योजना',"
+    },
+    {
+      "file": "src\\utils\\i18n.ts",
+      "line": 20,
+      "text": "'शासकीय योजना जनजागृती': { mr: 'शासकीय योजना जनजागृती व लाभ', en: 'Government Welfare Schemes' },"
+    },
+    {
+      "file": "src\\utils\\i18n.ts",
+      "line": 40,
+      "text": "schemes: 'शासकीय योजना',"
+    },
+    {
+      "file": "src\\utils\\i18n.ts",
+      "line": 52,
+      "text": "paragraph: 'श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था ग्रामीण भागातील विद्यार्थी, महिला, ज्येष्ठ नागरिक आणि शेतकरी बांधवांच्या सर्वांगीण विकासासाठी शिक्षण, सांस्कृतिक संवर्धन, आरोग्य शिबिरे, पर्यावरण रक्षण आणि शासकीय योजनांच्या जनजागृतीचे कार्य करते.',"
+    },
+    {
+      "file": "src\\utils\\i18n.ts",
+      "line": 60,
+      "text": "pillarSchemeTitle: 'शासकीय योजनांचा थेट लाभ',"
+    },
+    {
+      "file": "src\\utils\\i18n.ts",
+      "line": 61,
+      "text": "pillarSchemeDesc: 'संजय गांधी निराधार, श्रावणबाळ, ई-श्रम, आधार व शेतकरी समृद्धी योजनांचे मोफत मार्गदर्शन',"
+    },
+    {
+      "file": "src\\utils\\i18n.ts",
+      "line": 73,
+      "text": "schemesLabel: 'शासकीय योजना मार्गदर्शन',"
+    },
+    {
+      "file": "src\\utils\\i18n.ts",
+      "line": 92,
+      "text": "title: 'प्रमुख उपक्रम व शासकीय योजना अभियान',"
+    },
+    {
+      "file": "src\\utils\\i18n.ts",
+      "line": 93,
+      "text": "subtitle: 'CSC बाल विद्यालय, RTE शिक्षण, संगीत विद्यालय, आरोग्य शिबिरे, वृक्षारोपण आणि शासकीय योजना मार्गदर्शन.',"
+    },
+    {
+      "file": "src\\utils\\i18n.ts",
+      "line": 96,
+      "text": "schemeBadge: 'शासकीय योजना जनजागृती',"
+    },
+    {
+      "file": "src\\utils\\i18n.ts",
+      "line": 130,
+      "text": "title: 'संस्थेशी संपर्क साधा किंवा शासकीय योजनांचे मार्गदर्शन मिळवा',"
+    },
+    {
+      "file": "src\\utils\\i18n.ts",
+      "line": 131,
+      "text": "paragraph: 'CSC बाल विद्यालय, श्रीकृष्ण संगीत प्रशिक्षण केंद्र, आरोग्य शिबिरे किंवा शासकीय कल्याणकारी योजनांच्या माहितीसाठी आमच्या कार्यालयाशी संपर्क साधा.',"
+    },
+    {
+      "file": "src\\utils\\i18n.ts",
+      "line": 175,
+      "text": "initiatives: 'उपक्रम व योजना',"
+    },
+    {
+      "file": "src\\utils\\publicApiIntegration.test.ts",
+      "line": 117,
+      "text": "title_mr: 'संजय गांधी निराधार योजना',"
+    },
+    {
+      "file": "src\\utils\\publicApiIntegration.test.ts",
+      "line": 183,
+      "text": "assert.equal(response.sansthaState.governmentSchemes?.[0]?.title, 'संजय गांधी निराधार योजना');"
+    },
+    {
+      "file": "src\\utils\\validation.test.ts",
+      "line": 97,
+      "text": "{ title: 'संजय गांधी निराधार योजना मदत', category: 'शासकीय योजना जनजागृती', description: 'अर्ज मार्गदर्शन शिबीर' },"
+    }
+  ]
+}

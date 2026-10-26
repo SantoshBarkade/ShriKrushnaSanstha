@@ -1,0 +1,1484 @@
+[
+  {
+    "functionName": "(program)",
+    "url": "",
+    "lineNumber": -1,
+    "totalTimeMs": 1036
+  },
+  {
+    "functionName": "(idle)",
+    "url": "",
+    "lineNumber": -1,
+    "totalTimeMs": 454
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 9,
+    "totalTimeMs": 397
+  },
+  {
+    "functionName": "C",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4161,
+    "totalTimeMs": 301
+  },
+  {
+    "functionName": "setSize",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4219,
+    "totalTimeMs": 15
+  },
+  {
+    "functionName": "(garbage collector)",
+    "url": "",
+    "lineNumber": -1,
+    "totalTimeMs": 14
+  },
+  {
+    "functionName": "Pe",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4219,
+    "totalTimeMs": 13
+  },
+  {
+    "functionName": "wl",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 10
+  },
+  {
+    "functionName": "ss",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 8
+  },
+  {
+    "functionName": "d",
+    "url": "MaharashtraCanvas-Cc340hX1.js",
+    "lineNumber": 0,
+    "totalTimeMs": 8
+  },
+  {
+    "functionName": "Et",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4219,
+    "totalTimeMs": 8
+  },
+  {
+    "functionName": "cn",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 7
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 6
+  },
+  {
+    "functionName": "_h",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4147,
+    "totalTimeMs": 6
+  },
+  {
+    "functionName": "sn",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 5
+  },
+  {
+    "functionName": "Qd",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 5
+  },
+  {
+    "functionName": "n",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4071,
+    "totalTimeMs": 5
+  },
+  {
+    "functionName": "Im",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4117,
+    "totalTimeMs": 5
+  },
+  {
+    "functionName": "vl",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 4
+  },
+  {
+    "functionName": "Z_",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4230,
+    "totalTimeMs": 4
+  },
+  {
+    "functionName": "Er",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4226,
+    "totalTimeMs": 4
+  },
+  {
+    "functionName": "h",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4168,
+    "totalTimeMs": 4
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 0,
+    "totalTimeMs": 3
+  },
+  {
+    "functionName": "e.useMemo",
+    "url": "vendor-icons-D7otrfiQ.js",
+    "lineNumber": 0,
+    "totalTimeMs": 3
+  },
+  {
+    "functionName": "Yd",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 3
+  },
+  {
+    "functionName": "Fs",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 3
+  },
+  {
+    "functionName": "process",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 3
+  },
+  {
+    "functionName": "Pi",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 3
+  },
+  {
+    "functionName": "Rn",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 3
+  },
+  {
+    "functionName": "Na",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 3
+  },
+  {
+    "functionName": "Ps",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 3
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "vendor-gsap-B6cg2RtL.js",
+    "lineNumber": 0,
+    "totalTimeMs": 3
+  },
+  {
+    "functionName": "t",
+    "url": "vendor-gsap-B6cg2RtL.js",
+    "lineNumber": 0,
+    "totalTimeMs": 3
+  },
+  {
+    "functionName": "t.init",
+    "url": "vendor-gsap-B6cg2RtL.js",
+    "lineNumber": 0,
+    "totalTimeMs": 3
+  },
+  {
+    "functionName": "F_",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4219,
+    "totalTimeMs": 3
+  },
+  {
+    "functionName": "render",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4219,
+    "totalTimeMs": 3
+  },
+  {
+    "functionName": "xt",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4219,
+    "totalTimeMs": 3
+  },
+  {
+    "functionName": "renderBufferDirect",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4219,
+    "totalTimeMs": 3
+  },
+  {
+    "functionName": "y",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4168,
+    "totalTimeMs": 3
+  },
+  {
+    "functionName": "s",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 3822,
+    "totalTimeMs": 3
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Dl",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Uf",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "ff",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "e.useContext",
+    "url": "vendor-icons-D7otrfiQ.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "tf",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "hf",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 9,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "cs",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "hu",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 9,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Yi",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Mu",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 9,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "c",
+    "url": "vendor-icons-D7otrfiQ.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "e.createElement",
+    "url": "vendor-icons-D7otrfiQ.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "cf",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "appendChild",
+    "url": "",
+    "lineNumber": -1,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "lc",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Dl",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Dl",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Wu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "updateFinished",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 9,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Dl",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "readKeyframes",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "play",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Li",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "bh",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 8,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 9,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "updateFeatures",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "animation.onfinish",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Ye",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 9,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "zl",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Q",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 8,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "yu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "pf",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "appendChild",
+    "url": "",
+    "lineNumber": -1,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 9,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "gi",
+    "url": "vendor-gsap-B6cg2RtL.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "e",
+    "url": "vendor-gsap-B6cg2RtL.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "qr",
+    "url": "vendor-gsap-B6cg2RtL.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "t.add",
+    "url": "vendor-gsap-B6cg2RtL.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "St",
+    "url": "vendor-gsap-B6cg2RtL.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Fi",
+    "url": "vendor-gsap-B6cg2RtL.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Ta",
+    "url": "vendor-gsap-B6cg2RtL.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "P.revert",
+    "url": "vendor-gsap-B6cg2RtL.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "ka",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Xc",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "updateProjectionMatrix",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "il",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "xg",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4219,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "useMemo",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "jl",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Dl",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Sv",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4230,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "hg",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4219,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "je",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4226,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "rg",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4219,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Xf",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 3822,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Uh",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4195,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "nt",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4219,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Ki",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Fe",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4226,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Da",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4226,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "y",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4226,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Aa",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4226,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "m",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4226,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "MaharashtraCanvas-Cc340hX1.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "shouldSetTextContent",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4230,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "gn",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4226,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "da",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4226,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Ia",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4226,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "setStyle",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "o_",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4219,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "o_",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4219,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "e",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "q",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "Le",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4226,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "compose",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "multiplyMatrices",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "getCenter",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "computeBoundingSphere",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "s",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4168,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "union",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "St",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4219,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "th",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4127,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "i",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4219,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "r",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4071,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "$c",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "RegExp: ^[ \\t]*#include +<([\\w\\d./]+)>",
+    "url": "",
+    "lineNumber": -1,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "p",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 3822,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "requestAnimationFrame",
+    "url": "",
+    "lineNumber": -1,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "updateMatrixWorld",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "s",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4168,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "applyMatrix4",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "test",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "clear",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4219,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "upload",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4117,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "u",
+    "url": "vendor-gsap-B6cg2RtL.js",
+    "lineNumber": 0,
+    "totalTimeMs": 2
+  },
+  {
+    "functionName": "l",
+    "url": "rolldown-runtime-BWaJ3C7D.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "Af",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "e.useState",
+    "url": "vendor-icons-D7otrfiQ.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "Zd",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 9,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "Gd",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 9,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "Ps",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 9,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 9,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "s",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "a",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "gt",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "Ns",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "Qe",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "vendor-icons-D7otrfiQ.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "tick",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "set",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "Yi",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "Q",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 9,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "ef",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "Nu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 9,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "Id",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "zd",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "index-C9WD3Ix2.js",
+    "lineNumber": 1,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "e",
+    "url": "vendor-gsap-B6cg2RtL.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "Br",
+    "url": "vendor-gsap-B6cg2RtL.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "e.enable",
+    "url": "vendor-gsap-B6cg2RtL.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "n",
+    "url": "vendor-gsap-B6cg2RtL.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "e",
+    "url": "vendor-gsap-B6cg2RtL.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "P.refresh",
+    "url": "vendor-gsap-B6cg2RtL.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "di",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "c",
+    "url": "rolldown-runtime-BWaJ3C7D.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "rolldown-runtime-BWaJ3C7D.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "Q_",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4230,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "e.createElement",
+    "url": "vendor-icons-D7otrfiQ.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "g",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 8,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "e.useId",
+    "url": "vendor-icons-D7otrfiQ.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "b_",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4219,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "Wh",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4195,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "Yc",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "pu",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "o",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4230,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "Ba",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4226,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "Nt",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4226,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "e",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "getX",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "add",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "computeVertexNormals",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "length",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "r",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 8,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "ul",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "o_",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4219,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4230,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "MaharashtraCanvas-Cc340hX1.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "addEventListener",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "_t",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4219,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "intersectsObject",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "computeBoundingSphere",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "Nm",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4117,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "a",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4168,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "Yp",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4117,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "o",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "decompose",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "r",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4219,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "(anonymous)",
+    "url": "MaharashtraCanvas-Cc340hX1.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "updateMatrixWorld",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 1
+  },
+  {
+    "functionName": "R",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "L",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "Pu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "Nu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "Nu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "Nu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "Nu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "Nu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "Nu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "Nu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "Nu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "Nu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "Nu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "Nu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "Nu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "Nu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "Nu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "Nu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "yu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "yu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "yu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "yu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "yu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "yu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "yu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "yu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "yu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "yu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "yu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "yu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "yu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "yu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "yu",
+    "url": "vendor-react-CiEk4nKI.js",
+    "lineNumber": 7,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "copy",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 4,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "setFromBufferAttribute",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "getY",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "getX",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 0
+  },
+  {
+    "functionName": "getZ",
+    "url": "vendor-three-BMT1favm.js",
+    "lineNumber": 0,
+    "totalTimeMs": 0
+  }
+]

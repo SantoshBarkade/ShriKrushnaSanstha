@@ -1,0 +1,268 @@
+[
+  {
+    "source": "index.html",
+    "line": 10,
+    "matched": "content=\"श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था, नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र. ग्रामीण भागातील शिक्षण, आरोग्य, महिला सक्षमीकरण, पर्यावरण संवर्धन आणि समाजकल्याण उपक्रम.\"",
+    "recommended": "महाराष्ट्र",
+    "reason": "Incomplete state name"
+  },
+  {
+    "source": "src/data/initialData.ts",
+    "line": 107,
+    "matched": "description: 'भारत आणि महाराष्ट्र हे सांस्कृतिकदृष्ट्या अत्यंत समृद्ध राज्य आहे. ग्रामीण मातीतील विविध कलाप्रकार आणि कलाकारांना व्यासपीठ व प्रोत्साहन देण्यासाठी संस्थेने नादरपूर येथे ‘श्रीकृष्ण संगीत प्रशिक्षण केंद्र’ स्थापन केले आहे. या माध्यमातून संगीत, नाटक, वादन, गायन आणि सांस्कृतिक मूल्यांचे जतन करणारे महत्त्वाकांक्षी उपक्रम सातत्याने राबवले जातात.',",
+    "recommended": "महाराष्ट्र",
+    "reason": "Incomplete state name"
+  },
+  {
+    "source": "src/data/initialData.ts",
+    "line": 506,
+    "matched": "department: 'सामाजिक न्याय विभाग, महाराष्ट्र शासन',",
+    "recommended": "महाराष्ट्र",
+    "reason": "Incomplete state name"
+  },
+  {
+    "source": "src/data/initialData.ts",
+    "line": 536,
+    "matched": "address: 'मु. पो. नादरपूर, तहसील कन्नड, जिल्हा छत्रपती संभाजीनगर (औरंगाबाद), महाराष्ट्र',",
+    "recommended": "महाराष्ट्र",
+    "reason": "Incomplete state name"
+  },
+  {
+    "source": "src/data/initialData.ts",
+    "line": 542,
+    "matched": "state: 'महाराष्ट्र, भारत',",
+    "recommended": "महाराष्ट्र",
+    "reason": "Incomplete state name"
+  },
+  {
+    "source": "src/experience/knowledge.ts",
+    "line": 57,
+    "matched": "'पत्ता: मु. पो. नादरपूर, तहसील कन्नड, जिल्हा छत्रपती संभाजीनगर, महाराष्ट्र. दूरध्वनी: +91 9923512482, +91 8888684966. ईमेल: shrikrushnasanstha.nadarpur@gmail.com. कार्यालयीन वेळ: सोमवार ते शनिवार, सकाळी १०:०० ते सायंकाळी ०६:००.',",
+    "recommended": "महाराष्ट्र",
+    "reason": "Incomplete state name"
+  },
+  {
+    "source": "src/components/Footer.tsx",
+    "line": 169,
+    "matched": "{/* Column 3: पारदर्शकता व अहवाल (Desktop: lg:col-span-3, Tablet: order-4, Mobile: order-3) */}",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/Footer.tsx",
+    "line": 172,
+    "matched": "{lang === 'mr' ? 'पारदर्शकता व अहवाल' : 'Transparency & Reports'}",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/AboutView.tsx",
+    "line": 236,
+    "matched": "title: lang === 'mr' ? 'महाराष्ट्र शासन व केंद्र शासन कल्याणकारी योजना' : 'State & Central Government Welfare Alignment',",
+    "recommended": "महाराष्ट्र",
+    "reason": "Incomplete state name"
+  },
+  {
+    "source": "src/components/AboutView.tsx",
+    "line": 237,
+    "matched": "subtitle: lang === 'mr' ? 'पारदर्शक लोकसहभाग व अंतिम घटकांपर्यंत लाभ' : 'Grassroots Transparency & Direct Scheme Delivery',",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/AboutView.tsx",
+    "line": 240,
+    "matched": "? 'भारत सरकारच्या नीती आयोग (NGO Darpan) मार्गदर्शक तत्त्वांना अनुसरून आणि महाराष्ट्र शासनाच्या सामाजिक न्याय, कृषी, शालेय शिक्षण व क्रीडा विभागाच्या लोककल्याणकारी योजनांचा लाभ ग्रामीण बांधवांना मिळवून देण्यासाठी संस्था सेतुचे कार्य करते. पारदर्शक लेखापरीक्षण आणि सामाजिक बांधीलकी हे संस्थेच्या कार्याचे मुख्य अधिष्ठान आहे.'",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/AboutView.tsx",
+    "line": 240,
+    "matched": "? 'भारत सरकारच्या नीती आयोग (NGO Darpan) मार्गदर्शक तत्त्वांना अनुसरून आणि महाराष्ट्र शासनाच्या सामाजिक न्याय, कृषी, शालेय शिक्षण व क्रीडा विभागाच्या लोककल्याणकारी योजनांचा लाभ ग्रामीण बांधवांना मिळवून देण्यासाठी संस्था सेतुचे कार्य करते. पारदर्शक लेखापरीक्षण आणि सामाजिक बांधीलकी हे संस्थेच्या कार्याचे मुख्य अधिष्ठान आहे.'",
+    "recommended": "महाराष्ट्र",
+    "reason": "Incomplete state name"
+  },
+  {
+    "source": "src/components/AboutView.tsx",
+    "line": 268,
+    "matched": "'शालेय व्यवस्थापन समिती (SMC): ६०% ते ८०% शाळांमध्ये मासिक बैठकांचे आयोजन व १००% विद्यार्थी हजेरीवर भर.',",
+    "recommended": "विद्यार्थी उपस्थिती",
+    "reason": "Standard institutional Marathi terminology"
+  },
+  {
+    "source": "src/components/AboutView.tsx",
+    "line": 298,
+    "matched": "'गायन, वादन, नाट्य व लोककला: महाराष्ट्राच्या समृद्ध सांस्कृतिक परंपरेचे जतन करण्यासाठी विविध सांस्कृतिक कार्यक्रम.',",
+    "recommended": "महाराष्ट्र",
+    "reason": "Incomplete state name"
+  },
+  {
+    "source": "src/components/AboutView.tsx",
+    "line": 530,
+    "matched": "? 'नादरपूर (ता. कन्नड, जि. छत्रपती संभाजीनगर) येथून सुरू झालेले हे सेवाकार्य शिक्षण, आरोग्य, कला-संस्कृती, पर्यावरण आणि शासकीय योजनांच्या थेट लाभातून ग्रामीण महाराष्ट्राच्या सर्वांगीण सक्षमीकरणासाठी कटिबद्ध आहे.'",
+    "recommended": "महाराष्ट्र",
+    "reason": "Incomplete state name"
+  },
+  {
+    "source": "src/components/AboutView.tsx",
+    "line": 710,
+    "matched": "? 'स्वातंत्र्यपूर्व काळात देशाचे संपूर्ण स्वातंत्र्य हे विविध संघटनांचे मुख्य ध्येय होते; परंतु स्वातंत्र्योत्तर काळात भ्रष्टाचार, बेरोजगारी, महिलांवरील अत्याचार, पर्यावरण व प्रदूषण, शेतकरी आत्महत्या, अनुसूचित जमातींचे प्रश्न तसेच वीज, पाणी, निवारा आणि शिक्षणाच्या गंभीर समस्या पुढे आल्या. कोणत्याही राजकीय, जातीय, धार्मिक किंवा वैचारिक वादात तटस्थ राहून व निस्वार्थ भावनेने लोककल्याणाचे कार्य करण्याच्या प्रेरणेतून नादरपूर (ता. कन्नड, जि. छत्रपती संभाजीनगर / औरंगाबाद, महाराष्ट्र) येथे ‘श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था’ स्थापन करण्यात आली.'",
+    "recommended": "महाराष्ट्र",
+    "reason": "Incomplete state name"
+  },
+  {
+    "source": "src/components/AboutView.tsx",
+    "line": 764,
+    "matched": "? `${secretaryDisplayName} (सचिव) व सर्व विश्वस्तांच्या नेतृत्वाखाली संस्थेचे कामकाज लोकशाही पद्धतीने व पारदर्शक नियमांनुसार चालवले जाते.`",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/AboutView.tsx",
+    "line": 894,
+    "matched": "{lang === 'mr' ? 'महाराष्ट्राची समृद्ध लोकसंस्कृती टिकवून ठेवणे.' : 'Preserving Maharashtra folk culture.'}",
+    "recommended": "महाराष्ट्र",
+    "reason": "Incomplete state name"
+  },
+  {
+    "source": "src/components/AboutView.tsx",
+    "line": 1053,
+    "matched": "? 'नादरपूर, जि. छत्रपती संभाजीनगर, महाराष्ट्र आणि भारत'",
+    "recommended": "महाराष्ट्र",
+    "reason": "Incomplete state name"
+  },
+  {
+    "source": "src/components/AboutView.tsx",
+    "line": 1164,
+    "matched": "{lang === 'mr' ? 'वार्षिक अहवाल व पारदर्शकता' : 'Annual Reports & Transparency'}",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/OfficialsView.tsx",
+    "line": 137,
+    "matched": "? 'श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्थेचे कामकाज लोकशाही पद्धतीने, निस्वार्थ सेवेच्या भावनेने आणि कायदेशीर पारदर्शकतेने चालवणारे समर्पित विश्वस्त व पदाधिकारी.'",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/OfficialsView.tsx",
+    "line": 283,
+    "matched": "{lang === 'mr' ? 'संस्थात्मक प्रशासन व पारदर्शकता' : 'Institutional Governance & Transparency'}",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/InitiativesView.tsx",
+    "line": 602,
+    "matched": "{lang === 'mr' ? '१००% मोफत व पारदर्शक सेवा' : '100% Free Public Guidance'}",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/ReportsView.tsx",
+    "line": 184,
+    "matched": "<span>{lang === 'mr' ? 'अधिकृत अहवाल व पारदर्शकता' : 'Official Reports & Disclosures'}</span>",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/ReportsView.tsx",
+    "line": 207,
+    "matched": "? 'संस्थेचे वार्षिक कार्य अहवाल, शैक्षणिक प्रगती आढावा, सामाजिक उपक्रम परीक्षण आणि पारदर्शकता दस्तऐवज.'",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/ReportsView.tsx",
+    "line": 465,
+    "matched": "? 'संस्थेची आर्थिक व सामाजिक पारदर्शकता कटिबद्धता'",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/ReportsView.tsx",
+    "line": 470,
+    "matched": "? 'संस्थेचे सर्व उपक्रम व निधी वापर शासन नियम आणि धर्मादाय सह-आयुक्त नियमांनुसार पारदर्शकपणे लेखापरीक्षित केले जातात.'",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/NewsView.tsx",
+    "line": 897,
+    "matched": "? 'संस्थेमार्फत आयोजित सर्व शिबिरे, बाल विद्यालय प्रवेश व सामाजिक उपक्रमांचे आयोजन स्थानिक ग्रामपंचायती, आरोग्य विभाग आणि शिक्षण विभागाच्या मार्गदर्शनाखाली पारदर्शकतेने केले जाते.'",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/VolunteerView.tsx",
+    "line": 319,
+    "matched": "{lang === 'mr' ? '१००% मोफत व पारदर्शक' : '100% Free & Open'}",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/VolunteerView.tsx",
+    "line": 370,
+    "matched": "? 'पारदर्शक आणि शिस्तबद्ध पद्धतीने समाजकार्यात सहभागी होण्याची कार्यपद्धती.'",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/ContactView.tsx",
+    "line": 195,
+    "matched": "<span>{lang === 'mr' ? '१००% मोफत व पारदर्शक मार्गदर्शन' : '100% Free Public Guidance'}</span>",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/PrivacyPolicyView.tsx",
+    "line": 34,
+    "matched": "address: 'मु. पो. नादरपूर, तहसील कन्नड, जिल्हा छत्रपती संभाजीनगर (औरंगाबाद), महाराष्ट्र',",
+    "recommended": "महाराष्ट्र",
+    "reason": "Incomplete state name"
+  },
+  {
+    "source": "src/components/PrivacyPolicyView.tsx",
+    "line": 129,
+    "matched": "? 'श्रीकृष्ण संस्था ही ग्रामीण विकास, शिक्षण, महिला सक्षमीकरण आणि सामाजिक कल्याणासाठी समर्पित संस्था आहे. आमच्या संकेतस्थळावर नागरिकांची माहिती सुरक्षितता, पारदर्शकता आणि सन्मान राखणे ही आमची सर्वोच्च प्राथमिकता आहे.'",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/PrivacyPolicyView.tsx",
+    "line": 307,
+    "matched": "? 'श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था ही सोसायटी नोंदणी कायदा १८६० (नोंदणी क्र. एक १४६६८ (औ)) आणि मुंबई सार्वजनिक विश्वस्त कायदा १९५० अन्वये नादरपूर, तालुका कन्नड, जिल्हा छत्रपती संभाजीनगर (महाराष्ट्र) येथे नोंदणीकृत अधिकृत स्वयंसेवी संस्था आहे.'",
+    "recommended": "महाराष्ट्र",
+    "reason": "Incomplete state name"
+  },
+  {
+    "source": "src/components/PrivacyPolicyView.tsx",
+    "line": 644,
+    "matched": "? 'पारदर्शक समाजकार्य व सार्वजनिक विश्वास'",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/PrivacyPolicyView.tsx",
+    "line": 655,
+    "matched": "? 'श्रीकृष्ण संस्था स्थानिक ग्रामपंचायती, आरोग्य विभाग आणि शिक्षण विभागाच्या मार्गदर्शनाखाली पूर्णतः कायदेशीर आणि पारदर्शक पद्धतीने कार्यरत आहे.'",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/SeoManager.tsx",
+    "line": 74,
+    "matched": "descriptionMr: 'संस्थेचे वार्षिक कार्य अहवाल, उपक्रम आढावा आणि कायदेशीर पारदर्शकता अहवाल.',",
+    "recommended": "पारदर्शक",
+    "reason": "Check context"
+  },
+  {
+    "source": "src/components/SeoManager.tsx",
+    "line": 226,
+    "matched": "addressRegion: 'महाराष्ट्र (Maharashtra)',",
+    "recommended": "महाराष्ट्र",
+    "reason": "Incomplete state name"
+  }
+]

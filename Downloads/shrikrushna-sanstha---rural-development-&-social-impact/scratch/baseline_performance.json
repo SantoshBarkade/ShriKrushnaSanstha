@@ -1,0 +1,65 @@
+{
+  "initialMetrics": {
+    "JSHeapUsedSizeMB": "17.91",
+    "LayoutCount": 93,
+    "RecalcStyleCount": 34,
+    "ScriptDurationSec": "0.221",
+    "LayoutDurationSec": "0.046",
+    "TaskDurationSec": "0.435"
+  },
+  "domAndCssAudit": {
+    "domNodeCount": 807,
+    "backdropFilterCount": 2,
+    "blurFilterCount": 2,
+    "heavyShadowCount": 5,
+    "willChangeCount": 8,
+    "images": [
+      {
+        "src": "http://localhost:5173/about-landscape.jpg",
+        "loading": "eager",
+        "renderedWidth": 531,
+        "renderedHeight": 398,
+        "naturalWidth": 380,
+        "naturalHeight": 153,
+        "hasExplicitAspect": true
+      },
+      {
+        "src": "http://localhost:5173/sanstha-building.jpg",
+        "loading": "lazy",
+        "renderedWidth": 496,
+        "renderedHeight": 310,
+        "naturalWidth": 240,
+        "naturalHeight": 126,
+        "hasExplicitAspect": true
+      }
+    ],
+    "fcp": 924,
+    "navTiming": {
+      "domContentLoaded": 577.8999999761581,
+      "loadComplete": 581.7999999523163
+    }
+  },
+  "scrollPerformanceDesktop1x": {
+    "totalFrames": 97,
+    "avgFps": "61.0",
+    "avgFrameTimeMs": "16.40",
+    "longFramesCount": 0,
+    "severeDropsCount": 0,
+    "maxFrameTimeMs": "16.80"
+  },
+  "scrollPerformanceMobile4x": {
+    "totalFrames": 80,
+    "avgFps": "61.4",
+    "avgFrameTimeMs": "16.29",
+    "longFramesCount": 0,
+    "severeDropsCount": 0,
+    "maxFrameTimeMs": "16.80"
+  },
+  "afterScrollMetrics": {
+    "JSHeapUsedSizeMB": "18.86",
+    "LayoutCountDelta": 25,
+    "RecalcStyleCountDelta": 28,
+    "ScriptDurationDeltaSec": "0.234",
+    "LayoutDurationDeltaSec": "0.010"
+  }
+}

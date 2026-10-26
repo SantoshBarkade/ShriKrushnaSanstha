@@ -1,0 +1,10 @@
+# robots.txt for Shrikrushna Sanskrutik va Gramin Vikas Sanstha, Nadarpur
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /backend-php-mysql/
+Disallow: /api/
+
+# Host and Sitemap Declarations
+Host: https://shrikrushnasanstha.org
+Sitemap: https://shrikrushnasanstha.org/sitemap.xml

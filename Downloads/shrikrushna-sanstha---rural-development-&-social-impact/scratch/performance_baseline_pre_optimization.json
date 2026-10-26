@@ -1,0 +1,1484 @@
+{
+  "home": {
+    "route": "#/home",
+    "timing": {
+      "loadEventEnd": 769.7999999523163,
+      "domContentLoadedEventEnd": 764.5,
+      "domInteractive": 255.5999999642372,
+      "resourceCount": 61,
+      "totalTransferSize": 21552095,
+      "jsResourceCount": 57,
+      "jsTransferSize": 21455990,
+      "jsFiles": [
+        {
+          "name": "client",
+          "size": 222350
+        },
+        {
+          "name": "main.tsx?t=1793002084202",
+          "size": 1567
+        },
+        {
+          "name": "@react-refresh",
+          "size": 118371
+        },
+        {
+          "name": "react-dom_client.js?v=f7e71601",
+          "size": 3098569
+        },
+        {
+          "name": "App.tsx?t=1793002084202",
+          "size": 29344
+        },
+        {
+          "name": "react_jsx-dev-runtime.js?v=fdddb80e",
+          "size": 36068
+        },
+        {
+          "name": "index.css?t=1793002084202",
+          "size": 175284
+        },
+        {
+          "name": "env.mjs",
+          "size": 3778
+        },
+        {
+          "name": "rolldown-runtime-Bk_YeHJf.js?v=2e25d3c4",
+          "size": 8189
+        },
+        {
+          "name": "react-Bk9vEtng.js?v=2e25d3c4",
+          "size": 135618
+        },
+        {
+          "name": "SansthaContext.tsx?t=1793000016337",
+          "size": 101373
+        },
+        {
+          "name": "react.js?v=fdddb80e",
+          "size": 1055
+        },
+        {
+          "name": "Header.tsx?t=1793000016337",
+          "size": 40805
+        },
+        {
+          "name": "Footer.tsx?t=1793001531424",
+          "size": 59073
+        },
+        {
+          "name": "HeroSection.tsx?t=1793002084202",
+          "size": 55548
+        },
+        {
+          "name": "HomeOverview.tsx?t=1793000016337",
+          "size": 84684
+        },
+        {
+          "name": "AboutView.tsx?t=1793000016337",
+          "size": 259955
+        },
+        {
+          "name": "OfficialsView.tsx?t=1793000016337",
+          "size": 102282
+        },
+        {
+          "name": "InitiativesView.tsx?t=1793000016337",
+          "size": 149975
+        },
+        {
+          "name": "WorkTimelineView.tsx?t=1793000016337",
+          "size": 41125
+        },
+        {
+          "name": "GalleryView.tsx?t=1793000016337",
+          "size": 150244
+        },
+        {
+          "name": "VideoLibraryView.tsx?t=1793000016337",
+          "size": 83780
+        },
+        {
+          "name": "ReportsView.tsx?t=1793000016337",
+          "size": 102087
+        },
+        {
+          "name": "NewsView.tsx?t=1793000016337",
+          "size": 186104
+        },
+        {
+          "name": "ContactView.tsx?t=1793000016337",
+          "size": 119921
+        },
+        {
+          "name": "SchemesView.tsx?t=1793000016337",
+          "size": 158400
+        },
+        {
+          "name": "VolunteerView.tsx?t=1793000016337",
+          "size": 167731
+        },
+        {
+          "name": "TermsView.tsx?t=1793000016337",
+          "size": 52451
+        },
+        {
+          "name": "PrivacyPolicyView.tsx?t=1793000016337",
+          "size": 146862
+        },
+        {
+          "name": "SitemapView.tsx?t=1793000016337",
+          "size": 47470
+        },
+        {
+          "name": "LightboxModal.tsx?t=1793000016337",
+          "size": 26734
+        },
+        {
+          "name": "SeoManager.tsx?t=1793000016337",
+          "size": 50797
+        },
+        {
+          "name": "lucide-react.js?v=9ebbb37f",
+          "size": 3806605
+        },
+        {
+          "name": "initialData.ts?t=1792997682684",
+          "size": 129811
+        },
+        {
+          "name": "i18n.ts?t=1792989973488",
+          "size": 61589
+        },
+        {
+          "name": "apiClient.ts?t=1793000016337",
+          "size": 195553
+        },
+        {
+          "name": "SansthaLogo.tsx?t=1792999995783",
+          "size": 23985
+        },
+        {
+          "name": "gsap.js?v=22d21663",
+          "size": 627696
+        },
+        {
+          "name": "gsap_ScrollTrigger.js?v=60d016cb",
+          "size": 375582
+        },
+        {
+          "name": "motion_react.js?v=f682e050",
+          "size": 1892558
+        },
+        {
+          "name": "hooks.ts",
+          "size": 6000
+        },
+        {
+          "name": "HeroStage.tsx",
+          "size": 7768
+        },
+        {
+          "name": "youtube.ts",
+          "size": 21707
+        },
+        {
+          "name": "useCountUp.ts",
+          "size": 6164
+        },
+        {
+          "name": "ImageSlider.tsx",
+          "size": 16770
+        },
+        {
+          "name": "validation.ts",
+          "size": 27193
+        },
+        {
+          "name": "dateFormatter.ts",
+          "size": 18452
+        },
+        {
+          "name": "react-dom-f6U-7Wx1.js?v=2e25d3c4",
+          "size": 51271
+        },
+        {
+          "name": "scheduler-B49edKHR.js?v=2e25d3c4",
+          "size": 34740
+        },
+        {
+          "name": "auth.ts",
+          "size": 7809
+        },
+        {
+          "name": "contentMapper.ts?t=1793000016337",
+          "size": 102739
+        },
+        {
+          "name": "LandscapeFallback.tsx",
+          "size": 12179
+        },
+        {
+          "name": "jsx-runtime-XdfVfXhi.js?v=2e25d3c4",
+          "size": 37746
+        },
+        {
+          "name": "MaharashtraCanvas.tsx",
+          "size": 36721
+        },
+        {
+          "name": "three.js?v=ded330e0",
+          "size": 45790
+        },
+        {
+          "name": "@react-three_fiber.js?v=88e6af6d",
+          "size": 1908362
+        },
+        {
+          "name": "three.module-dSlfew9g.js?v=2e25d3c4",
+          "size": 5983606
+        }
+      ]
+    },
+    "domNodes": 724,
+    "jsHeapUsedSize": 24615408,
+    "jsHeapTotalSize": 31301632,
+    "layoutCount": 0,
+    "recalcStyleCount": 123
+  },
+  "about": {
+    "route": "#/about",
+    "timing": {
+      "loadEventEnd": 769.7999999523163,
+      "domContentLoadedEventEnd": 764.5,
+      "domInteractive": 255.5999999642372,
+      "resourceCount": 63,
+      "totalTransferSize": 21573616,
+      "jsResourceCount": 57,
+      "jsTransferSize": 21455990,
+      "jsFiles": [
+        {
+          "name": "client",
+          "size": 222350
+        },
+        {
+          "name": "main.tsx?t=1793002084202",
+          "size": 1567
+        },
+        {
+          "name": "@react-refresh",
+          "size": 118371
+        },
+        {
+          "name": "react-dom_client.js?v=f7e71601",
+          "size": 3098569
+        },
+        {
+          "name": "App.tsx?t=1793002084202",
+          "size": 29344
+        },
+        {
+          "name": "react_jsx-dev-runtime.js?v=fdddb80e",
+          "size": 36068
+        },
+        {
+          "name": "index.css?t=1793002084202",
+          "size": 175284
+        },
+        {
+          "name": "env.mjs",
+          "size": 3778
+        },
+        {
+          "name": "rolldown-runtime-Bk_YeHJf.js?v=2e25d3c4",
+          "size": 8189
+        },
+        {
+          "name": "react-Bk9vEtng.js?v=2e25d3c4",
+          "size": 135618
+        },
+        {
+          "name": "SansthaContext.tsx?t=1793000016337",
+          "size": 101373
+        },
+        {
+          "name": "react.js?v=fdddb80e",
+          "size": 1055
+        },
+        {
+          "name": "Header.tsx?t=1793000016337",
+          "size": 40805
+        },
+        {
+          "name": "Footer.tsx?t=1793001531424",
+          "size": 59073
+        },
+        {
+          "name": "HeroSection.tsx?t=1793002084202",
+          "size": 55548
+        },
+        {
+          "name": "HomeOverview.tsx?t=1793000016337",
+          "size": 84684
+        },
+        {
+          "name": "AboutView.tsx?t=1793000016337",
+          "size": 259955
+        },
+        {
+          "name": "OfficialsView.tsx?t=1793000016337",
+          "size": 102282
+        },
+        {
+          "name": "InitiativesView.tsx?t=1793000016337",
+          "size": 149975
+        },
+        {
+          "name": "WorkTimelineView.tsx?t=1793000016337",
+          "size": 41125
+        },
+        {
+          "name": "GalleryView.tsx?t=1793000016337",
+          "size": 150244
+        },
+        {
+          "name": "VideoLibraryView.tsx?t=1793000016337",
+          "size": 83780
+        },
+        {
+          "name": "ReportsView.tsx?t=1793000016337",
+          "size": 102087
+        },
+        {
+          "name": "NewsView.tsx?t=1793000016337",
+          "size": 186104
+        },
+        {
+          "name": "ContactView.tsx?t=1793000016337",
+          "size": 119921
+        },
+        {
+          "name": "SchemesView.tsx?t=1793000016337",
+          "size": 158400
+        },
+        {
+          "name": "VolunteerView.tsx?t=1793000016337",
+          "size": 167731
+        },
+        {
+          "name": "TermsView.tsx?t=1793000016337",
+          "size": 52451
+        },
+        {
+          "name": "PrivacyPolicyView.tsx?t=1793000016337",
+          "size": 146862
+        },
+        {
+          "name": "SitemapView.tsx?t=1793000016337",
+          "size": 47470
+        },
+        {
+          "name": "LightboxModal.tsx?t=1793000016337",
+          "size": 26734
+        },
+        {
+          "name": "SeoManager.tsx?t=1793000016337",
+          "size": 50797
+        },
+        {
+          "name": "lucide-react.js?v=9ebbb37f",
+          "size": 3806605
+        },
+        {
+          "name": "initialData.ts?t=1792997682684",
+          "size": 129811
+        },
+        {
+          "name": "i18n.ts?t=1792989973488",
+          "size": 61589
+        },
+        {
+          "name": "apiClient.ts?t=1793000016337",
+          "size": 195553
+        },
+        {
+          "name": "SansthaLogo.tsx?t=1792999995783",
+          "size": 23985
+        },
+        {
+          "name": "gsap.js?v=22d21663",
+          "size": 627696
+        },
+        {
+          "name": "gsap_ScrollTrigger.js?v=60d016cb",
+          "size": 375582
+        },
+        {
+          "name": "motion_react.js?v=f682e050",
+          "size": 1892558
+        },
+        {
+          "name": "hooks.ts",
+          "size": 6000
+        },
+        {
+          "name": "HeroStage.tsx",
+          "size": 7768
+        },
+        {
+          "name": "youtube.ts",
+          "size": 21707
+        },
+        {
+          "name": "useCountUp.ts",
+          "size": 6164
+        },
+        {
+          "name": "ImageSlider.tsx",
+          "size": 16770
+        },
+        {
+          "name": "validation.ts",
+          "size": 27193
+        },
+        {
+          "name": "dateFormatter.ts",
+          "size": 18452
+        },
+        {
+          "name": "react-dom-f6U-7Wx1.js?v=2e25d3c4",
+          "size": 51271
+        },
+        {
+          "name": "scheduler-B49edKHR.js?v=2e25d3c4",
+          "size": 34740
+        },
+        {
+          "name": "auth.ts",
+          "size": 7809
+        },
+        {
+          "name": "contentMapper.ts?t=1793000016337",
+          "size": 102739
+        },
+        {
+          "name": "LandscapeFallback.tsx",
+          "size": 12179
+        },
+        {
+          "name": "jsx-runtime-XdfVfXhi.js?v=2e25d3c4",
+          "size": 37746
+        },
+        {
+          "name": "MaharashtraCanvas.tsx",
+          "size": 36721
+        },
+        {
+          "name": "three.js?v=ded330e0",
+          "size": 45790
+        },
+        {
+          "name": "@react-three_fiber.js?v=88e6af6d",
+          "size": 1908362
+        },
+        {
+          "name": "three.module-dSlfew9g.js?v=2e25d3c4",
+          "size": 5983606
+        }
+      ]
+    },
+    "domNodes": 1456,
+    "jsHeapUsedSize": 26133312,
+    "jsHeapTotalSize": 32874496,
+    "layoutCount": 9,
+    "recalcStyleCount": 144
+  },
+  "gallery": {
+    "route": "#/gallery",
+    "timing": {
+      "loadEventEnd": 769.7999999523163,
+      "domContentLoadedEventEnd": 764.5,
+      "domInteractive": 255.5999999642372,
+      "resourceCount": 68,
+      "totalTransferSize": 21766582,
+      "jsResourceCount": 57,
+      "jsTransferSize": 21455990,
+      "jsFiles": [
+        {
+          "name": "client",
+          "size": 222350
+        },
+        {
+          "name": "main.tsx?t=1793002084202",
+          "size": 1567
+        },
+        {
+          "name": "@react-refresh",
+          "size": 118371
+        },
+        {
+          "name": "react-dom_client.js?v=f7e71601",
+          "size": 3098569
+        },
+        {
+          "name": "App.tsx?t=1793002084202",
+          "size": 29344
+        },
+        {
+          "name": "react_jsx-dev-runtime.js?v=fdddb80e",
+          "size": 36068
+        },
+        {
+          "name": "index.css?t=1793002084202",
+          "size": 175284
+        },
+        {
+          "name": "env.mjs",
+          "size": 3778
+        },
+        {
+          "name": "rolldown-runtime-Bk_YeHJf.js?v=2e25d3c4",
+          "size": 8189
+        },
+        {
+          "name": "react-Bk9vEtng.js?v=2e25d3c4",
+          "size": 135618
+        },
+        {
+          "name": "SansthaContext.tsx?t=1793000016337",
+          "size": 101373
+        },
+        {
+          "name": "react.js?v=fdddb80e",
+          "size": 1055
+        },
+        {
+          "name": "Header.tsx?t=1793000016337",
+          "size": 40805
+        },
+        {
+          "name": "Footer.tsx?t=1793001531424",
+          "size": 59073
+        },
+        {
+          "name": "HeroSection.tsx?t=1793002084202",
+          "size": 55548
+        },
+        {
+          "name": "HomeOverview.tsx?t=1793000016337",
+          "size": 84684
+        },
+        {
+          "name": "AboutView.tsx?t=1793000016337",
+          "size": 259955
+        },
+        {
+          "name": "OfficialsView.tsx?t=1793000016337",
+          "size": 102282
+        },
+        {
+          "name": "InitiativesView.tsx?t=1793000016337",
+          "size": 149975
+        },
+        {
+          "name": "WorkTimelineView.tsx?t=1793000016337",
+          "size": 41125
+        },
+        {
+          "name": "GalleryView.tsx?t=1793000016337",
+          "size": 150244
+        },
+        {
+          "name": "VideoLibraryView.tsx?t=1793000016337",
+          "size": 83780
+        },
+        {
+          "name": "ReportsView.tsx?t=1793000016337",
+          "size": 102087
+        },
+        {
+          "name": "NewsView.tsx?t=1793000016337",
+          "size": 186104
+        },
+        {
+          "name": "ContactView.tsx?t=1793000016337",
+          "size": 119921
+        },
+        {
+          "name": "SchemesView.tsx?t=1793000016337",
+          "size": 158400
+        },
+        {
+          "name": "VolunteerView.tsx?t=1793000016337",
+          "size": 167731
+        },
+        {
+          "name": "TermsView.tsx?t=1793000016337",
+          "size": 52451
+        },
+        {
+          "name": "PrivacyPolicyView.tsx?t=1793000016337",
+          "size": 146862
+        },
+        {
+          "name": "SitemapView.tsx?t=1793000016337",
+          "size": 47470
+        },
+        {
+          "name": "LightboxModal.tsx?t=1793000016337",
+          "size": 26734
+        },
+        {
+          "name": "SeoManager.tsx?t=1793000016337",
+          "size": 50797
+        },
+        {
+          "name": "lucide-react.js?v=9ebbb37f",
+          "size": 3806605
+        },
+        {
+          "name": "initialData.ts?t=1792997682684",
+          "size": 129811
+        },
+        {
+          "name": "i18n.ts?t=1792989973488",
+          "size": 61589
+        },
+        {
+          "name": "apiClient.ts?t=1793000016337",
+          "size": 195553
+        },
+        {
+          "name": "SansthaLogo.tsx?t=1792999995783",
+          "size": 23985
+        },
+        {
+          "name": "gsap.js?v=22d21663",
+          "size": 627696
+        },
+        {
+          "name": "gsap_ScrollTrigger.js?v=60d016cb",
+          "size": 375582
+        },
+        {
+          "name": "motion_react.js?v=f682e050",
+          "size": 1892558
+        },
+        {
+          "name": "hooks.ts",
+          "size": 6000
+        },
+        {
+          "name": "HeroStage.tsx",
+          "size": 7768
+        },
+        {
+          "name": "youtube.ts",
+          "size": 21707
+        },
+        {
+          "name": "useCountUp.ts",
+          "size": 6164
+        },
+        {
+          "name": "ImageSlider.tsx",
+          "size": 16770
+        },
+        {
+          "name": "validation.ts",
+          "size": 27193
+        },
+        {
+          "name": "dateFormatter.ts",
+          "size": 18452
+        },
+        {
+          "name": "react-dom-f6U-7Wx1.js?v=2e25d3c4",
+          "size": 51271
+        },
+        {
+          "name": "scheduler-B49edKHR.js?v=2e25d3c4",
+          "size": 34740
+        },
+        {
+          "name": "auth.ts",
+          "size": 7809
+        },
+        {
+          "name": "contentMapper.ts?t=1793000016337",
+          "size": 102739
+        },
+        {
+          "name": "LandscapeFallback.tsx",
+          "size": 12179
+        },
+        {
+          "name": "jsx-runtime-XdfVfXhi.js?v=2e25d3c4",
+          "size": 37746
+        },
+        {
+          "name": "MaharashtraCanvas.tsx",
+          "size": 36721
+        },
+        {
+          "name": "three.js?v=ded330e0",
+          "size": 45790
+        },
+        {
+          "name": "@react-three_fiber.js?v=88e6af6d",
+          "size": 1908362
+        },
+        {
+          "name": "three.module-dSlfew9g.js?v=2e25d3c4",
+          "size": 5983606
+        }
+      ]
+    },
+    "domNodes": 1758,
+    "jsHeapUsedSize": 28280128,
+    "jsHeapTotalSize": 33660928,
+    "layoutCount": 18,
+    "recalcStyleCount": 153
+  },
+  "reports": {
+    "route": "#/reports",
+    "timing": {
+      "loadEventEnd": 769.7999999523163,
+      "domContentLoadedEventEnd": 764.5,
+      "domInteractive": 255.5999999642372,
+      "resourceCount": 69,
+      "totalTransferSize": 21766882,
+      "jsResourceCount": 57,
+      "jsTransferSize": 21455990,
+      "jsFiles": [
+        {
+          "name": "client",
+          "size": 222350
+        },
+        {
+          "name": "main.tsx?t=1793002084202",
+          "size": 1567
+        },
+        {
+          "name": "@react-refresh",
+          "size": 118371
+        },
+        {
+          "name": "react-dom_client.js?v=f7e71601",
+          "size": 3098569
+        },
+        {
+          "name": "App.tsx?t=1793002084202",
+          "size": 29344
+        },
+        {
+          "name": "react_jsx-dev-runtime.js?v=fdddb80e",
+          "size": 36068
+        },
+        {
+          "name": "index.css?t=1793002084202",
+          "size": 175284
+        },
+        {
+          "name": "env.mjs",
+          "size": 3778
+        },
+        {
+          "name": "rolldown-runtime-Bk_YeHJf.js?v=2e25d3c4",
+          "size": 8189
+        },
+        {
+          "name": "react-Bk9vEtng.js?v=2e25d3c4",
+          "size": 135618
+        },
+        {
+          "name": "SansthaContext.tsx?t=1793000016337",
+          "size": 101373
+        },
+        {
+          "name": "react.js?v=fdddb80e",
+          "size": 1055
+        },
+        {
+          "name": "Header.tsx?t=1793000016337",
+          "size": 40805
+        },
+        {
+          "name": "Footer.tsx?t=1793001531424",
+          "size": 59073
+        },
+        {
+          "name": "HeroSection.tsx?t=1793002084202",
+          "size": 55548
+        },
+        {
+          "name": "HomeOverview.tsx?t=1793000016337",
+          "size": 84684
+        },
+        {
+          "name": "AboutView.tsx?t=1793000016337",
+          "size": 259955
+        },
+        {
+          "name": "OfficialsView.tsx?t=1793000016337",
+          "size": 102282
+        },
+        {
+          "name": "InitiativesView.tsx?t=1793000016337",
+          "size": 149975
+        },
+        {
+          "name": "WorkTimelineView.tsx?t=1793000016337",
+          "size": 41125
+        },
+        {
+          "name": "GalleryView.tsx?t=1793000016337",
+          "size": 150244
+        },
+        {
+          "name": "VideoLibraryView.tsx?t=1793000016337",
+          "size": 83780
+        },
+        {
+          "name": "ReportsView.tsx?t=1793000016337",
+          "size": 102087
+        },
+        {
+          "name": "NewsView.tsx?t=1793000016337",
+          "size": 186104
+        },
+        {
+          "name": "ContactView.tsx?t=1793000016337",
+          "size": 119921
+        },
+        {
+          "name": "SchemesView.tsx?t=1793000016337",
+          "size": 158400
+        },
+        {
+          "name": "VolunteerView.tsx?t=1793000016337",
+          "size": 167731
+        },
+        {
+          "name": "TermsView.tsx?t=1793000016337",
+          "size": 52451
+        },
+        {
+          "name": "PrivacyPolicyView.tsx?t=1793000016337",
+          "size": 146862
+        },
+        {
+          "name": "SitemapView.tsx?t=1793000016337",
+          "size": 47470
+        },
+        {
+          "name": "LightboxModal.tsx?t=1793000016337",
+          "size": 26734
+        },
+        {
+          "name": "SeoManager.tsx?t=1793000016337",
+          "size": 50797
+        },
+        {
+          "name": "lucide-react.js?v=9ebbb37f",
+          "size": 3806605
+        },
+        {
+          "name": "initialData.ts?t=1792997682684",
+          "size": 129811
+        },
+        {
+          "name": "i18n.ts?t=1792989973488",
+          "size": 61589
+        },
+        {
+          "name": "apiClient.ts?t=1793000016337",
+          "size": 195553
+        },
+        {
+          "name": "SansthaLogo.tsx?t=1792999995783",
+          "size": 23985
+        },
+        {
+          "name": "gsap.js?v=22d21663",
+          "size": 627696
+        },
+        {
+          "name": "gsap_ScrollTrigger.js?v=60d016cb",
+          "size": 375582
+        },
+        {
+          "name": "motion_react.js?v=f682e050",
+          "size": 1892558
+        },
+        {
+          "name": "hooks.ts",
+          "size": 6000
+        },
+        {
+          "name": "HeroStage.tsx",
+          "size": 7768
+        },
+        {
+          "name": "youtube.ts",
+          "size": 21707
+        },
+        {
+          "name": "useCountUp.ts",
+          "size": 6164
+        },
+        {
+          "name": "ImageSlider.tsx",
+          "size": 16770
+        },
+        {
+          "name": "validation.ts",
+          "size": 27193
+        },
+        {
+          "name": "dateFormatter.ts",
+          "size": 18452
+        },
+        {
+          "name": "react-dom-f6U-7Wx1.js?v=2e25d3c4",
+          "size": 51271
+        },
+        {
+          "name": "scheduler-B49edKHR.js?v=2e25d3c4",
+          "size": 34740
+        },
+        {
+          "name": "auth.ts",
+          "size": 7809
+        },
+        {
+          "name": "contentMapper.ts?t=1793000016337",
+          "size": 102739
+        },
+        {
+          "name": "LandscapeFallback.tsx",
+          "size": 12179
+        },
+        {
+          "name": "jsx-runtime-XdfVfXhi.js?v=2e25d3c4",
+          "size": 37746
+        },
+        {
+          "name": "MaharashtraCanvas.tsx",
+          "size": 36721
+        },
+        {
+          "name": "three.js?v=ded330e0",
+          "size": 45790
+        },
+        {
+          "name": "@react-three_fiber.js?v=88e6af6d",
+          "size": 1908362
+        },
+        {
+          "name": "three.module-dSlfew9g.js?v=2e25d3c4",
+          "size": 5983606
+        }
+      ]
+    },
+    "domNodes": 661,
+    "jsHeapUsedSize": 24676584,
+    "jsHeapTotalSize": 35233792,
+    "layoutCount": 29,
+    "recalcStyleCount": 164
+  },
+  "contact": {
+    "route": "#/contact",
+    "timing": {
+      "loadEventEnd": 769.7999999523163,
+      "domContentLoadedEventEnd": 764.5,
+      "domInteractive": 255.5999999642372,
+      "resourceCount": 70,
+      "totalTransferSize": 21767182,
+      "jsResourceCount": 57,
+      "jsTransferSize": 21455990,
+      "jsFiles": [
+        {
+          "name": "client",
+          "size": 222350
+        },
+        {
+          "name": "main.tsx?t=1793002084202",
+          "size": 1567
+        },
+        {
+          "name": "@react-refresh",
+          "size": 118371
+        },
+        {
+          "name": "react-dom_client.js?v=f7e71601",
+          "size": 3098569
+        },
+        {
+          "name": "App.tsx?t=1793002084202",
+          "size": 29344
+        },
+        {
+          "name": "react_jsx-dev-runtime.js?v=fdddb80e",
+          "size": 36068
+        },
+        {
+          "name": "index.css?t=1793002084202",
+          "size": 175284
+        },
+        {
+          "name": "env.mjs",
+          "size": 3778
+        },
+        {
+          "name": "rolldown-runtime-Bk_YeHJf.js?v=2e25d3c4",
+          "size": 8189
+        },
+        {
+          "name": "react-Bk9vEtng.js?v=2e25d3c4",
+          "size": 135618
+        },
+        {
+          "name": "SansthaContext.tsx?t=1793000016337",
+          "size": 101373
+        },
+        {
+          "name": "react.js?v=fdddb80e",
+          "size": 1055
+        },
+        {
+          "name": "Header.tsx?t=1793000016337",
+          "size": 40805
+        },
+        {
+          "name": "Footer.tsx?t=1793001531424",
+          "size": 59073
+        },
+        {
+          "name": "HeroSection.tsx?t=1793002084202",
+          "size": 55548
+        },
+        {
+          "name": "HomeOverview.tsx?t=1793000016337",
+          "size": 84684
+        },
+        {
+          "name": "AboutView.tsx?t=1793000016337",
+          "size": 259955
+        },
+        {
+          "name": "OfficialsView.tsx?t=1793000016337",
+          "size": 102282
+        },
+        {
+          "name": "InitiativesView.tsx?t=1793000016337",
+          "size": 149975
+        },
+        {
+          "name": "WorkTimelineView.tsx?t=1793000016337",
+          "size": 41125
+        },
+        {
+          "name": "GalleryView.tsx?t=1793000016337",
+          "size": 150244
+        },
+        {
+          "name": "VideoLibraryView.tsx?t=1793000016337",
+          "size": 83780
+        },
+        {
+          "name": "ReportsView.tsx?t=1793000016337",
+          "size": 102087
+        },
+        {
+          "name": "NewsView.tsx?t=1793000016337",
+          "size": 186104
+        },
+        {
+          "name": "ContactView.tsx?t=1793000016337",
+          "size": 119921
+        },
+        {
+          "name": "SchemesView.tsx?t=1793000016337",
+          "size": 158400
+        },
+        {
+          "name": "VolunteerView.tsx?t=1793000016337",
+          "size": 167731
+        },
+        {
+          "name": "TermsView.tsx?t=1793000016337",
+          "size": 52451
+        },
+        {
+          "name": "PrivacyPolicyView.tsx?t=1793000016337",
+          "size": 146862
+        },
+        {
+          "name": "SitemapView.tsx?t=1793000016337",
+          "size": 47470
+        },
+        {
+          "name": "LightboxModal.tsx?t=1793000016337",
+          "size": 26734
+        },
+        {
+          "name": "SeoManager.tsx?t=1793000016337",
+          "size": 50797
+        },
+        {
+          "name": "lucide-react.js?v=9ebbb37f",
+          "size": 3806605
+        },
+        {
+          "name": "initialData.ts?t=1792997682684",
+          "size": 129811
+        },
+        {
+          "name": "i18n.ts?t=1792989973488",
+          "size": 61589
+        },
+        {
+          "name": "apiClient.ts?t=1793000016337",
+          "size": 195553
+        },
+        {
+          "name": "SansthaLogo.tsx?t=1792999995783",
+          "size": 23985
+        },
+        {
+          "name": "gsap.js?v=22d21663",
+          "size": 627696
+        },
+        {
+          "name": "gsap_ScrollTrigger.js?v=60d016cb",
+          "size": 375582
+        },
+        {
+          "name": "motion_react.js?v=f682e050",
+          "size": 1892558
+        },
+        {
+          "name": "hooks.ts",
+          "size": 6000
+        },
+        {
+          "name": "HeroStage.tsx",
+          "size": 7768
+        },
+        {
+          "name": "youtube.ts",
+          "size": 21707
+        },
+        {
+          "name": "useCountUp.ts",
+          "size": 6164
+        },
+        {
+          "name": "ImageSlider.tsx",
+          "size": 16770
+        },
+        {
+          "name": "validation.ts",
+          "size": 27193
+        },
+        {
+          "name": "dateFormatter.ts",
+          "size": 18452
+        },
+        {
+          "name": "react-dom-f6U-7Wx1.js?v=2e25d3c4",
+          "size": 51271
+        },
+        {
+          "name": "scheduler-B49edKHR.js?v=2e25d3c4",
+          "size": 34740
+        },
+        {
+          "name": "auth.ts",
+          "size": 7809
+        },
+        {
+          "name": "contentMapper.ts?t=1793000016337",
+          "size": 102739
+        },
+        {
+          "name": "LandscapeFallback.tsx",
+          "size": 12179
+        },
+        {
+          "name": "jsx-runtime-XdfVfXhi.js?v=2e25d3c4",
+          "size": 37746
+        },
+        {
+          "name": "MaharashtraCanvas.tsx",
+          "size": 36721
+        },
+        {
+          "name": "three.js?v=ded330e0",
+          "size": 45790
+        },
+        {
+          "name": "@react-three_fiber.js?v=88e6af6d",
+          "size": 1908362
+        },
+        {
+          "name": "three.module-dSlfew9g.js?v=2e25d3c4",
+          "size": 5983606
+        }
+      ]
+    },
+    "domNodes": 952,
+    "jsHeapUsedSize": 26574928,
+    "jsHeapTotalSize": 35233792,
+    "layoutCount": 39,
+    "recalcStyleCount": 279
+  },
+  "schemes": {
+    "route": "#/schemes",
+    "timing": {
+      "loadEventEnd": 769.7999999523163,
+      "domContentLoadedEventEnd": 764.5,
+      "domInteractive": 255.5999999642372,
+      "resourceCount": 71,
+      "totalTransferSize": 21767482,
+      "jsResourceCount": 57,
+      "jsTransferSize": 21455990,
+      "jsFiles": [
+        {
+          "name": "client",
+          "size": 222350
+        },
+        {
+          "name": "main.tsx?t=1793002084202",
+          "size": 1567
+        },
+        {
+          "name": "@react-refresh",
+          "size": 118371
+        },
+        {
+          "name": "react-dom_client.js?v=f7e71601",
+          "size": 3098569
+        },
+        {
+          "name": "App.tsx?t=1793002084202",
+          "size": 29344
+        },
+        {
+          "name": "react_jsx-dev-runtime.js?v=fdddb80e",
+          "size": 36068
+        },
+        {
+          "name": "index.css?t=1793002084202",
+          "size": 175284
+        },
+        {
+          "name": "env.mjs",
+          "size": 3778
+        },
+        {
+          "name": "rolldown-runtime-Bk_YeHJf.js?v=2e25d3c4",
+          "size": 8189
+        },
+        {
+          "name": "react-Bk9vEtng.js?v=2e25d3c4",
+          "size": 135618
+        },
+        {
+          "name": "SansthaContext.tsx?t=1793000016337",
+          "size": 101373
+        },
+        {
+          "name": "react.js?v=fdddb80e",
+          "size": 1055
+        },
+        {
+          "name": "Header.tsx?t=1793000016337",
+          "size": 40805
+        },
+        {
+          "name": "Footer.tsx?t=1793001531424",
+          "size": 59073
+        },
+        {
+          "name": "HeroSection.tsx?t=1793002084202",
+          "size": 55548
+        },
+        {
+          "name": "HomeOverview.tsx?t=1793000016337",
+          "size": 84684
+        },
+        {
+          "name": "AboutView.tsx?t=1793000016337",
+          "size": 259955
+        },
+        {
+          "name": "OfficialsView.tsx?t=1793000016337",
+          "size": 102282
+        },
+        {
+          "name": "InitiativesView.tsx?t=1793000016337",
+          "size": 149975
+        },
+        {
+          "name": "WorkTimelineView.tsx?t=1793000016337",
+          "size": 41125
+        },
+        {
+          "name": "GalleryView.tsx?t=1793000016337",
+          "size": 150244
+        },
+        {
+          "name": "VideoLibraryView.tsx?t=1793000016337",
+          "size": 83780
+        },
+        {
+          "name": "ReportsView.tsx?t=1793000016337",
+          "size": 102087
+        },
+        {
+          "name": "NewsView.tsx?t=1793000016337",
+          "size": 186104
+        },
+        {
+          "name": "ContactView.tsx?t=1793000016337",
+          "size": 119921
+        },
+        {
+          "name": "SchemesView.tsx?t=1793000016337",
+          "size": 158400
+        },
+        {
+          "name": "VolunteerView.tsx?t=1793000016337",
+          "size": 167731
+        },
+        {
+          "name": "TermsView.tsx?t=1793000016337",
+          "size": 52451
+        },
+        {
+          "name": "PrivacyPolicyView.tsx?t=1793000016337",
+          "size": 146862
+        },
+        {
+          "name": "SitemapView.tsx?t=1793000016337",
+          "size": 47470
+        },
+        {
+          "name": "LightboxModal.tsx?t=1793000016337",
+          "size": 26734
+        },
+        {
+          "name": "SeoManager.tsx?t=1793000016337",
+          "size": 50797
+        },
+        {
+          "name": "lucide-react.js?v=9ebbb37f",
+          "size": 3806605
+        },
+        {
+          "name": "initialData.ts?t=1792997682684",
+          "size": 129811
+        },
+        {
+          "name": "i18n.ts?t=1792989973488",
+          "size": 61589
+        },
+        {
+          "name": "apiClient.ts?t=1793000016337",
+          "size": 195553
+        },
+        {
+          "name": "SansthaLogo.tsx?t=1792999995783",
+          "size": 23985
+        },
+        {
+          "name": "gsap.js?v=22d21663",
+          "size": 627696
+        },
+        {
+          "name": "gsap_ScrollTrigger.js?v=60d016cb",
+          "size": 375582
+        },
+        {
+          "name": "motion_react.js?v=f682e050",
+          "size": 1892558
+        },
+        {
+          "name": "hooks.ts",
+          "size": 6000
+        },
+        {
+          "name": "HeroStage.tsx",
+          "size": 7768
+        },
+        {
+          "name": "youtube.ts",
+          "size": 21707
+        },
+        {
+          "name": "useCountUp.ts",
+          "size": 6164
+        },
+        {
+          "name": "ImageSlider.tsx",
+          "size": 16770
+        },
+        {
+          "name": "validation.ts",
+          "size": 27193
+        },
+        {
+          "name": "dateFormatter.ts",
+          "size": 18452
+        },
+        {
+          "name": "react-dom-f6U-7Wx1.js?v=2e25d3c4",
+          "size": 51271
+        },
+        {
+          "name": "scheduler-B49edKHR.js?v=2e25d3c4",
+          "size": 34740
+        },
+        {
+          "name": "auth.ts",
+          "size": 7809
+        },
+        {
+          "name": "contentMapper.ts?t=1793000016337",
+          "size": 102739
+        },
+        {
+          "name": "LandscapeFallback.tsx",
+          "size": 12179
+        },
+        {
+          "name": "jsx-runtime-XdfVfXhi.js?v=2e25d3c4",
+          "size": 37746
+        },
+        {
+          "name": "MaharashtraCanvas.tsx",
+          "size": 36721
+        },
+        {
+          "name": "three.js?v=ded330e0",
+          "size": 45790
+        },
+        {
+          "name": "@react-three_fiber.js?v=88e6af6d",
+          "size": 1908362
+        },
+        {
+          "name": "three.module-dSlfew9g.js?v=2e25d3c4",
+          "size": 5983606
+        }
+      ]
+    },
+    "domNodes": 1304,
+    "jsHeapUsedSize": 28823148,
+    "jsHeapTotalSize": 35233792,
+    "layoutCount": 49,
+    "recalcStyleCount": 393
+  }
+}

@@ -1,0 +1,508 @@
+{
+  "renderer": {
+    "webgl": true,
+    "vendor": "Google Inc. (Intel)",
+    "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+  },
+  "sessions": [
+    {
+      "viewport": "Desktop 1440",
+      "cache": "cold",
+      "dcl": 128,
+      "load": 131,
+      "fcp": 688,
+      "lcp": 1172,
+      "lcpTag": "SPAN",
+      "cls": 0.0128,
+      "longTasksCount": 6,
+      "longTasks": [
+        {
+          "name": "self",
+          "duration": 408,
+          "startTime": 165
+        },
+        {
+          "name": "self",
+          "duration": 119,
+          "startTime": 588
+        },
+        {
+          "name": "self",
+          "duration": 278,
+          "startTime": 810
+        },
+        {
+          "name": "self",
+          "duration": 82,
+          "startTime": 1270
+        },
+        {
+          "name": "self",
+          "duration": 107,
+          "startTime": 1493
+        },
+        {
+          "name": "self",
+          "duration": 315,
+          "startTime": 1600
+        }
+      ],
+      "totalLongTaskDurationMs": 1309,
+      "maxLongTaskDurationMs": 408,
+      "jsFilesCount": 7,
+      "jsTransferBeforeFCP_kB": 168.16,
+      "jsTransfer5s_kB": 447.96,
+      "threeReq": {
+        "filename": "MaharashtraCanvas-DeKo5nqg.js",
+        "startTimeMs": 1122,
+        "durationMs": 18,
+        "transferSize": 2394,
+        "initiator": "script (about:client)"
+      },
+      "gsapReq": {
+        "filename": "vendor-gsap-B6cg2RtL.js",
+        "startTimeMs": 1132,
+        "durationMs": 27,
+        "transferSize": 44690,
+        "initiator": "script (about:client)"
+      },
+      "cdpMetrics": {
+        "jsHeapUsedMB": 6.77,
+        "taskDurationSec": 2.25,
+        "layoutDurationSec": 0.672,
+        "recalcStyleDurationSec": 0.131,
+        "scriptDurationSec": 0.986
+      },
+      "consoleErrors": [
+        {
+          "type": "warning",
+          "text": "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."
+        }
+      ],
+      "networkErrors": []
+    },
+    {
+      "viewport": "Desktop 1440",
+      "cache": "warm",
+      "dcl": 54,
+      "load": 54,
+      "fcp": 328,
+      "lcp": 1160,
+      "lcpTag": "SPAN",
+      "cls": 0.0024,
+      "longTasksCount": 4,
+      "longTasks": [
+        {
+          "name": "self",
+          "duration": 202,
+          "startTime": 84
+        },
+        {
+          "name": "self",
+          "duration": 86,
+          "startTime": 412
+        },
+        {
+          "name": "self",
+          "duration": 70,
+          "startTime": 894
+        },
+        {
+          "name": "self",
+          "duration": 80,
+          "startTime": 964
+        }
+      ],
+      "totalLongTaskDurationMs": 438,
+      "maxLongTaskDurationMs": 202,
+      "jsFilesCount": 7,
+      "jsTransferBeforeFCP_kB": 0.7,
+      "jsTransfer5s_kB": 1.22,
+      "threeReq": {
+        "filename": "MaharashtraCanvas-DeKo5nqg.js",
+        "startTimeMs": 515,
+        "durationMs": 3,
+        "transferSize": 179,
+        "initiator": "script (about:client)"
+      },
+      "gsapReq": {
+        "filename": "vendor-gsap-B6cg2RtL.js",
+        "startTimeMs": 519,
+        "durationMs": 6,
+        "transferSize": 179,
+        "initiator": "script (about:client)"
+      },
+      "cdpMetrics": {
+        "jsHeapUsedMB": 8.74,
+        "taskDurationSec": 1.571,
+        "layoutDurationSec": 0.315,
+        "recalcStyleDurationSec": 0.148,
+        "scriptDurationSec": 0.596
+      },
+      "consoleErrors": [
+        {
+          "type": "warning",
+          "text": "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."
+        }
+      ],
+      "networkErrors": []
+    },
+    {
+      "viewport": "Desktop 1280",
+      "cache": "cold",
+      "dcl": 167,
+      "load": 168,
+      "fcp": 848,
+      "lcp": 1348,
+      "lcpTag": "SPAN",
+      "cls": 0.0031,
+      "longTasksCount": 9,
+      "longTasks": [
+        {
+          "name": "self",
+          "duration": 53,
+          "startTime": 114
+        },
+        {
+          "name": "self",
+          "duration": 82,
+          "startTime": 170
+        },
+        {
+          "name": "self",
+          "duration": 507,
+          "startTime": 253
+        },
+        {
+          "name": "self",
+          "duration": 93,
+          "startTime": 777
+        },
+        {
+          "name": "self",
+          "duration": 114,
+          "startTime": 953
+        },
+        {
+          "name": "self",
+          "duration": 205,
+          "startTime": 1079
+        },
+        {
+          "name": "self",
+          "duration": 76,
+          "startTime": 1491
+        },
+        {
+          "name": "self",
+          "duration": 88,
+          "startTime": 1679
+        },
+        {
+          "name": "self",
+          "duration": 76,
+          "startTime": 1768
+        }
+      ],
+      "totalLongTaskDurationMs": 1294,
+      "maxLongTaskDurationMs": 507,
+      "jsFilesCount": 7,
+      "jsTransferBeforeFCP_kB": 168.16,
+      "jsTransfer5s_kB": 447.96,
+      "threeReq": {
+        "filename": "MaharashtraCanvas-DeKo5nqg.js",
+        "startTimeMs": 1294,
+        "durationMs": 28,
+        "transferSize": 2394,
+        "initiator": "script (about:client)"
+      },
+      "gsapReq": {
+        "filename": "vendor-gsap-B6cg2RtL.js",
+        "startTimeMs": 1305,
+        "durationMs": 30,
+        "transferSize": 44690,
+        "initiator": "script (about:client)"
+      },
+      "cdpMetrics": {
+        "jsHeapUsedMB": 7.57,
+        "taskDurationSec": 2.145,
+        "layoutDurationSec": 0.763,
+        "recalcStyleDurationSec": 0.164,
+        "scriptDurationSec": 0.756
+      },
+      "consoleErrors": [
+        {
+          "type": "warning",
+          "text": "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."
+        }
+      ],
+      "networkErrors": []
+    },
+    {
+      "viewport": "Desktop 1280",
+      "cache": "warm",
+      "dcl": 90,
+      "load": 90,
+      "fcp": 496,
+      "lcp": 812,
+      "lcpTag": "SPAN",
+      "cls": 0.0032,
+      "longTasksCount": 7,
+      "longTasks": [
+        {
+          "name": "self",
+          "duration": 289,
+          "startTime": 136
+        },
+        {
+          "name": "self",
+          "duration": 59,
+          "startTime": 439
+        },
+        {
+          "name": "self",
+          "duration": 82,
+          "startTime": 527
+        },
+        {
+          "name": "self",
+          "duration": 139,
+          "startTime": 628
+        },
+        {
+          "name": "self",
+          "duration": 52,
+          "startTime": 847
+        },
+        {
+          "name": "self",
+          "duration": 65,
+          "startTime": 1149
+        },
+        {
+          "name": "self",
+          "duration": 73,
+          "startTime": 1215
+        }
+      ],
+      "totalLongTaskDurationMs": 759,
+      "maxLongTaskDurationMs": 289,
+      "jsFilesCount": 7,
+      "jsTransferBeforeFCP_kB": 0.7,
+      "jsTransfer5s_kB": 1.22,
+      "threeReq": {
+        "filename": "MaharashtraCanvas-DeKo5nqg.js",
+        "startTimeMs": 790,
+        "durationMs": 4,
+        "transferSize": 179,
+        "initiator": "script (about:client)"
+      },
+      "gsapReq": {
+        "filename": "vendor-gsap-B6cg2RtL.js",
+        "startTimeMs": 831,
+        "durationMs": 4,
+        "transferSize": 179,
+        "initiator": "script (about:client)"
+      },
+      "cdpMetrics": {
+        "jsHeapUsedMB": 8.23,
+        "taskDurationSec": 1.641,
+        "layoutDurationSec": 0.469,
+        "recalcStyleDurationSec": 0.14,
+        "scriptDurationSec": 0.583
+      },
+      "consoleErrors": [
+        {
+          "type": "warning",
+          "text": "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."
+        }
+      ],
+      "networkErrors": []
+    },
+    {
+      "viewport": "Mobile 390",
+      "cache": "cold",
+      "dcl": 107,
+      "load": 110,
+      "fcp": 340,
+      "lcp": 1188,
+      "lcpTag": "SPAN",
+      "cls": 0,
+      "longTasksCount": 2,
+      "longTasks": [
+        {
+          "name": "self",
+          "duration": 163,
+          "startTime": 136
+        },
+        {
+          "name": "self",
+          "duration": 120,
+          "startTime": 426
+        }
+      ],
+      "totalLongTaskDurationMs": 283,
+      "maxLongTaskDurationMs": 163,
+      "jsFilesCount": 5,
+      "jsTransferBeforeFCP_kB": 168.16,
+      "jsTransfer5s_kB": 211.81,
+      "threeReq": null,
+      "gsapReq": {
+        "filename": "vendor-gsap-B6cg2RtL.js",
+        "startTimeMs": 562,
+        "durationMs": 12,
+        "transferSize": 44690,
+        "initiator": "script (about:client)"
+      },
+      "cdpMetrics": {
+        "jsHeapUsedMB": 4.8,
+        "taskDurationSec": 0.811,
+        "layoutDurationSec": 0.3,
+        "recalcStyleDurationSec": 0.111,
+        "scriptDurationSec": 0.152
+      },
+      "consoleErrors": [],
+      "networkErrors": []
+    },
+    {
+      "viewport": "Mobile 390",
+      "cache": "warm",
+      "dcl": 55,
+      "load": 55,
+      "fcp": 264,
+      "lcp": 1096,
+      "lcpTag": "SPAN",
+      "cls": 0,
+      "longTasksCount": 3,
+      "longTasks": [
+        {
+          "name": "self",
+          "duration": 149,
+          "startTime": 83
+        },
+        {
+          "name": "self",
+          "duration": 52,
+          "startTime": 284
+        },
+        {
+          "name": "self",
+          "duration": 78,
+          "startTime": 342
+        }
+      ],
+      "totalLongTaskDurationMs": 279,
+      "maxLongTaskDurationMs": 149,
+      "jsFilesCount": 5,
+      "jsTransferBeforeFCP_kB": 0.7,
+      "jsTransfer5s_kB": 0.87,
+      "threeReq": null,
+      "gsapReq": {
+        "filename": "vendor-gsap-B6cg2RtL.js",
+        "startTimeMs": 434,
+        "durationMs": 2,
+        "transferSize": 179,
+        "initiator": "script (about:client)"
+      },
+      "cdpMetrics": {
+        "jsHeapUsedMB": 4.8,
+        "taskDurationSec": 0.731,
+        "layoutDurationSec": 0.257,
+        "recalcStyleDurationSec": 0.106,
+        "scriptDurationSec": 0.123
+      },
+      "consoleErrors": [],
+      "networkErrors": []
+    },
+    {
+      "viewport": "Mobile 360",
+      "cache": "cold",
+      "dcl": 110,
+      "load": 113,
+      "fcp": 336,
+      "lcp": 1184,
+      "lcpTag": "SPAN",
+      "cls": 0,
+      "longTasksCount": 2,
+      "longTasks": [
+        {
+          "name": "self",
+          "duration": 164,
+          "startTime": 141
+        },
+        {
+          "name": "self",
+          "duration": 86,
+          "startTime": 409
+        }
+      ],
+      "totalLongTaskDurationMs": 250,
+      "maxLongTaskDurationMs": 164,
+      "jsFilesCount": 5,
+      "jsTransferBeforeFCP_kB": 168.16,
+      "jsTransfer5s_kB": 211.81,
+      "threeReq": null,
+      "gsapReq": {
+        "filename": "vendor-gsap-B6cg2RtL.js",
+        "startTimeMs": 507,
+        "durationMs": 14,
+        "transferSize": 44690,
+        "initiator": "script (about:client)"
+      },
+      "cdpMetrics": {
+        "jsHeapUsedMB": 4.78,
+        "taskDurationSec": 0.761,
+        "layoutDurationSec": 0.261,
+        "recalcStyleDurationSec": 0.107,
+        "scriptDurationSec": 0.132
+      },
+      "consoleErrors": [],
+      "networkErrors": []
+    },
+    {
+      "viewport": "Mobile 360",
+      "cache": "warm",
+      "dcl": 61,
+      "load": 63,
+      "fcp": 292,
+      "lcp": 528,
+      "lcpTag": "SPAN",
+      "cls": 0,
+      "longTasksCount": 2,
+      "longTasks": [
+        {
+          "name": "self",
+          "duration": 168,
+          "startTime": 92
+        },
+        {
+          "name": "self",
+          "duration": 116,
+          "startTime": 324
+        }
+      ],
+      "totalLongTaskDurationMs": 284,
+      "maxLongTaskDurationMs": 168,
+      "jsFilesCount": 5,
+      "jsTransferBeforeFCP_kB": 0.7,
+      "jsTransfer5s_kB": 0.87,
+      "threeReq": null,
+      "gsapReq": {
+        "filename": "vendor-gsap-B6cg2RtL.js",
+        "startTimeMs": 490,
+        "durationMs": 4,
+        "transferSize": 179,
+        "initiator": "script (about:client)"
+      },
+      "cdpMetrics": {
+        "jsHeapUsedMB": 4.8,
+        "taskDurationSec": 0.805,
+        "layoutDurationSec": 0.287,
+        "recalcStyleDurationSec": 0.115,
+        "scriptDurationSec": 0.137
+      },
+      "consoleErrors": [],
+      "networkErrors": []
+    }
+  ]
+}

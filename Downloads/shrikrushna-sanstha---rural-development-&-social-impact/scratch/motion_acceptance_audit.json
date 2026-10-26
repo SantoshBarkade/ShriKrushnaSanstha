@@ -1,0 +1,11 @@
+{
+  "touchTest": {
+    "touchTransform": "",
+    "tiltPreventedOnTouch": true
+  },
+  "reducedMotionTest": {
+    "matchesReducedMotion": true,
+    "reducedMotionTransform": "",
+    "tiltPreventedUnderReducedMotion": true
+  }
+}

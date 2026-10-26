@@ -1,0 +1,305 @@
+{
+    "generated_at": "2026-10-22T09:11:41+00:00",
+    "database": "shrikrushnasanstha2",
+    "total_files": 23,
+    "referenced_count": 6,
+    "unreferenced_count": 17,
+    "policy": "Do not automatically delete unreferenced files. Retain until explicitly reviewed and approved by administrator.",
+    "files": [
+        {
+            "filename": "evt_03eeefe495cda0a8a24f.png",
+            "relative_path": "/backend-php-mysql/uploads/events/evt_03eeefe495cda0a8a24f.png",
+            "file_type": "image",
+            "file_size_bytes": 1854418,
+            "readable": true,
+            "status": "referenced",
+            "references_found": [
+                {
+                    "table": "events",
+                    "column": "cover_image_url",
+                    "record_id": "evt-1792622428974",
+                    "record_title": "वृक्षारोपण उपक्रम"
+                }
+            ],
+            "recommended_action": "retain_active",
+            "reason": "Active in database (1 reference(s) found)."
+        },
+        {
+            "filename": "evt_a4cd0d907017da23c2fa.jpg",
+            "relative_path": "/backend-php-mysql/uploads/events/evt_a4cd0d907017da23c2fa.jpg",
+            "file_type": "image",
+            "file_size_bytes": 203757,
+            "readable": true,
+            "status": "referenced",
+            "references_found": [
+                {
+                    "table": "event_photos",
+                    "column": "image_url",
+                    "record_id": 23,
+                    "record_title": null
+                }
+            ],
+            "recommended_action": "retain_active",
+            "reason": "Active in database (1 reference(s) found)."
+        },
+        {
+            "filename": "evt_bf28d44a652542413ded.jpg",
+            "relative_path": "/backend-php-mysql/uploads/events/evt_bf28d44a652542413ded.jpg",
+            "file_type": "image",
+            "file_size_bytes": 1335389,
+            "readable": true,
+            "status": "referenced",
+            "references_found": [
+                {
+                    "table": "event_photos",
+                    "column": "image_url",
+                    "record_id": 22,
+                    "record_title": null
+                }
+            ],
+            "recommended_action": "retain_active",
+            "reason": "Active in database (1 reference(s) found)."
+        },
+        {
+            "filename": "gal_5d9d7e42737a8b84df51.jpg",
+            "relative_path": "/backend-php-mysql/uploads/gallery/gal_5d9d7e42737a8b84df51.jpg",
+            "file_type": "image",
+            "file_size_bytes": 1335389,
+            "readable": true,
+            "status": "referenced",
+            "references_found": [
+                {
+                    "table": "gallery_photos",
+                    "column": "image_url",
+                    "record_id": "gal-1792578754817-0",
+                    "record_title": "14157968.jpg"
+                }
+            ],
+            "recommended_action": "retain_active",
+            "reason": "Active in database (1 reference(s) found)."
+        },
+        {
+            "filename": "gal_d39e67565e30562a1b76.png",
+            "relative_path": "/backend-php-mysql/uploads/gallery/gal_d39e67565e30562a1b76.png",
+            "file_type": "image",
+            "file_size_bytes": 1854418,
+            "readable": true,
+            "status": "referenced",
+            "references_found": [
+                {
+                    "table": "gallery_photos",
+                    "column": "image_url",
+                    "record_id": "gal-1792578754817-1",
+                    "record_title": "wallpaper copilot.png"
+                }
+            ],
+            "recommended_action": "retain_active",
+            "reason": "Active in database (1 reference(s) found)."
+        },
+        {
+            "filename": "off_1459bf0c6242540654d7.png",
+            "relative_path": "/backend-php-mysql/uploads/officials/off_1459bf0c6242540654d7.png",
+            "file_type": "image",
+            "file_size_bytes": 1854418,
+            "readable": true,
+            "status": "apparently_unreferenced",
+            "references_found": [],
+            "recommended_action": "retain_pending_administrative_review",
+            "reason": "No database references found in any active content tables. Retain safe backup until administrative approval."
+        },
+        {
+            "filename": "off_21993b39298dfbb01d10.png",
+            "relative_path": "/backend-php-mysql/uploads/officials/off_21993b39298dfbb01d10.png",
+            "file_type": "image",
+            "file_size_bytes": 70,
+            "readable": true,
+            "status": "apparently_unreferenced",
+            "references_found": [],
+            "recommended_action": "retain_pending_administrative_review",
+            "reason": "No database references found in any active content tables. Retain safe backup until administrative approval."
+        },
+        {
+            "filename": "off_4ce29ef1f1d0d5f0e7a7.png",
+            "relative_path": "/backend-php-mysql/uploads/officials/off_4ce29ef1f1d0d5f0e7a7.png",
+            "file_type": "image",
+            "file_size_bytes": 70,
+            "readable": true,
+            "status": "apparently_unreferenced",
+            "references_found": [],
+            "recommended_action": "retain_pending_administrative_review",
+            "reason": "No database references found in any active content tables. Retain safe backup until administrative approval."
+        },
+        {
+            "filename": "off_52c23d353dec4dc56b8f.png",
+            "relative_path": "/backend-php-mysql/uploads/officials/off_52c23d353dec4dc56b8f.png",
+            "file_type": "image",
+            "file_size_bytes": 70,
+            "readable": true,
+            "status": "apparently_unreferenced",
+            "references_found": [],
+            "recommended_action": "retain_pending_administrative_review",
+            "reason": "No database references found in any active content tables. Retain safe backup until administrative approval."
+        },
+        {
+            "filename": "off_5318adbc0d8ccb861810.jpg",
+            "relative_path": "/backend-php-mysql/uploads/officials/off_5318adbc0d8ccb861810.jpg",
+            "file_type": "image",
+            "file_size_bytes": 1335389,
+            "readable": true,
+            "status": "referenced",
+            "references_found": [
+                {
+                    "table": "officials",
+                    "column": "image_url",
+                    "record_id": "off-1792567896233",
+                    "record_title": "CHETAN"
+                }
+            ],
+            "recommended_action": "retain_active",
+            "reason": "Active in database (1 reference(s) found)."
+        },
+        {
+            "filename": "off_550d4842e29a0f8fb9c9.png",
+            "relative_path": "/backend-php-mysql/uploads/officials/off_550d4842e29a0f8fb9c9.png",
+            "file_type": "image",
+            "file_size_bytes": 70,
+            "readable": true,
+            "status": "apparently_unreferenced",
+            "references_found": [],
+            "recommended_action": "retain_pending_administrative_review",
+            "reason": "No database references found in any active content tables. Retain safe backup until administrative approval."
+        },
+        {
+            "filename": "off_638c68fc9abb52d7a915.png",
+            "relative_path": "/backend-php-mysql/uploads/officials/off_638c68fc9abb52d7a915.png",
+            "file_type": "image",
+            "file_size_bytes": 81,
+            "readable": true,
+            "status": "apparently_unreferenced",
+            "references_found": [],
+            "recommended_action": "retain_pending_administrative_review",
+            "reason": "No database references found in any active content tables. Retain safe backup until administrative approval."
+        },
+        {
+            "filename": "off_70757325d7a868a484c5.png",
+            "relative_path": "/backend-php-mysql/uploads/officials/off_70757325d7a868a484c5.png",
+            "file_type": "image",
+            "file_size_bytes": 70,
+            "readable": true,
+            "status": "apparently_unreferenced",
+            "references_found": [],
+            "recommended_action": "retain_pending_administrative_review",
+            "reason": "No database references found in any active content tables. Retain safe backup until administrative approval."
+        },
+        {
+            "filename": "off_895ca990e56c1b487fab.png",
+            "relative_path": "/backend-php-mysql/uploads/officials/off_895ca990e56c1b487fab.png",
+            "file_type": "image",
+            "file_size_bytes": 70,
+            "readable": true,
+            "status": "apparently_unreferenced",
+            "references_found": [],
+            "recommended_action": "retain_pending_administrative_review",
+            "reason": "No database references found in any active content tables. Retain safe backup until administrative approval."
+        },
+        {
+            "filename": "off_8c07b77f2a14f4768215.jpg",
+            "relative_path": "/backend-php-mysql/uploads/officials/off_8c07b77f2a14f4768215.jpg",
+            "file_type": "image",
+            "file_size_bytes": 1335389,
+            "readable": true,
+            "status": "apparently_unreferenced",
+            "references_found": [],
+            "recommended_action": "retain_pending_administrative_review",
+            "reason": "No database references found in any active content tables. Retain safe backup until administrative approval."
+        },
+        {
+            "filename": "off_92337fc2d0ddf18defc5.png",
+            "relative_path": "/backend-php-mysql/uploads/officials/off_92337fc2d0ddf18defc5.png",
+            "file_type": "image",
+            "file_size_bytes": 67,
+            "readable": true,
+            "status": "apparently_unreferenced",
+            "references_found": [],
+            "recommended_action": "retain_pending_administrative_review",
+            "reason": "No database references found in any active content tables. Retain safe backup until administrative approval."
+        },
+        {
+            "filename": "off_9321f68cd695412aa455.png",
+            "relative_path": "/backend-php-mysql/uploads/officials/off_9321f68cd695412aa455.png",
+            "file_type": "image",
+            "file_size_bytes": 70,
+            "readable": true,
+            "status": "apparently_unreferenced",
+            "references_found": [],
+            "recommended_action": "retain_pending_administrative_review",
+            "reason": "No database references found in any active content tables. Retain safe backup until administrative approval."
+        },
+        {
+            "filename": "off_9e88be71ddab21eac1c2.png",
+            "relative_path": "/backend-php-mysql/uploads/officials/off_9e88be71ddab21eac1c2.png",
+            "file_type": "image",
+            "file_size_bytes": 70,
+            "readable": true,
+            "status": "apparently_unreferenced",
+            "references_found": [],
+            "recommended_action": "retain_pending_administrative_review",
+            "reason": "No database references found in any active content tables. Retain safe backup until administrative approval."
+        },
+        {
+            "filename": "off_d72a70de4bb5959a4330.png",
+            "relative_path": "/backend-php-mysql/uploads/officials/off_d72a70de4bb5959a4330.png",
+            "file_type": "image",
+            "file_size_bytes": 67,
+            "readable": true,
+            "status": "apparently_unreferenced",
+            "references_found": [],
+            "recommended_action": "retain_pending_administrative_review",
+            "reason": "No database references found in any active content tables. Retain safe backup until administrative approval."
+        },
+        {
+            "filename": "off_db805c6cfd2ff00e556f.png",
+            "relative_path": "/backend-php-mysql/uploads/officials/off_db805c6cfd2ff00e556f.png",
+            "file_type": "image",
+            "file_size_bytes": 1854418,
+            "readable": true,
+            "status": "apparently_unreferenced",
+            "references_found": [],
+            "recommended_action": "retain_pending_administrative_review",
+            "reason": "No database references found in any active content tables. Retain safe backup until administrative approval."
+        },
+        {
+            "filename": "off_e2f0f292a446344ec8cb.png",
+            "relative_path": "/backend-php-mysql/uploads/officials/off_e2f0f292a446344ec8cb.png",
+            "file_type": "image",
+            "file_size_bytes": 70,
+            "readable": true,
+            "status": "apparently_unreferenced",
+            "references_found": [],
+            "recommended_action": "retain_pending_administrative_review",
+            "reason": "No database references found in any active content tables. Retain safe backup until administrative approval."
+        },
+        {
+            "filename": "off_fb1575ed6c9060efa8ef.png",
+            "relative_path": "/backend-php-mysql/uploads/officials/off_fb1575ed6c9060efa8ef.png",
+            "file_type": "image",
+            "file_size_bytes": 70,
+            "readable": true,
+            "status": "apparently_unreferenced",
+            "references_found": [],
+            "recommended_action": "retain_pending_administrative_review",
+            "reason": "No database references found in any active content tables. Retain safe backup until administrative approval."
+        },
+        {
+            "filename": "rep_feb15b2dae990b620375.pdf",
+            "relative_path": "/backend-php-mysql/uploads/reports/rep_feb15b2dae990b620375.pdf",
+            "file_type": "document/pdf",
+            "file_size_bytes": 317,
+            "readable": true,
+            "status": "apparently_unreferenced",
+            "references_found": [],
+            "recommended_action": "retain_pending_administrative_review",
+            "reason": "No database references found in any active content tables. Retain safe backup until administrative approval."
+        }
+    ]
+}

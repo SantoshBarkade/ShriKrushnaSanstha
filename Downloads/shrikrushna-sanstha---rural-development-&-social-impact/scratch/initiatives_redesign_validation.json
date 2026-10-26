@@ -1,0 +1,91 @@
+{
+  "viewports": [
+    {
+      "viewport": "initiatives_1440_desktop.png",
+      "scrollWidth": 1425,
+      "clientWidth": 1425,
+      "hasHorizontalOverflow": false,
+      "cardsCount": 4,
+      "brokenImagesCount": 0
+    },
+    {
+      "viewport": "initiatives_1280_laptop.png",
+      "scrollWidth": 1265,
+      "clientWidth": 1265,
+      "hasHorizontalOverflow": false,
+      "cardsCount": 4,
+      "brokenImagesCount": 0
+    },
+    {
+      "viewport": "initiatives_768_tablet.png",
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "hasHorizontalOverflow": false,
+      "cardsCount": 4,
+      "brokenImagesCount": 0
+    },
+    {
+      "viewport": "initiatives_390_mobile.png",
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "hasHorizontalOverflow": false,
+      "cardsCount": 4,
+      "brokenImagesCount": 0
+    },
+    {
+      "viewport": "initiatives_360_mobile.png",
+      "scrollWidth": 360,
+      "clientWidth": 360,
+      "hasHorizontalOverflow": false,
+      "cardsCount": 4,
+      "brokenImagesCount": 0
+    }
+  ],
+  "interactions": {
+    "search": {
+      "typedQuery": "शिक्षण",
+      "filteredCount": 4,
+      "resetCount": 4
+    },
+    "category": {
+      "schemesCategoryItems": 1,
+      "allCategoryItems": 4
+    },
+    "modal": {
+      "step1_modalOpen": false,
+      "step1_modalTitle": "",
+      "step2_escapeDismissed": true,
+      "step3_modal2Open": false,
+      "step3_modal2Title": "",
+      "step4_buttonDismissed": true
+    }
+  },
+  "bilingual": {
+    "marathi": {
+      "h1": "प्रमुख उपक्रम, योजना व प्रत्यक्ष कार्य",
+      "firstCardTitle": "CSC बाल विद्यालय, मॉडेल लर्निंग लॅब व RTE २५% सर्व शिक्षा",
+      "firstCardCategory": "1 / 3"
+    },
+    "english": {
+      "h1": "Major Initiatives, Welfare Drives & Field Operations",
+      "firstCardTitle": "CSC Bal Vidyalaya, Model Learning Lab & RTE 25% Education Drive",
+      "firstCardCategory": "1 / 3"
+    }
+  },
+  "desktopPerf": {
+    "totalFrames": 62,
+    "avgFps": 60,
+    "avgFrameTimeMs": 16.67,
+    "longFramesCount": 0,
+    "cls": 0
+  },
+  "mobilePerf4x": {
+    "totalFrames": 84,
+    "avgFps": 52.5,
+    "avgFrameTimeMs": 19.05,
+    "longFramesCount": 8,
+    "cls": 0
+  },
+  "consoleErrors": [],
+  "networkErrors": []
+}

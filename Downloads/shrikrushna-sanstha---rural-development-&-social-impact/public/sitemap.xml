@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Home Page -->
+  <!-- Note: Production domain 'https://shrikrushnasanstha.org' is a placeholder pending final registration by the institution. Update loc tags upon deployment. -->
+  <url>
+    <loc>https://shrikrushnasanstha.org/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- About the Institution -->
+  <url>
+    <loc>https://shrikrushnasanstha.org/#/about</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Officials & Leadership -->
+  <url>
+    <loc>https://shrikrushnasanstha.org/#/officials</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Initiatives & Programs -->
+  <url>
+    <loc>https://shrikrushnasanstha.org/#/initiatives</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Work Timeline -->
+  <url>
+    <loc>https://shrikrushnasanstha.org/#/work</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Photo Gallery -->
+  <url>
+    <loc>https://shrikrushnasanstha.org/#/gallery</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Video Library -->
+  <url>
+    <loc>https://shrikrushnasanstha.org/#/videos</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Reports & Publications -->
+  <url>
+    <loc>https://shrikrushnasanstha.org/#/reports</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Announcements & Events -->
+  <url>
+    <loc>https://shrikrushnasanstha.org/#/news</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contact & Inquiries -->
+  <url>
+    <loc>https://shrikrushnasanstha.org/#/contact</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Volunteer Registration -->
+  <url>
+    <loc>https://shrikrushnasanstha.org/#/volunteer</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Privacy Policy -->
+  <url>
+    <loc>https://shrikrushnasanstha.org/#/privacy</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>

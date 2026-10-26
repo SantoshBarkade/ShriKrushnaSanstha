@@ -1,0 +1,6 @@
+{
+  "name": "ShriKrushna Sanstha - Rural Development & Social Impact",
+  "description": "श्रीकृष्ण संस्था, महाराष्ट्र — ग्रामीण विकास, शिक्षण, सामाजिक कल्याण, पर्यावरण आणि शासकीय योजना जनजागृतीचे विश्वासार्ह व्यासपीठ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

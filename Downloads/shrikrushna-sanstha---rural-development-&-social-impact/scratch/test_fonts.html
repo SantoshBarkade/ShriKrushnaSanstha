@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Hind:wght@400;500;600;700&family=Noto+Sans+Devanagari:wght@400;500;600;700;800;900&family=Noto+Serif+Devanagari:wght@500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+body { font-size: 32px; padding: 40px; background: #fff; color: #000; }
+.test-row { margin-bottom: 24px; border-bottom: 1px solid #ccc; padding-bottom: 10px; }
+.label { font-size: 16px; color: #666; font-family: sans-serif; }
+</style>
+</head>
+<body>
+
+<div class="test-row">
+  <div class="label">1. Default browser font:</div>
+  <div>नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र</div>
+</div>
+
+<div class="test-row">
+  <div class="label">2. "Noto Sans Devanagari":</div>
+  <div style="font-family: 'Noto Sans Devanagari', sans-serif;">नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र</div>
+</div>
+
+<div class="test-row">
+  <div class="label">3. "Noto Serif Devanagari":</div>
+  <div style="font-family: 'Noto Serif Devanagari', serif;">नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र</div>
+</div>
+
+<div class="test-row">
+  <div class="label">4. "Hind":</div>
+  <div style="font-family: 'Hind', sans-serif;">नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र</div>
+</div>
+
+<div class="test-row">
+  <div class="label">5. "Nirmala UI" (Windows default):</div>
+  <div style="font-family: 'Nirmala UI', sans-serif;">नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र</div>
+</div>
+
+<div class="test-row">
+  <div class="label">6. "Mangal" (Windows Hindi font):</div>
+  <div style="font-family: 'Mangal', sans-serif;">नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र</div>
+</div>
+
+<div class="test-row">
+  <div class="label">7. With letter-spacing: 0:</div>
+  <div style="font-family: 'Noto Sans Devanagari', sans-serif; letter-spacing: 0;">नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र</div>
+</div>
+
+<div class="test-row">
+  <div class="label">8. With letter-spacing: -0.025em (tracking-tight):</div>
+  <div style="font-family: 'Noto Sans Devanagari', sans-serif; letter-spacing: -0.025em;">नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र</div>
+</div>
+
+<div class="test-row">
+  <div class="label">9. With font-feature-settings:</div>
+  <div style="font-family: 'Noto Sans Devanagari', sans-serif; font-feature-settings: 'akhn', 'rphf', 'half', 'pres', 'abvs', 'blws', 'psts', 'haln';">नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर, महाराष्ट्र</div>
+</div>
+
+</body>
+</html>

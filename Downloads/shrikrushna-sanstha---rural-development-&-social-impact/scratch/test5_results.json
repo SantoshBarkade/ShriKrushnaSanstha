@@ -1,0 +1,271 @@
+{
+  "directResults": [
+    {
+      "route": "home",
+      "hash": "#/home",
+      "title": "श्रीकृष्ण सांस्कृतिक व ग्रामीण विकास संस्था | नादरपूर, ता. कन्नड, जि. छत्रपती संभाजीनगर",
+      "bodyTextLen": 3373,
+      "hasContent": true,
+      "hasCrash": false
+    },
+    {
+      "route": "about",
+      "hash": "#/about",
+      "title": "संस्थेविषयी परिचय व उद्दिष्टे | श्रीकृष्ण संस्था, नादरपूर",
+      "bodyTextLen": 9545,
+      "hasContent": true,
+      "hasCrash": false
+    },
+    {
+      "route": "officials",
+      "hash": "#/officials",
+      "title": "विश्वस्त मंडळ व पदाधिकारी | श्रीकृष्ण संस्था, नादरपूर",
+      "bodyTextLen": 3021,
+      "hasContent": true,
+      "hasCrash": false
+    },
+    {
+      "route": "initiatives",
+      "hash": "#/initiatives",
+      "title": "उपक्रम व समाजकल्याण कार्य | श्रीकृष्ण संस्था",
+      "bodyTextLen": 4143,
+      "hasContent": true,
+      "hasCrash": false
+    },
+    {
+      "route": "schemes",
+      "hash": "#/schemes",
+      "title": "शासकीय कल्याणकारी योजना व लोककल्याण कक्ष | श्रीकृष्ण संस्था",
+      "bodyTextLen": 3153,
+      "hasContent": true,
+      "hasCrash": false
+    },
+    {
+      "route": "work",
+      "hash": "#/work",
+      "title": "कार्यप्रगती व उपक्रम कालरेषा | श्रीकृष्ण संस्था",
+      "bodyTextLen": 2964,
+      "hasContent": true,
+      "hasCrash": false
+    },
+    {
+      "route": "gallery",
+      "hash": "#/gallery",
+      "title": "छायाचित्र गॅलरी व अल्बम | श्रीकृष्ण संस्था",
+      "bodyTextLen": 2476,
+      "hasContent": true,
+      "hasCrash": false
+    },
+    {
+      "route": "videos",
+      "hash": "#/videos",
+      "title": "व्हिडिओ संग्रह व उपक्रम वार्ता | श्रीकृष्ण संस्था",
+      "bodyTextLen": 2696,
+      "hasContent": true,
+      "hasCrash": false
+    },
+    {
+      "route": "reports",
+      "hash": "#/reports",
+      "title": "वार्षिक अहवाल व माहितीपत्रके | श्रीकृष्ण संस्था",
+      "bodyTextLen": 2540,
+      "hasContent": true,
+      "hasCrash": false
+    },
+    {
+      "route": "news",
+      "hash": "#/news",
+      "title": "बातम्या व कार्यक्रम घोषणा | श्रीकृष्ण संस्था",
+      "bodyTextLen": 2825,
+      "hasContent": true,
+      "hasCrash": false
+    },
+    {
+      "route": "volunteer",
+      "hash": "#/volunteer",
+      "title": "स्वयंसेवक नोंदणी अर्ज | श्रीकृष्ण संस्था",
+      "bodyTextLen": 3965,
+      "hasContent": true,
+      "hasCrash": false
+    },
+    {
+      "route": "contact",
+      "hash": "#/contact",
+      "title": "संपर्क कार्यालय व विचारणा | श्रीकृष्ण संस्था, नादरपूर",
+      "bodyTextLen": 2594,
+      "hasContent": true,
+      "hasCrash": false
+    },
+    {
+      "route": "privacy",
+      "hash": "#/privacy",
+      "title": "गोपनीयता धोरण व डेटा सुरक्षा | श्रीकृष्ण संस्था",
+      "bodyTextLen": 5304,
+      "hasContent": true,
+      "hasCrash": false
+    },
+    {
+      "route": "terms",
+      "hash": "#/terms",
+      "title": "अटी व शर्ती (सेवा नियम) | श्रीकृष्ण संस्था",
+      "bodyTextLen": 3319,
+      "hasContent": true,
+      "hasCrash": false
+    },
+    {
+      "route": "sitemap",
+      "hash": "#/sitemap",
+      "title": "संकेतस्थळ नकाशा (Sitemap) | श्रीकृष्ण संस्था",
+      "bodyTextLen": 3306,
+      "hasContent": true,
+      "hasCrash": false
+    },
+    {
+      "route": "admin",
+      "hash": "#/admin",
+      "title": "प्रशासकीय सीएमएस पोर्टल | श्रीकृष्ण संस्था",
+      "bodyTextLen": 207,
+      "hasContent": true,
+      "hasCrash": false
+    }
+  ],
+  "historyRes": {
+    "navigatedToAbout": "#/about",
+    "navigatedToContact": "#/contact",
+    "historyBack": "#/about",
+    "historyForward": "#/contact",
+    "isHistoryWorking": true
+  },
+  "typographyRes": {
+    "fontFamily": "\"Noto Sans Devanagari\", Hind, \"Nirmala UI\", system-ui, -apple-system, sans-serif",
+    "containsShrikrushna": true,
+    "containsChhatrapati": true,
+    "containsNadarpur": true,
+    "containsMaharashtra": true
+  },
+  "langToggleRes": {
+    "en": {
+      "htmlLang": "en",
+      "hasEnglishAbout": true
+    },
+    "mr": {
+      "htmlLang": "mr",
+      "hasMarathiAbout": true
+    }
+  },
+  "overflowResults": [
+    {
+      "vp": "Desktop 1440",
+      "route": "home",
+      "scrollW": 1425,
+      "clientW": 1440,
+      "hasHorizontalOverflow": false
+    },
+    {
+      "vp": "Desktop 1440",
+      "route": "schemes",
+      "scrollW": 1425,
+      "clientW": 1440,
+      "hasHorizontalOverflow": false
+    },
+    {
+      "vp": "Desktop 1440",
+      "route": "gallery",
+      "scrollW": 1425,
+      "clientW": 1440,
+      "hasHorizontalOverflow": false
+    },
+    {
+      "vp": "Desktop 1440",
+      "route": "contact",
+      "scrollW": 1425,
+      "clientW": 1440,
+      "hasHorizontalOverflow": false
+    },
+    {
+      "vp": "Desktop 1280",
+      "route": "home",
+      "scrollW": 1265,
+      "clientW": 1280,
+      "hasHorizontalOverflow": false
+    },
+    {
+      "vp": "Desktop 1280",
+      "route": "schemes",
+      "scrollW": 1265,
+      "clientW": 1280,
+      "hasHorizontalOverflow": false
+    },
+    {
+      "vp": "Desktop 1280",
+      "route": "gallery",
+      "scrollW": 1265,
+      "clientW": 1280,
+      "hasHorizontalOverflow": false
+    },
+    {
+      "vp": "Desktop 1280",
+      "route": "contact",
+      "scrollW": 1265,
+      "clientW": 1280,
+      "hasHorizontalOverflow": false
+    },
+    {
+      "vp": "Mobile 390",
+      "route": "home",
+      "scrollW": 390,
+      "clientW": 390,
+      "hasHorizontalOverflow": false
+    },
+    {
+      "vp": "Mobile 390",
+      "route": "schemes",
+      "scrollW": 390,
+      "clientW": 390,
+      "hasHorizontalOverflow": false
+    },
+    {
+      "vp": "Mobile 390",
+      "route": "gallery",
+      "scrollW": 390,
+      "clientW": 390,
+      "hasHorizontalOverflow": false
+    },
+    {
+      "vp": "Mobile 390",
+      "route": "contact",
+      "scrollW": 390,
+      "clientW": 390,
+      "hasHorizontalOverflow": false
+    },
+    {
+      "vp": "Mobile 360",
+      "route": "home",
+      "scrollW": 360,
+      "clientW": 360,
+      "hasHorizontalOverflow": false
+    },
+    {
+      "vp": "Mobile 360",
+      "route": "schemes",
+      "scrollW": 360,
+      "clientW": 360,
+      "hasHorizontalOverflow": false
+    },
+    {
+      "vp": "Mobile 360",
+      "route": "gallery",
+      "scrollW": 360,
+      "clientW": 360,
+      "hasHorizontalOverflow": false
+    },
+    {
+      "vp": "Mobile 360",
+      "route": "contact",
+      "scrollW": 360,
+      "clientW": 360,
+      "hasHorizontalOverflow": false
+    }
+  ],
+  "allOverflowPass": true
+}
